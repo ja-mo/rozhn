@@ -48,7 +48,7 @@
 ### 1️⃣ دریافت کد
 
 ```bash
-git clone https://github.com/yourusername/rozhn.git
+git clone https://github.com/ja-mo/rozhn.git
 cd rozhn
 ```
 
@@ -398,8 +398,7 @@ ls -la | grep .env
 ## 👨‍💻 نویسنده
 
 **Mohammad Jamalzadeh**
-- 📧 Email: your.email@example.com
-- 🔗 GitHub: [@yourusername](https://github.com/yourusername)
+- 🔗 GitHub: [@yourusername](https://github.com/ja-mo)
 
 ---
 
