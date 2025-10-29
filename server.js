@@ -7,9 +7,10 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 app.use(cors());
 
-// متن عربی سوره (مثلاً یاسین = 36)
+// متن عربی سوره با رسم‌الخط انتخابی (uthmani یا imlaei)
 app.get('/api/surah/:id', (req, res) => {
-  const file = path.join('data/chapters/imlaei', `${req.params.id}.json`);
+  const script = req.query.script || 'uthmani';
+  const file = path.join('data/chapters', script, req.params.id, 'surah.json');
   if (fs.existsSync(file)) {
     res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
   } else {
@@ -17,13 +18,25 @@ app.get('/api/surah/:id', (req, res) => {
   }
 });
 
-// ترجمه سوره به زبان خاص (fa, en, ...)
-app.get('/api/surah/:id/translation/:lang', (req, res) => {
-  const file = path.join('data/translations', req.params.lang, `${req.params.id}.json`);
+// ترجمه فارسی با شناسه ترجمه (مثلاً 135)
+app.get('/api/surah/:id/translation/:translationId', (req, res) => {
+  const script = req.query.script || 'uthmani';
+  const file = path.join('data/chapters', script, req.params.id, `translation_${req.params.translationId}.json`);
   if (fs.existsSync(file)) {
     res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
   } else {
     res.status(404).json({ error: 'Translation not found' });
+  }
+});
+
+// متن عربی همراه ترجمه فارسی ترکیبی
+app.get('/api/surah/:id/combined/:translationId', (req, res) => {
+  const script = req.query.script || 'uthmani';
+  const file = path.join('data/chapters', script, req.params.id, `combined_${req.params.translationId}.json`);
+  if (fs.existsSync(file)) {
+    res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
+  } else {
+    res.status(404).json({ error: 'Combined text not found' });
   }
 });
 
@@ -37,17 +50,7 @@ app.get('/api/tafsir/:id', (req, res) => {
   }
 });
 
-// لیست قاریان
-app.get('/api/reciters', (req, res) => {
-  const file = path.join('data/resources/recitations.json');
-  if (fs.existsSync(file)) {
-    res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
-  } else {
-    res.status(404).json({ error: 'Reciter list not found' });
-  }
-});
-
-// لیست ترجمه‌ها
+// لیست ترجمه‌های موجود
 app.get('/api/translations', (req, res) => {
   const file = path.join('data/resources/translations.json');
   if (fs.existsSync(file)) {
@@ -57,13 +60,23 @@ app.get('/api/translations', (req, res) => {
   }
 });
 
-// فایل صوتی یک سوره از یک قاری خاص
-app.get('/api/audio/:reciter/:id', (req, res) => {
-  const file = path.join('data/reciters', req.params.reciter, `${req.params.id}.mp3`);
+// لیست قاریان برجسته
+app.get('/api/reciters', (req, res) => {
+  const file = path.join('data/resources/recitations.json');
   if (fs.existsSync(file)) {
-    res.sendFile(path.resolve(file));
+    res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
   } else {
-    res.status(404).json({ error: 'Audio not found' });
+    res.status(404).json({ error: 'Reciter list not found' });
+  }
+});
+
+// اطلاعات یک قاری خاص از یک سبک خاص
+app.get('/api/reciter/:style/:filename', (req, res) => {
+  const file = path.join('data/reciters', req.params.style, `${req.params.filename}.json`);
+  if (fs.existsSync(file)) {
+    res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
+  } else {
+    res.status(404).json({ error: 'Reciter info not found' });
   }
 });
 
