@@ -1,0 +1,446 @@
+{
+  "id": 85,
+  "name": "The Mansions of the Stars",
+  "verses": [
+    {
+      "id": 5910,
+      "verse_number": 1,
+      "verse_key": "85:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928575,
+          "resource_id": 135,
+          "text": "سوگند به آسمان که دارندۀ بُرج‌هاست،"
+        }
+      ]
+    },
+    {
+      "id": 5911,
+      "verse_number": 2,
+      "verse_key": "85:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928576,
+          "resource_id": 135,
+          "text": "و سوگند به روز موعود [قیامت]،"
+        }
+      ]
+    },
+    {
+      "id": 5912,
+      "verse_number": 3,
+      "verse_key": "85:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928577,
+          "resource_id": 135,
+          "text": "و سوگند به هر کس که گواهی دهد و به هر کس که مورد گواهی قرار گیرد."
+        }
+      ]
+    },
+    {
+      "id": 5913,
+      "verse_number": 4,
+      "verse_key": "85:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928578,
+          "resource_id": 135,
+          "text": "مرگ بر آدم‌سوزان خندق!"
+        }
+      ]
+    },
+    {
+      "id": 5914,
+      "verse_number": 5,
+      "verse_key": "85:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928579,
+          "resource_id": 135,
+          "text": "[همان آتشِ] افروخته از هیزم‌های بسیار [که مؤمنان را در آن می‌سوزاندند]؛"
+        }
+      ]
+    },
+    {
+      "id": 5915,
+      "verse_number": 6,
+      "verse_key": "85:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928580,
+          "resource_id": 135,
+          "text": "هنگامی ‌که بر [کنارۀ] آن نشسته بودند"
+        }
+      ]
+    },
+    {
+      "id": 5916,
+      "verse_number": 7,
+      "verse_key": "85:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928581,
+          "resource_id": 135,
+          "text": "و آنچه را با مؤمنان انجام می‌دادند، تماشا می‌کردند؛"
+        }
+      ]
+    },
+    {
+      "id": 5917,
+      "verse_number": 8,
+      "verse_key": "85:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928582,
+          "resource_id": 135,
+          "text": "و هیچ ایرادی از آنان [=مؤمنان] نگرفتند، جز اینکه به الله پیروزمندِ ستوده ایمان آورده بودند."
+        }
+      ]
+    },
+    {
+      "id": 5918,
+      "verse_number": 9,
+      "verse_key": "85:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928583,
+          "resource_id": 135,
+          "text": "[همان] ذاتی که فرمانروایی آسمان‌ها و زمین از آنِ اوست؛ و الله بر همه چیز گواه است."
+        }
+      ]
+    },
+    {
+      "id": 5919,
+      "verse_number": 10,
+      "verse_key": "85:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928584,
+          "resource_id": 135,
+          "text": "به راستی کسانی که مردان و زنان مؤمن را شکنجه [و آزار] دادند و پس [از انجام آن کار،] توبه نکردند، عذاب جهنم برایشان [مهیّا] است و عذاب آتش [در پیش دارند]."
+        }
+      ]
+    },
+    {
+      "id": 5920,
+      "verse_number": 11,
+      "verse_key": "85:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928585,
+          "resource_id": 135,
+          "text": "همانا برای کسانی ‌که ایمان آوردند و کار‌های شایسته کردند، باغ‌هایی [از بهشت] است که جویبارها زیر [درختان] آن جاری است؛ و این است کامیابی بزرگ."
+        }
+      ]
+    },
+    {
+      "id": 5921,
+      "verse_number": 12,
+      "verse_key": "85:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928586,
+          "resource_id": 135,
+          "text": "بی‌گمان، [مجازات و] گرفتن پروردگارت بسیار شدید است."
+        }
+      ]
+    },
+    {
+      "id": 5922,
+      "verse_number": 13,
+      "verse_key": "85:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928587,
+          "resource_id": 135,
+          "text": "در حقیقت، اوست که [آفرینش را] آغاز می‌کند و دوباره [بعد از مرگ] بازمی‌گرداند؛"
+        }
+      ]
+    },
+    {
+      "id": 5923,
+      "verse_number": 14,
+      "verse_key": "85:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928588,
+          "resource_id": 135,
+          "text": "و همو آمرزنده [و] دوستدار [مؤمنان] است."
+        }
+      ]
+    },
+    {
+      "id": 5924,
+      "verse_number": 15,
+      "verse_key": "85:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928589,
+          "resource_id": 135,
+          "text": "[الله] صاحب‌عرش [و] بلندمرتبه [و شکوهمند] است"
+        }
+      ]
+    },
+    {
+      "id": 5925,
+      "verse_number": 16,
+      "verse_key": "85:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928590,
+          "resource_id": 135,
+          "text": "[و] آنچه را بخواهد، انجام می‌دهد."
+        }
+      ]
+    },
+    {
+      "id": 5926,
+      "verse_number": 17,
+      "verse_key": "85:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928591,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] آیا داستان لشکر‌یان [حق‌ستیز] به تو رسیده است؟"
+        }
+      ]
+    },
+    {
+      "id": 5927,
+      "verse_number": 18,
+      "verse_key": "85:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِرْعَوْنَ وَثَمُودَ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928592,
+          "resource_id": 135,
+          "text": "[لشکر] فرعون و [قوم] ثمود."
+        }
+      ]
+    },
+    {
+      "id": 5928,
+      "verse_number": 19,
+      "verse_key": "85:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928593,
+          "resource_id": 135,
+          "text": "بلکه کسانی ‌که کافر شدند، پیوسته در تکذیب [حق] هستند،"
+        }
+      ]
+    },
+    {
+      "id": 5929,
+      "verse_number": 20,
+      "verse_key": "85:20",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928594,
+          "resource_id": 135,
+          "text": "و الله از هر سو بر آنان احاطه دارد."
+        }
+      ]
+    },
+    {
+      "id": 5930,
+      "verse_number": 21,
+      "verse_key": "85:21",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928595,
+          "resource_id": 135,
+          "text": "آری، این [آیات، شعر و سحر نیست؛ بلکه] قرآن شکوهمند است."
+        }
+      ]
+    },
+    {
+      "id": 5931,
+      "verse_number": 22,
+      "verse_key": "85:22",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928596,
+          "resource_id": 135,
+          "text": "در لوح محفوظ [از هر گونه تحریف و تبدیل، در امان] است."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 111,
+  "name": "The Palm Fiber",
+  "verses": [
+    {
+      "id": 6217,
+      "verse_number": 1,
+      "verse_key": "111:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "page_number": 603,
+      "juz_number": 30
+    },
+    {
+      "id": 6218,
+      "verse_number": 2,
+      "verse_key": "111:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "page_number": 603,
+      "juz_number": 30
+    },
+    {
+      "id": 6219,
+      "verse_number": 3,
+      "verse_key": "111:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "page_number": 603,
+      "juz_number": 30
+    },
+    {
+      "id": 6220,
+      "verse_number": 4,
+      "verse_key": "111:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "page_number": 603,
+      "juz_number": 30
+    },
+    {
+      "id": 6221,
+      "verse_number": 5,
+      "verse_key": "111:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "page_number": 603,
+      "juz_number": 30
+    }
+  ]
+}

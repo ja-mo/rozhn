@@ -1,0 +1,329 @@
+{
+  "id": 86,
+  "name": "The Nightcommer",
+  "verses": [
+    {
+      "id": 5932,
+      "verse_number": 1,
+      "verse_key": "86:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928597,
+          "resource_id": 135,
+          "text": "سوگند به آسمان و سوگند به ستارۀ شبگرد."
+        }
+      ]
+    },
+    {
+      "id": 5933,
+      "verse_number": 2,
+      "verse_key": "86:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928598,
+          "resource_id": 135,
+          "text": "و تو چه می‌دانی که ستارۀ شبگرد چیست؟"
+        }
+      ]
+    },
+    {
+      "id": 5934,
+      "verse_number": 3,
+      "verse_key": "86:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928599,
+          "resource_id": 135,
+          "text": "[همان] ستارۀ فروزان است."
+        }
+      ]
+    },
+    {
+      "id": 5935,
+      "verse_number": 4,
+      "verse_key": "86:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928600,
+          "resource_id": 135,
+          "text": "هیچ کس نیست، مگر اینکه نگهبانی [از فرشتگان] بر او[گماشته شده] است."
+        }
+      ]
+    },
+    {
+      "id": 5936,
+      "verse_number": 5,
+      "verse_key": "86:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928601,
+          "resource_id": 135,
+          "text": "انسان باید بنگرد که از چه چیز آفریده شده است:"
+        }
+      ]
+    },
+    {
+      "id": 5937,
+      "verse_number": 6,
+      "verse_key": "86:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928602,
+          "resource_id": 135,
+          "text": "از یک آب جهنده آفریده شده"
+        }
+      ]
+    },
+    {
+      "id": 5938,
+      "verse_number": 7,
+      "verse_key": "86:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928603,
+          "resource_id": 135,
+          "text": "که از میان [استخوانِ] پشت [مرد] و سینۀ [زن] بیرون می‌آید."
+        }
+      ]
+    },
+    {
+      "id": 5939,
+      "verse_number": 8,
+      "verse_key": "86:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928604,
+          "resource_id": 135,
+          "text": "بی‌گمان، الله بر بازگرداندن او [پس از مرگ] تواناست."
+        }
+      ]
+    },
+    {
+      "id": 5940,
+      "verse_number": 9,
+      "verse_key": "86:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928605,
+          "resource_id": 135,
+          "text": "روزی ‌که [تمام] رازها فاش شود،"
+        }
+      ]
+    },
+    {
+      "id": 5941,
+      "verse_number": 10,
+      "verse_key": "86:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928606,
+          "resource_id": 135,
+          "text": "[در آن روز،] انسان هیچ توان و یاوری ندارد."
+        }
+      ]
+    },
+    {
+      "id": 5942,
+      "verse_number": 11,
+      "verse_key": "86:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928607,
+          "resource_id": 135,
+          "text": "سوگند به آسمان پرباران"
+        }
+      ]
+    },
+    {
+      "id": 5943,
+      "verse_number": 12,
+      "verse_key": "86:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928608,
+          "resource_id": 135,
+          "text": "و سوگند به زمینِ پرشکاف [که گیاهان از آن سر برمی‌آورند]."
+        }
+      ]
+    },
+    {
+      "id": 5944,
+      "verse_number": 13,
+      "verse_key": "86:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928609,
+          "resource_id": 135,
+          "text": "[که] بی‌گمان، این قرآن، سخن جداکنندۀ حق از باطل است"
+        }
+      ]
+    },
+    {
+      "id": 5945,
+      "verse_number": 14,
+      "verse_key": "86:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928610,
+          "resource_id": 135,
+          "text": "و [سخنِ] هزل و بیهوده نیست."
+        }
+      ]
+    },
+    {
+      "id": 5946,
+      "verse_number": 15,
+      "verse_key": "86:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928611,
+          "resource_id": 135,
+          "text": "آنان [= کافران] پیوسته حیله و نیرنگ می‌کنند"
+        }
+      ]
+    },
+    {
+      "id": 5947,
+      "verse_number": 16,
+      "verse_key": "86:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928612,
+          "resource_id": 135,
+          "text": "و من [نیز] حیله [و تدبیر] می‌کنم؛"
+        }
+      ]
+    },
+    {
+      "id": 5948,
+      "verse_number": 17,
+      "verse_key": "86:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 530,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928613,
+          "resource_id": 135,
+          "text": "پس به کافران مهلت بده [و] اندکی رهایشان کن [تا غرق گناه باشند]."
+        }
+      ]
+    }
+  ]
+}

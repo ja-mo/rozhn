@@ -1,0 +1,1906 @@
+{
+  "id": 11,
+  "name": "Hud",
+  "verses": [
+    {
+      "id": 1474,
+      "verse_number": 1,
+      "verse_key": "11:1",
+      "hizb_number": 22,
+      "rub_el_hizb_number": 88,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 221,
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 924139,
+          "resource_id": 135,
+          "text": "الر [= الف. لام. را]. این [قرآن،] كتابى است كه آیات آن استحكام یافته [که هیچ خلل و نقصانی در آن وجود ندارد]، سپس از جانب [ذات] حكیمى آگاه، به روشنى بیان شده است."
+        }
+      ]
+    },
+    {
+      "id": 1475,
+      "verse_number": 2,
+      "verse_key": "11:2",
+      "hizb_number": 22,
+      "rub_el_hizb_number": 88,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 221,
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 924140,
+          "resource_id": 135,
+          "text": "[پیام پیامبر این است] که جز الله را عبادت نکنید [که] بی‌تردید، من از سوی او برایتان بیم‌دهنده و بشارتگر هستم."
+        }
+      ]
+    },
+    {
+      "id": 1476,
+      "verse_number": 3,
+      "verse_key": "11:3",
+      "hizb_number": 22,
+      "rub_el_hizb_number": 88,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 221,
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 924141,
+          "resource_id": 135,
+          "text": "و اینکه از پروردگارتان آمرزش بخواهید، سپس به درگاهش توبه کنید تا شما را [در زندگی دنیا‌] تا سرآمدی معیّن، به خیر و خوبی بهره‌مند سازد و به هر صاحب فضیلتی [که الله را به یگانگی عبادت نموده و نیکوکاری پیشه کرده است، پاداش و] فزونی بخشد؛ و اگر [از ایمان] روی بگردانید، [بدانید که من] به راستی از عذاب روزی سهمگین برایتان می‌ترسم‌."
+        }
+      ]
+    },
+    {
+      "id": 1477,
+      "verse_number": 4,
+      "verse_key": "11:4",
+      "hizb_number": 22,
+      "rub_el_hizb_number": 88,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 221,
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 924142,
+          "resource_id": 135,
+          "text": "[شما ای مردم،] بازگشتتان به سوى الله است و او بر هر چیزى تواناست."
+        }
+      ]
+    },
+    {
+      "id": 1478,
+      "verse_number": 5,
+      "verse_key": "11:5",
+      "hizb_number": 22,
+      "rub_el_hizb_number": 88,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 221,
+      "juz_number": 11,
+      "translations": [
+        {
+          "id": 924143,
+          "resource_id": 135,
+          "text": "آگاه باشید! آنها [کفر را] در سینه‌هایشان نهان می‌کنند تا آن را از او [= الله] پنهان دارند. آگاه باشید! آنگاه كه آنان جامه‌هایشان را بر سر مى‌كشند، الله آنچه پنهان می‌سازند و آنچه آشكار مى‌دارند، [همه را] مى‌داند. بی‌تردید، او به اسرارِ سینه‌ها داناست."
+        }
+      ]
+    },
+    {
+      "id": 1479,
+      "verse_number": 6,
+      "verse_key": "11:6",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 222,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924144,
+          "resource_id": 135,
+          "text": "و هیچ جنبنده‌اى در زمین نیست، مگر [اینكه‌] روزی‌اش بر عهدۀ الله است و [او] قرارگاه و محل مرگش را مى‌داند. همه [اینها] در كتابى روشن [ثبت‌] است."
+        }
+      ]
+    },
+    {
+      "id": 1480,
+      "verse_number": 7,
+      "verse_key": "11:7",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 222,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924145,
+          "resource_id": 135,
+          "text": "و اوست كه آسمان‌ها و زمین را در شش روز آفرید و [پیش از آن،] عرشِ او بر آب بود، تا شما را بیازماید كه كدامتان نیكوكارترید. و اگر [به مشرکان] بگویى: «شما پس از مرگ برانگیخته مى‌شوید»، كسانى كه كفر ورزیدند می‌گویند: «این [قرآن چیزی] نیست مگر جادویی آشكار»."
+        }
+      ]
+    },
+    {
+      "id": 1481,
+      "verse_number": 8,
+      "verse_key": "11:8",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 183,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 222,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924146,
+          "resource_id": 135,
+          "text": "و اگر ما عذابشان را تا مدت محدودی به تأخیر بیندازیم، البته [از روی تمسخر] می‌گویند: «چه چیزی مانع [وقوعِ] آن شده است؟» آگاه باشید! روزی‌ که [عذاب] به سراغشان بیاید، از آنان بازگردانده نخواهد شد و آنچه را به مسخره می‌گرفتند، دامنگیرشان خواهد شد."
+        }
+      ]
+    },
+    {
+      "id": 1482,
+      "verse_number": 9,
+      "verse_key": "11:9",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 222,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924147,
+          "resource_id": 135,
+          "text": "و اگر از جانب خویش رحمتی به انسان بچشانیم، سپس آن را از او بگیریم، قطعاً دلسرد [و] ناسپاس می‌گردد."
+        }
+      ]
+    },
+    {
+      "id": 1483,
+      "verse_number": 10,
+      "verse_key": "11:10",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 222,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924148,
+          "resource_id": 135,
+          "text": "و اگر پس از رنجی كه به او رسیده است نعمتى به او بچشانیم قطعاً می‌گوید: «سختی‌ها [و ناگواری‌ها] از من دور شد». حقا که او [از روی ناسپاسی] سَرخوش و [به داشتن نعمت‌ها] فخرفروش است."
+        }
+      ]
+    },
+    {
+      "id": 1484,
+      "verse_number": 11,
+      "verse_key": "11:11",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 222,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924149,
+          "resource_id": 135,
+          "text": "مگر کسانی ‌که شکیبایی نمودند و کارهای نیکو انجام دادند [که] برای اینان آمرزش و پاداش بزرگی [در پیش] است."
+        }
+      ]
+    },
+    {
+      "id": 1485,
+      "verse_number": 12,
+      "verse_key": "11:12",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 222,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924150,
+          "resource_id": 135,
+          "text": "و [ای پیامبر،] مبادا [ابلاغِ] برخى از آنچه را كه به سویت وحى مى‌شود ترک کنی و سینه‌ات از آن به تنگ آید که [مشرکان] مى‌گویند: «چرا گنجى بر او نازل نگشته است یا فرشته‌اى با او نیامده است؟». جز این نیست که تو فقط بیم‌دهنده‌اى و الله [مراقب و] کارگزارِ هر چیزى است."
+        }
+      ]
+    },
+    {
+      "id": 1486,
+      "verse_number": 13,
+      "verse_key": "11:13",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 223,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924151,
+          "resource_id": 135,
+          "text": "یا می‌گویند: «[محمد] آن [کتاب‌] را برساخته است». بگو: «اگر راست می‌گویید، ده سورۀ برساخته همانند آن بیاورید و جز الله هر ‌کس را می‌توانید به یاری بخوانید»."
+        }
+      ]
+    },
+    {
+      "id": 1487,
+      "verse_number": 14,
+      "verse_key": "11:14",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 223,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924152,
+          "resource_id": 135,
+          "text": "پس اگر آنان دعوتتان را نپذیرفتند، بدانید که [قرآن] فقط به علم الله نازل شده است و اینکه هیچ معبودی [به‌حق] جز او نیست؛ پس آیا تسلیم [امرِ الله و پیامبر] مى‌شوید؟"
+        }
+      ]
+    },
+    {
+      "id": 1488,
+      "verse_number": 15,
+      "verse_key": "11:15",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 223,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924153,
+          "resource_id": 135,
+          "text": "کسانی که زندگی دنیا و زیور آن را می‌خواهند، [پاداش] کارهایشان را در این [دنیا] به تمامی به آنان می‌دهیم و در آن [پاداش، هیچ] کم و کاستی نخواهند دید."
+        }
+      ]
+    },
+    {
+      "id": 1489,
+      "verse_number": 16,
+      "verse_key": "11:16",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 223,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924154,
+          "resource_id": 135,
+          "text": "اینان کسانی هستند که در آخرت جز آتش [دوزخ، هیچ نصیبی] نخواهند داشت و آنچه در دنیا انجام داده‌اند، بر باد رفته است و آنچه می‌کردند، تباه است."
+        }
+      ]
+    },
+    {
+      "id": 1490,
+      "verse_number": 17,
+      "verse_key": "11:17",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 223,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924155,
+          "resource_id": 135,
+          "text": "آیا کسی که از سوی پروردگارش بر دلیل روشنی [از بصیرت و بینش] متکی باشد و [قرآن، به عنوان] گواهی از جانب او [تعالی] به دنبال آن آید [و آن را تصدیق نماید]، و قبل از آن [= قرآن]، کتاب موسی که پیشوا و مایۀ رحمت بود [بر حقانیّت آن گواهی می‌دهد، همانند کافران گمراه است که چنین دلایلی ندارند؟!] اینان [= مسلمانان] به آن [کتاب] ایمان دارند؛ و هر کسی از گروه‌ها[ی مختلف مشرکان] که به آن کفر بورزد [و آن را انکار کند] آتش دوزخ وعده‌گاهِ اوست. پس [ای پیامبر،] از [قرآن و حقیقتِ وعده‌های‌] آن در تردید مباش. بی‌تردید، آن [کتابی] راست و درست از سوی پروردگار توست؛ ولی بیشتر مردم ایمان نمی‌آورند."
+        }
+      ]
+    },
+    {
+      "id": 1491,
+      "verse_number": 18,
+      "verse_key": "11:18",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 223,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924156,
+          "resource_id": 135,
+          "text": "و کیست ستمکارتر از آن کس که [با نسبت دادن فرزند یا شریک،] بر الله دروغ می‌بندد؟ آنان [روز قیامت] بر پروردگارشان عرضه می‌شوند و گواهان [= پیامبران و فرشتگان] می‌گویند: «اینها همان کسانی هستند که بر پروردگارشان دروغ می‌بستند». هان! لعنت الله بر ستمکاران [مشرک] باد!"
+        }
+      ]
+    },
+    {
+      "id": 1492,
+      "verse_number": 19,
+      "verse_key": "11:19",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 223,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924157,
+          "resource_id": 135,
+          "text": "[همان] کسانی ‌که [مردم را] از راه الله بازمی‌دارند و آن را منحرف می‌خواهند؛ و همان‌ها آخرت را باور ندارند."
+        }
+      ]
+    },
+    {
+      "id": 1493,
+      "verse_number": 20,
+      "verse_key": "11:20",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924158,
+          "resource_id": 135,
+          "text": "آنان در زمین ناتوان‌کننده[ی الله از وقوع عذاب خویش] نیستند و جز الله، دوستانى ندارند. عذاب برایشان چندین برابر مى‌شود [چرا که] آنان نه توان شنیدن [حق را] داشتند و نه [حقایق را] مى‌دیدند."
+        }
+      ]
+    },
+    {
+      "id": 1494,
+      "verse_number": 21,
+      "verse_key": "11:21",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924159,
+          "resource_id": 135,
+          "text": "آنان کسانی هستند كه به خویش زیان زدند و دروغ‌هایی که می‌بافتند، [همه] محو و نابود شد."
+        }
+      ]
+    },
+    {
+      "id": 1495,
+      "verse_number": 22,
+      "verse_key": "11:22",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924160,
+          "resource_id": 135,
+          "text": "ناگزیر، آنان در آخرت از همه زیانکارترند."
+        }
+      ]
+    },
+    {
+      "id": 1496,
+      "verse_number": 23,
+      "verse_key": "11:23",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 89,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924161,
+          "resource_id": 135,
+          "text": "کسانی که ایمان آورده‌اند و کارهای شایسته کرده‌اند و در برابر پروردگارشان فروتنی نموده‌اند، اینان یقیناً بهشتی‌اند [و] هم اینان در آن جاودانند."
+        }
+      ]
+    },
+    {
+      "id": 1497,
+      "verse_number": 24,
+      "verse_key": "11:24",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 184,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924162,
+          "resource_id": 135,
+          "text": "مَثَل این دو گروه [کافر و مؤمن]، همانند نابینا و ناشنوا [از یک سو] و بینا و شنوا [از سوی دیگر] است. آیا با یکدیگر برابرند؟ آیا پند نمی‌گیرید؟"
+        }
+      ]
+    },
+    {
+      "id": 1498,
+      "verse_number": 25,
+      "verse_key": "11:25",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924163,
+          "resource_id": 135,
+          "text": "و به راستی ما نوح را به سوی قومش فرستادیم [با این پیام] که: «به راستی که من بیم‌دهنده‌ای‌ آشکار برایتان هستم."
+        }
+      ]
+    },
+    {
+      "id": 1499,
+      "verse_number": 26,
+      "verse_key": "11:26",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924164,
+          "resource_id": 135,
+          "text": "جز الله را عبادت نکنید [که] بی‌تردید، من از عذاب روزی دردناک بر شما می‌ترسم»."
+        }
+      ]
+    },
+    {
+      "id": 1500,
+      "verse_number": 27,
+      "verse_key": "11:27",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924165,
+          "resource_id": 135,
+          "text": "بزرگانی از قوم او که کفر ورزیده بودند، [در پاسخ] گفتند: «تو را جز بشری همانند خویش نمی‌بینیم و جز فرومایگان ما ـ [آن هم ندانسته و‌] نسنجیده‌‌ـ [کسی دیگر را] نمی‌بینیم که از تو پیروی کرده باشد؛ و برایتان [هیچ] برتری‌ای بر خود نمی‌بینیم؛ بلکه شما را دروغگو می‌پنداریم»‌."
+        }
+      ]
+    },
+    {
+      "id": 1501,
+      "verse_number": 28,
+      "verse_key": "11:28",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 224,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924166,
+          "resource_id": 135,
+          "text": "[نوح] گفت: «ای قوم من، به من بگویید [که] اگر از سوی پروردگارم دلیل [و معجزۀ] آشکاری داشته باشم و او از جانب خویش رحمتی [= نبوت] به من بخشیده باشد و [این موهبت] از دید شما پوشیده باشد، آیا ما می‌توانیم شما را به [پذیرشِ] آن وادار کنیم و حال آنکه کراهت دارید؟"
+        }
+      ]
+    },
+    {
+      "id": 1502,
+      "verse_number": 29,
+      "verse_key": "11:29",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924167,
+          "resource_id": 135,
+          "text": "و ای قوم من، برای این [رسالت‌، من هیچ ثروت و] مالى از شما درخواست نمى‌كنم. پاداش من جز بر [عهدۀ] الله نیست؛ و كسانى را كه ایمان آورده‌اند از خود نمى‌رانم. بی‌تردید، [روز قیامت] آنان ملاقات‌کنندۀ پروردگارِ خویشند؛ ولی من شما را گروهی مى‌بینم که نادانی می‌کنید."
+        }
+      ]
+    },
+    {
+      "id": 1503,
+      "verse_number": 30,
+      "verse_key": "11:30",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924168,
+          "resource_id": 135,
+          "text": "و ای قوم من، اگر من آنان[= مومنان] را طرد کنم، کیست که مرا در برابر [کیفرِ] الله یاری رساند؟ پس آیا پند نمی‌گیرید؟"
+        }
+      ]
+    },
+    {
+      "id": 1504,
+      "verse_number": 31,
+      "verse_key": "11:31",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924169,
+          "resource_id": 135,
+          "text": "و به شما نمى‌گویم كه گنجینه‌هاى الله نزد من است و غیب [نیز] نمى‌دانم و نمى‌گویم كه من فرشته‌ام و دربارۀ كسانى كه به چشم شما حقیر مى‌آیند، نمى‌گویم كه الله خیرى نصیبشان نخواهد كرد. الله به آنچه در دل‌هایشان وجود دارد آگاه‌تر است. [اگر چنین بگویم،‌] در آن صورت، قطعاً از ستمكاران خواهم بود»."
+        }
+      ]
+    },
+    {
+      "id": 1505,
+      "verse_number": 32,
+      "verse_key": "11:32",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924170,
+          "resource_id": 135,
+          "text": "[قومش] گفتند: «ای نوح، به راستی که با ما جدال کردی و بسیار [هم] جدال کردی؛ پس اگر راست می‌گویی، آنچه [از عذاب] را که به ما وعده می‌دهی بیاور»."
+        }
+      ]
+    },
+    {
+      "id": 1506,
+      "verse_number": 33,
+      "verse_key": "11:33",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924171,
+          "resource_id": 135,
+          "text": "[نوح] گفت: «تنها الله است كه اگر بخواهد، آن را بر [سرِ] شما مى‌آورَد و شما ناتوان‌کننده [او از عذاب کردن] نیستید."
+        }
+      ]
+    },
+    {
+      "id": 1507,
+      "verse_number": 34,
+      "verse_key": "11:34",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924172,
+          "resource_id": 135,
+          "text": "و اگر من بخواهم شما را نصیحت کنم، نصیحت کردنِ من سودی برایتان ندارد اگر الله بخواهد [که نابود و] گمراهتان سازد. او پروردگار شماست و [همگی] به سویش بازگردانده می‌شوید»."
+        }
+      ]
+    },
+    {
+      "id": 1508,
+      "verse_number": 35,
+      "verse_key": "11:35",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 185,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924173,
+          "resource_id": 135,
+          "text": "آیا [مشرکان] می‌گویند: «او [= محمد] این سخنان را به دروغ به الله نسبت داده است؟» بگو: «اگر من اینها را از پیش خود ساخته باشم و به او نسبت دهم، گناهش بر [عهدۀ] من است و[لی] من از گناهان شما بیزارم»."
+        }
+      ]
+    },
+    {
+      "id": 1509,
+      "verse_number": 36,
+      "verse_key": "11:36",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924174,
+          "resource_id": 135,
+          "text": "و به نوح وحی شد که: «از قوم تو ـ‌ جز کسانی که ایمان آورده‌اندـ دیگر هیچ کس ایمان نمی‌آورد؛ پس بر آنچه می‌کردند غم مخور."
+        }
+      ]
+    },
+    {
+      "id": 1510,
+      "verse_number": 37,
+      "verse_key": "11:37",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 225,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924175,
+          "resource_id": 135,
+          "text": "و [اکنون] کِشتی را زیر نظر ما و به وحی [و راهنماییِ] ما بساز و دربارۀ [گذشت از] كسانى كه ستم كردند با من سخن مگو [چرا که] آنها قطعاً غرق‌شدنى هستند»."
+        }
+      ]
+    },
+    {
+      "id": 1511,
+      "verse_number": 38,
+      "verse_key": "11:38",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924176,
+          "resource_id": 135,
+          "text": "و [نوح‌] کشتی را می‌ساخت و هر گاه بزرگانی از قومش بر او می‌گذشتند، مسخره‌اش می‌کردند. [او] می‌گفت: «اگر ما را مسخره کنید، ما [نیز] به همان صورت که ما را مسخره می‌کنید، شما را مسخره خواهیم کرد."
+        }
+      ]
+    },
+    {
+      "id": 1512,
+      "verse_number": 39,
+      "verse_key": "11:39",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924177,
+          "resource_id": 135,
+          "text": "به زودى خواهید دانست كه عذاب [الهى‌] سراغ چه كسى مى‌آید كه خوارش سازد و عذابى پایدار بر او فرود آید»."
+        }
+      ]
+    },
+    {
+      "id": 1513,
+      "verse_number": 40,
+      "verse_key": "11:40",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 90,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924178,
+          "resource_id": 135,
+          "text": "[این حالت همچنان ادامه داشت] تا زمانی که فرمان [عذاب] فرارسید و [آب از] تنور فوران كرد. [به نوح] گفتیم: «از هر [صنف حیوان] یک جفت [نر و ماده] در آن [کشتی] سوار کن و [همچنین] خاندان خود را؛ مگر کسی‌ که وعدۀ [هلاکت] قبلاً بر او مقرر شده است و [نیز] کسانی‌ را که ایمان آورده‌اند [سوار کن]»؛ و جز [افراد] اندکی همراه او ایمان نیاورده بودند."
+        }
+      ]
+    },
+    {
+      "id": 1514,
+      "verse_number": 41,
+      "verse_key": "11:41",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924179,
+          "resource_id": 135,
+          "text": "[نوح] گفت: «در آن [کشتی] سوار شوید. حرکت و توقفش با نام [و خواستِ] الله است. بی‌تردید، پروردگارم آمرزندۀ مهربان است»."
+        }
+      ]
+    },
+    {
+      "id": 1515,
+      "verse_number": 42,
+      "verse_key": "11:42",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924180,
+          "resource_id": 135,
+          "text": "و آن [كشتى‌،] آنان را در میان امواجى کوه‌پیکر [پیش] مى‌بُرد و نوح پسرش را كه در كنارى [ایستاده] بود صدا زد: «پسرم، با ما سوار شو و همراه كافران نباش»."
+        }
+      ]
+    },
+    {
+      "id": 1516,
+      "verse_number": 43,
+      "verse_key": "11:43",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924181,
+          "resource_id": 135,
+          "text": "[پسرِ نوح] گفت: «به کوهی پناه خواهم ‌برد که مرا از آب محافظت ‌کند». [نوح] گفت: «امروز هیچ نگهدارنده‌ای در برابر فرمان الله نیست، مگر کسی ‌که [الله] به او رحم کند» و[لی ناگاه] موج در میان آن دو فاصله انداخت؛ پس [پسر نوح نیز] از غرق‌‌شدگان گردید."
+        }
+      ]
+    },
+    {
+      "id": 1517,
+      "verse_number": 44,
+      "verse_key": "11:44",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924182,
+          "resource_id": 135,
+          "text": "و گفته شد: «ای زمین، آبت را فرو بَر و ای آسمان، [از باریدن] باز ایست؛ و آب فرونشست و کار به انجام رسید و [کشتی] بر [کوه] جودی قرار گرفت؛ و گفته شد: «دوری [از رحمت الهی] بر گروه ستمکاران باد!»"
+        }
+      ]
+    },
+    {
+      "id": 1518,
+      "verse_number": 45,
+      "verse_key": "11:45",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 226,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924183,
+          "resource_id": 135,
+          "text": "و نوح پروردگارش را ندا داد و گفت: «پروردگارا، پسرم از خاندان من است و بی‌گمان، وعدۀ تو [دربارۀ نجات خاندانم] حق است؛ و تو بهترین داوری»."
+        }
+      ]
+    },
+    {
+      "id": 1519,
+      "verse_number": 46,
+      "verse_key": "11:46",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924184,
+          "resource_id": 135,
+          "text": "[الله] فرمود: «ای نوح، در حقیقت، او از خاندان تو نیست. [کردارِ] او، کرداری ناشایست است. پس چیزی را که به آن دانش نداری از من نخواه. من به تو پند می‌دهم که مبادا از جاهلان باشی»."
+        }
+      ]
+    },
+    {
+      "id": 1520,
+      "verse_number": 47,
+      "verse_key": "11:47",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924185,
+          "resource_id": 135,
+          "text": "[نوح] گفت: «پروردگارا، من به تو پناه می‌برم از اینکه چیزی را که به آن دانشی ندارم از تو بخواهم و اگر مرا نبخشی و بر من رحم نکنی، از زیانکاران خواهم بود»."
+        }
+      ]
+    },
+    {
+      "id": 1521,
+      "verse_number": 48,
+      "verse_key": "11:48",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924186,
+          "resource_id": 135,
+          "text": "گفته شد: «ای نوح، با [امنیت و] سلامتی از جانب ما و [نیز همراه با] برکت‌های [ فراوان] بر تو و بر گروه‌هایی که همراهت هستند، [بر زمین] فرود آی؛ و گروه‌هایی [نیز] هستند که به زودی آنان را [از نعمت‌ها] بهره‌مند می‌سازیم، سپس عذاب دردناکی از سوی ما به آنان خواهد رسید»."
+        }
+      ]
+    },
+    {
+      "id": 1522,
+      "verse_number": 49,
+      "verse_key": "11:49",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 186,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924187,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] اینها از خبرهای غیب است که آن را به تو وحی می‌کنیم. نه تو آنها را پیش از این می‌دانستی و نه قومت؛ پس [در برابر آزارشان] شکیبایی کن. یقیناً عاقبت [نیکو] از آنِ پرهیزگاران است."
+        }
+      ]
+    },
+    {
+      "id": 1523,
+      "verse_number": 50,
+      "verse_key": "11:50",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924188,
+          "resource_id": 135,
+          "text": "و به سوی قوم عاد، برادرشان هود را [فرستادیم که] گفت: «ای قوم من، الله را عبادت کنید که معبودی [به‌حق] جز او ندارید [و] شما [در شرک به الله] دروغ‌بافانی بیش نیستید."
+        }
+      ]
+    },
+    {
+      "id": 1524,
+      "verse_number": 51,
+      "verse_key": "11:51",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924189,
+          "resource_id": 135,
+          "text": "ای قوم من، برای [رساندن] این [دعوت] از شما پاداشی نمی‌طلبم. پاداش من تنها بر [عهدۀ] ذاتی است که مرا آفرید. آیا نمی‌اندیشید؟"
+        }
+      ]
+    },
+    {
+      "id": 1525,
+      "verse_number": 52,
+      "verse_key": "11:52",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924190,
+          "resource_id": 135,
+          "text": "و ای قوم من، از پروردگارتان طلب آمرزش کنید، سپس به سوی او بازگردید [و توبه کنید] تا [باران] آسمان را پیاپی بر شما بفرستد و نیرویی بر نیرویتان بیفزاید و گنهکارانه [از حق] روی نگردانید»."
+        }
+      ]
+    },
+    {
+      "id": 1526,
+      "verse_number": 53,
+      "verse_key": "11:53",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 227,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924191,
+          "resource_id": 135,
+          "text": "آنان گفتند: «ای هود، دلیل روشنی برایمان نیاورده‌ای و ما به [خاطر] گفتار تو، معبودانمان را رها نمی‌کنیم و به تو ایمان نمی‌آوریم."
+        }
+      ]
+    },
+    {
+      "id": 1527,
+      "verse_number": 54,
+      "verse_key": "11:54",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924192,
+          "resource_id": 135,
+          "text": "[ما چیزی] جز این نمی‌گوییم که برخی از معبودانمان به تو گزندی رسانده‌اند [و دیوانه شده‌ای]». [هود] گفت: «الله را گواه می‌گیرم و شما [نیز] گواه باشید که من از آنچه [با الله] شریک قرار می‌دهید بیزارم."
+        }
+      ]
+    },
+    {
+      "id": 1528,
+      "verse_number": 55,
+      "verse_key": "11:55",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924193,
+          "resource_id": 135,
+          "text": "[آری،] به جز او [تعالی، از هر معبودی بیزارم]. پس همگى [در باره] من نقشه بکشید و مهلتم ندهید."
+        }
+      ]
+    },
+    {
+      "id": 1529,
+      "verse_number": 56,
+      "verse_key": "11:56",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924194,
+          "resource_id": 135,
+          "text": "من بر الله که پروردگار من و شماست توکل کرده‌ام. هیچ جنبنده‌ای نیست، مگر اینکه در حیطۀ قدرت و فرمانروایىِ اوست. بی‌تردید، پروردگارم بر راه راست است."
+        }
+      ]
+    },
+    {
+      "id": 1530,
+      "verse_number": 57,
+      "verse_key": "11:57",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924195,
+          "resource_id": 135,
+          "text": "پس اگر روی بگردانید، [بدانید که‌] من یقیناً آنچه را كه به خاطر آن به سوى شما فرستاده شده‌ام به شما رساندم؛ و پروردگار من، قومی غیر از شما را جانشین [تان] می‌کند و شما نمی‌توانید هیچ زیانی به او برسانید [چرا که] بی‌تردید، پروردگارم بر همه چیز، نگهبان است»."
+        }
+      ]
+    },
+    {
+      "id": 1531,
+      "verse_number": 58,
+      "verse_key": "11:58",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924196,
+          "resource_id": 135,
+          "text": "و هنگامی‌ که فرمان [عذاب] ما فرارسید، هود و کسانی را ‌که همراهش ایمان آورده بودند، به رحمتی از [جانب] خویش نجات دادیم و آنان را از عذاب سخت رهاندیم."
+        }
+      ]
+    },
+    {
+      "id": 1532,
+      "verse_number": 59,
+      "verse_key": "11:59",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924197,
+          "resource_id": 135,
+          "text": "و این [قوم] عاد بودند که آیات پروردگارشان را انکار کردند و از پیامبرانش نافرمانی نمودند و از فرمان هر سرکشِ ستیزه‌گری پیروی کردند."
+        }
+      ]
+    },
+    {
+      "id": 1533,
+      "verse_number": 60,
+      "verse_key": "11:60",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 91,
+      "ruku_number": 187,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924198,
+          "resource_id": 135,
+          "text": "و در این دنیا و روز قیامت [نیز] لعنتی به دنبالشان است. آگاه باشید! قوم عاد به پروردگارشان کفر ورزیدند. هان! عاد ـ قوم هودـ [از رحمت الهی] دور باد!"
+        }
+      ]
+    },
+    {
+      "id": 1534,
+      "verse_number": 61,
+      "verse_key": "11:61",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924199,
+          "resource_id": 135,
+          "text": "و به سوی [قوم] ثمود، برادرشان ـ صالح ـ را [فرستادیم]. او گفت: «ای قوم من، الله را عبادت کنید که جز او معبودی [به‌حق] ندارید. او شما را از زمین پدید آورد و آبادانىِ آن را به شما واگذاشت؛ پس از او آمرزش بطلبید سپس به سویش بازگردید [و توبه کنید]. بی‌تردید، پروردگارم نزدیک [و] اجابتگر است»."
+        }
+      ]
+    },
+    {
+      "id": 1535,
+      "verse_number": 62,
+      "verse_key": "11:62",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 228,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924200,
+          "resource_id": 135,
+          "text": "آنان گفتند: «ای صالح، پیش از این، تو میان ما مایۀ امیدوارى بودى. آیا ما را از عبادت آنچه پدرانمان عبادت می‌کردند بازمی‌داری؟ و به راستی، ما از آنچه که ما را به سوی آن دعوت می‌کنی، سخت تردید داریم»."
+        }
+      ]
+    },
+    {
+      "id": 1536,
+      "verse_number": 63,
+      "verse_key": "11:63",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924201,
+          "resource_id": 135,
+          "text": "[صالح] گفت: «ای قوم من، به من بگویید [که] اگر از سوی پروردگارم دلیل [و معجزۀ] آشکاری داشته باشم و او از جانب خویش رحمتی [= نبوت] به من بخشیده باشد، اگر از او نافرمانی کنم، چه کسی مرا در برابرِ الله یاری می‌کند؟ [آنگاه] شما جز [گمراهی و] زیانکاری، [چیزی] بر من نمی‌افزایید."
+        }
+      ]
+    },
+    {
+      "id": 1537,
+      "verse_number": 64,
+      "verse_key": "11:64",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924202,
+          "resource_id": 135,
+          "text": "ای قوم من، این ماده‌شترِ الله است که برای شما نشانه‌ای است [بر درستیِ دعوتم]؛ پس بگذارید تا در زمینِ الله بچرد و آزاری به او نرسانید که [در غیر این صورت،] عذابی زودرس شما را فرامی‌گیرد»."
+        }
+      ]
+    },
+    {
+      "id": 1538,
+      "verse_number": 65,
+      "verse_key": "11:65",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924203,
+          "resource_id": 135,
+          "text": "اما آن [ماده شتر] را پِی کردند؛ آنگاه [صالح به آنان] گفت: «سه روز در خانه‌هایتان [از نعمت‌های دنیا] بهره‌مند گردید [و پس از آن، عذاب خواهد آمد]. این وعده‌ای است که دروغ نخواهد بود»."
+        }
+      ]
+    },
+    {
+      "id": 1539,
+      "verse_number": 66,
+      "verse_key": "11:66",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924204,
+          "resource_id": 135,
+          "text": "پس چون فرمان [عذاب] ما فرارسید، صالح و کسانی‌ را که همراهش ایمان آورده بودند به رحمتی از [جانب] خویش از [عذاب و] رسوایی آن روز نجات دادیم. بی‌گمان، پروردگارت همان توانمندِ شکست‌ناپذیر است."
+        }
+      ]
+    },
+    {
+      "id": 1540,
+      "verse_number": 67,
+      "verse_key": "11:67",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924205,
+          "resource_id": 135,
+          "text": "و کسانی را که ستم کرده بودند، بانگی [مرگبار] فروگرفت؛ و در جای خویش به روی افتادند و هلاک شدند."
+        }
+      ]
+    },
+    {
+      "id": 1541,
+      "verse_number": 68,
+      "verse_key": "11:68",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 188,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924206,
+          "resource_id": 135,
+          "text": "چنان که گویی هرگز در آن [دیار] نبوده‌اند. آگاه باشید! [قوم] ثمود به پروردگارشان کفر ‌ورزیدند. هان! ثمود [از رحمت الهی] دور باد!"
+        }
+      ]
+    },
+    {
+      "id": 1542,
+      "verse_number": 69,
+      "verse_key": "11:69",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924207,
+          "resource_id": 135,
+          "text": "به راستی، فرستادگان ما با بشارت [تولد فرزند] نزد ابراهیم آمدند [و] گفتند: «سلام [بر تو]». [او نیز در پاسخ] گفت: «سلام [بر شما]» و دیری نپایید که [ابراهیم برایشان] گوساله‌ای بریان آورد."
+        }
+      ]
+    },
+    {
+      "id": 1543,
+      "verse_number": 70,
+      "verse_key": "11:70",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924208,
+          "resource_id": 135,
+          "text": "اما چون دید به سوی آن [غذا] دست نمی‌برند [و چیزی نمی‌خورند]، با آنان احساس بیگانگی کرد و [از بیم آنکه قصد جانش را داشته باشند،] ترسی از آنان به دل گرفت. [فرشتگان] گفتند: «نترس؛ ما به سوی قوم لوط فرستاده شده‌ایم»."
+        }
+      ]
+    },
+    {
+      "id": 1544,
+      "verse_number": 71,
+      "verse_key": "11:71",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 229,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924209,
+          "resource_id": 135,
+          "text": "و همسرش [ساره که پشتِ پرده] ایستاده بود، [از شنیدنِ مژده تولد فرزند] خندید؛ آنگاه او را به اسحاق و پس از او به یعقوب بشارت دادیم."
+        }
+      ]
+    },
+    {
+      "id": 1545,
+      "verse_number": 72,
+      "verse_key": "11:72",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924210,
+          "resource_id": 135,
+          "text": "[ساره] گفت: «ای وای بر من! آیا در حالی که خودم پیرزنم و این شوهرم پیرمردی [فرتوت‌] است، فرزند می‌زایم؟ به راستی، این امری شگفت‌آور است»‌."
+        }
+      ]
+    },
+    {
+      "id": 1546,
+      "verse_number": 73,
+      "verse_key": "11:73",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924211,
+          "resource_id": 135,
+          "text": "[فرشتگان] گفتند: «آیا از فرمان الله تعجب می‌کنی؟ رحمت الله و برکاتش بر شما اهل خانه [نبوت] باد. بی‌تردید، او [تعالی در ذات و صفات و افعالش] ستوده‌ای بزرگوار است»."
+        }
+      ]
+    },
+    {
+      "id": 1547,
+      "verse_number": 74,
+      "verse_key": "11:74",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924212,
+          "resource_id": 135,
+          "text": "هنگامی که ترس از [دل] ابراهیم [بیرون] رفت و بشارت [تولد فرزند] به او رسید، دربارۀ [تأخیرِ عذاب یا نجات مؤمنانِ] قوم لوط با ما به بحث [و چون و چرا] پرداخت."
+        }
+      ]
+    },
+    {
+      "id": 1548,
+      "verse_number": 75,
+      "verse_key": "11:75",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924213,
+          "resource_id": 135,
+          "text": "به راستی که ابراهیم بردبار و بسیار نیایشگر و بازآینده [به درگاه ما] بود."
+        }
+      ]
+    },
+    {
+      "id": 1549,
+      "verse_number": 76,
+      "verse_key": "11:76",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924214,
+          "resource_id": 135,
+          "text": "[فرشتگان گفتند:] «ای ابراهیم، از این [سخن] بگذر؛ [چرا که] به راستی فرمان [عذاب] پروردگارت فرارسیده است و مسلماً عذابی بازگشت‌ناپذیر برایشان خواهد آمد»."
+        }
+      ]
+    },
+    {
+      "id": 1550,
+      "verse_number": 77,
+      "verse_key": "11:77",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924215,
+          "resource_id": 135,
+          "text": "و چون فرستادگان ما نزد لوط آمدند، از [تصور بی‌شرمىِ قومش نسبت به] آنان نگران و دلتنگ شد و گفت: «امروز، روز بسیار سختی است»."
+        }
+      ]
+    },
+    {
+      "id": 1551,
+      "verse_number": 78,
+      "verse_key": "11:78",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924216,
+          "resource_id": 135,
+          "text": "و قوم او شتابان [به قصد کامجویی از مهمانان لوط‌] به سوى [خانۀ] او هجوم آوردند، در حالى كه پیش از آن [نیز‌] مرتكب کارهای زشتى مى‌شدند. [لوط] گفت: «ای قوم من، اینان دختران [= زنانِ امتِ] من هستند؛ [با آنها ازدواج کنید.] آنان برای شما پاکیزه‌ترند؛ پس از الله بترسید و مرا در [مقابل] مهمانانم شرمسار نکنید. آیا بین شما مرد خردمندی نیست [که شما را از این کار بازدارد]؟»."
+        }
+      ]
+    },
+    {
+      "id": 1552,
+      "verse_number": 79,
+      "verse_key": "11:79",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924217,
+          "resource_id": 135,
+          "text": "آنان گفتند: «تو خود می‌دانی که ما به دختران [= زنانِ امتِ] تو نیازی نداریم و خوب می‌دانی که ما چه می‌خواهیم»."
+        }
+      ]
+    },
+    {
+      "id": 1553,
+      "verse_number": 80,
+      "verse_key": "11:80",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924218,
+          "resource_id": 135,
+          "text": "[لوط] گفت: «کاش در برابر شما قدرتی داشتم یا می‌توانستم به تکیه‌گاهی استوار [همچون خانواده و قبیله‌ام] پناه ‌ببرم»."
+        }
+      ]
+    },
+    {
+      "id": 1554,
+      "verse_number": 81,
+      "verse_key": "11:81",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 230,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924219,
+          "resource_id": 135,
+          "text": "[فرشتگان] گفتند: «ای لوط، ما فرستادگان پروردگارت هستیم. آنان هرگز به تو دست نمی‌یابند؛ خانواده‌ات را در پاسی از شب،[از این شهر بیرون] ببر و هیچ یک از شما به پشت سر نگاه نکند؛ مگر همسرت که آنچه [از عذاب] که به آنان می‌رسد، قطعاً به او [نیز] خواهد رسید. در حقیقت، وعده‌گاهشان صبح است. آیا صبح نزدیک نیست؟»"
+        }
+      ]
+    },
+    {
+      "id": 1555,
+      "verse_number": 82,
+      "verse_key": "11:82",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 231,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924220,
+          "resource_id": 135,
+          "text": "هنگامی که فرمان ما فرارسید، آن [سرزمین] را زیر و رو کردیم و بر آنان سنگ‌گِل‌هایی پیاپی باریدیم."
+        }
+      ]
+    },
+    {
+      "id": 1556,
+      "verse_number": 83,
+      "verse_key": "11:83",
+      "hizb_number": 23,
+      "rub_el_hizb_number": 92,
+      "ruku_number": 189,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 231,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924221,
+          "resource_id": 135,
+          "text": "[سنگ‌هایی که] نزد پروردگارت نشاندار بود؛ و این [عذاب دردناک،] از ستمکاران [دیگر‌] دور نیست."
+        }
+      ]
+    },
+    {
+      "id": 1557,
+      "verse_number": 84,
+      "verse_key": "11:84",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 231,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924222,
+          "resource_id": 135,
+          "text": "و به سوی [مردم] مَدیَن، برادرشان شعیب را [فرستادیم]. او گفت: «ای قوم من، الله را عبادت کنید که معبودی [به‌حق] جز او ندارید؛ و پیمانه و میزان را کم نکنید. به راستی، شما را در نعمت می‌بینم؛ و[لی] از عذاب روز فراگیر بر شما می‌ترسم."
+        }
+      ]
+    },
+    {
+      "id": 1558,
+      "verse_number": 85,
+      "verse_key": "11:85",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 231,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924223,
+          "resource_id": 135,
+          "text": "و ای قوم من، پیمانه و میزان را با عدالت، تمام [و کامل] بپردازید و کالاهای مردم را کم ندهید و در زمین به فساد [و گناه] نکوشید."
+        }
+      ]
+    },
+    {
+      "id": 1559,
+      "verse_number": 86,
+      "verse_key": "11:86",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 231,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924224,
+          "resource_id": 135,
+          "text": "اگر ایمان داشته باشید، آنچه [از كسب حلال که‌] الله [پس از تحویل کامل پیمانه و ترازو]، برایتان باقى می‌گذارد بهتر است؛ و من بر شما نگهبان نیستم»."
+        }
+      ]
+    },
+    {
+      "id": 1560,
+      "verse_number": 87,
+      "verse_key": "11:87",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 231,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924225,
+          "resource_id": 135,
+          "text": "آنان گفتند: «ای شعیب، آیا نمازت تو را بر آن می‌دارد که [به ما امر کنی تا‌] دست از آنچه پدرانمان عبادت می‌کردند برداریم یا در اموالمان هر کاری که می‌خواهیم نکنیم؟ تو که بردبار [و] خردمندی [پس چرا چنین می‌گویی؟]»."
+        }
+      ]
+    },
+    {
+      "id": 1561,
+      "verse_number": 88,
+      "verse_key": "11:88",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 231,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924226,
+          "resource_id": 135,
+          "text": "[شعیب] گفت: «ای قوم من، به من بگویید [که] اگر از سوی پروردگارم دلیل [و معجزۀ] آشکاری داشته باشم و از جانب خویش روزیِ نیکویی به من عطا کرده باشد، [آنگاه چه می‌کنید؟] و من نمی‌خواهم در آنچه شما را از آن بازمی‌دارم با شما مخالفت کنم [و خودم انجامش دهم‌]. تا آنجا که در توان دارم، جز اصلاح نمی‌خواهم؛ و توفیق من، جز به [لطف و خواستِ] الله نیست؛ بر او توکل کرده‌ام و به سوی او بازمی‌گردم."
+        }
+      ]
+    },
+    {
+      "id": 1562,
+      "verse_number": 89,
+      "verse_key": "11:89",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924227,
+          "resource_id": 135,
+          "text": "و ای قوم من، دشمنی [و مخالفت] با من سبب نشود که همانند آنچه که به قوم نوح یا قوم هود یا قوم صالح رسید، به شما [نیز] برسد؛ و [به خصوص عذاب] قوم لوط [که از لحاظ زمان و مکان] چندان از شما دور نیست."
+        }
+      ]
+    },
+    {
+      "id": 1563,
+      "verse_number": 90,
+      "verse_key": "11:90",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924228,
+          "resource_id": 135,
+          "text": "و از پروردگارتان آمرزش بخواهید؛ سپس به سوی او بازگردید [و توبه کنید که] بی‌تردید، پروردگارم مهربان [و] دوستدار [توبه‌کنندگان‌] است»."
+        }
+      ]
+    },
+    {
+      "id": 1564,
+      "verse_number": 91,
+      "verse_key": "11:91",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924229,
+          "resource_id": 135,
+          "text": "آنان گفتند: «ای شعیب، بسیاری از آنچه را که می‌گویی نمی‌فهمیم و یقیناً تو را در میان خود ناتوان می‌بینیم؛ و اگر [احترام] قبیله‌ات نبود، مسلماً سنگسارت می‌کردیم و تو نزد ما توانمند [و گرانقدر] نیستی»."
+        }
+      ]
+    },
+    {
+      "id": 1565,
+      "verse_number": 92,
+      "verse_key": "11:92",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924230,
+          "resource_id": 135,
+          "text": "[شعیب] گفت: «ای قوم من، آیا قبیله‌ام نزد شما گرامی‌تر از الله است که [فرمان] او را [فراموش کردید و] پشت سر خویش انداخته‌اید. بی‌تردید، پروردگارم به آنچه انجام می‌دهید احاطه دارد."
+        }
+      ]
+    },
+    {
+      "id": 1566,
+      "verse_number": 93,
+      "verse_key": "11:93",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924231,
+          "resource_id": 135,
+          "text": "و ای قوم من، شما به روش خود عمل کنید، من نیز [به روش خود] عمل می‌کنم. به زودى خواهید دانست كه عذاب رسواكننده بر چه كسى فرود مى‌آید و دروغگو كیست. شما منتظر باشید و من [نیز] با شما در انتظارم»."
+        }
+      ]
+    },
+    {
+      "id": 1567,
+      "verse_number": 94,
+      "verse_key": "11:94",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924232,
+          "resource_id": 135,
+          "text": "و چون فرمان ما فرارسید، شعیب و کسانی را که همراهش ایمان آورده بودند، به رحمتی از [جانب] خویش نجات دادیم و کسانی را که ستم کردند، بانگی [مرگبار] فروگرفت، که در جای خود به روی افتادند و هلاک شدند؛"
+        }
+      ]
+    },
+    {
+      "id": 1568,
+      "verse_number": 95,
+      "verse_key": "11:95",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 190,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924233,
+          "resource_id": 135,
+          "text": "چنان [هلاک شدند] که گویی هرگز در آن [دیار] نبودند. هان! [قوم] مَدیَن [از رحمت الهی] دور باد! چنان که [قوم] ثمود دور شدند."
+        }
+      ]
+    },
+    {
+      "id": 1569,
+      "verse_number": 96,
+      "verse_key": "11:96",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 191,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924234,
+          "resource_id": 135,
+          "text": "و به راستی موسی را با آیات خود و دلیلی آشکار فرستادیم."
+        }
+      ]
+    },
+    {
+      "id": 1570,
+      "verse_number": 97,
+      "verse_key": "11:97",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 191,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 232,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924235,
+          "resource_id": 135,
+          "text": "به سوی فرعون و بزرگان [و اشرافِ قومِ] او؛ اما آنان از فرمان فرعون پیروی کردند و فرمان فرعون درست [و بخردانه] نبود."
+        }
+      ]
+    },
+    {
+      "id": 1571,
+      "verse_number": 98,
+      "verse_key": "11:98",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 191,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 233,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924236,
+          "resource_id": 135,
+          "text": "[فرعون] روز قیامت پیشاپیش قومش مى‌رود و آنان را به آتش [دوزخ] وارد مى‌كند؛ و چه بد جایگاهی است که به آن وارد می‌شوند!"
+        }
+      ]
+    },
+    {
+      "id": 1572,
+      "verse_number": 99,
+      "verse_key": "11:99",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 191,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 233,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924237,
+          "resource_id": 135,
+          "text": "و در این [دنیا] و روز قیامت، نفرین به دنبال دارند و چه بد ارمغانی به آنان مى‌بخشند!"
+        }
+      ]
+    },
+    {
+      "id": 1573,
+      "verse_number": 100,
+      "verse_key": "11:100",
+      "hizb_number": 24,
+      "rub_el_hizb_number": 93,
+      "ruku_number": 191,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 233,
+      "juz_number": 12,
+      "translations": [
+        {
+          "id": 924238,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] این [برخی] از خبرهای آن [سرزمین‌ها و] شهرهاست که آنها را برایت بازگو می‌کنیم؛ برخی از آنها [هنوز] پابرجاست و [برخی دیگر] ویران [گشته است]."
+        }
+      ]
+    }
+  ]
+}

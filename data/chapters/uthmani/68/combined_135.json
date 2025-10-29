@@ -1,0 +1,1046 @@
+{
+  "id": 68,
+  "name": "The Pen",
+  "verses": [
+    {
+      "id": 5272,
+      "verse_number": 1,
+      "verse_key": "68:1",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927937,
+          "resource_id": 135,
+          "text": "نون. سوگند به قلم و آنچه می‌نویسند،"
+        }
+      ]
+    },
+    {
+      "id": 5273,
+      "verse_number": 2,
+      "verse_key": "68:2",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927938,
+          "resource_id": 135,
+          "text": "که تو [ای پیامبر،] به نعمت [و فضلِ] پروردگارت، دیوانه نیستی،"
+        }
+      ]
+    },
+    {
+      "id": 5274,
+      "verse_number": 3,
+      "verse_key": "68:3",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927939,
+          "resource_id": 135,
+          "text": "و پاداشی بی‌پایان برای تو [درپیش] است؛"
+        }
+      ]
+    },
+    {
+      "id": 5275,
+      "verse_number": 4,
+      "verse_key": "68:4",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927940,
+          "resource_id": 135,
+          "text": "و یقیناً تو اخلاقِ بسیار نیکو و والایی داری."
+        }
+      ]
+    },
+    {
+      "id": 5276,
+      "verse_number": 5,
+      "verse_key": "68:5",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَتُبْصِرُ وَيُبْصِرُونَ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927941,
+          "resource_id": 135,
+          "text": "به زودی خواهی دید و آنها [نیز] خواهند دید"
+        }
+      ]
+    },
+    {
+      "id": 5277,
+      "verse_number": 6,
+      "verse_key": "68:6",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَييِّكُمُ ٱلْمَفْتُونُ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927942,
+          "resource_id": 135,
+          "text": "که کدام یک از شما دیوانه است."
+        }
+      ]
+    },
+    {
+      "id": 5278,
+      "verse_number": 7,
+      "verse_key": "68:7",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927943,
+          "resource_id": 135,
+          "text": "پروردگارت بهتر می‌داند چه کسی از راه او گمراه گشته، و او به هدایت‌یافتگان [نیز] دانا‌تر است."
+        }
+      ]
+    },
+    {
+      "id": 5279,
+      "verse_number": 8,
+      "verse_key": "68:8",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927944,
+          "resource_id": 135,
+          "text": "پس از تکذیب‌کنندگان اطاعت مکن."
+        }
+      ]
+    },
+    {
+      "id": 5280,
+      "verse_number": 9,
+      "verse_key": "68:9",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927945,
+          "resource_id": 135,
+          "text": "آنها دوست دارند [و می‌خواهند] که نرمی [و مدارا] کنی، تا آنان [نیز] نرمی [و مدارا] کنند."
+        }
+      ]
+    },
+    {
+      "id": 5281,
+      "verse_number": 10,
+      "verse_key": "68:10",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927946,
+          "resource_id": 135,
+          "text": "و از هر فرومایه‌ای که بسیار سوگند [دروغ] یاد می‌کند، اطاعت مکن."
+        }
+      ]
+    },
+    {
+      "id": 5282,
+      "verse_number": 11,
+      "verse_key": "68:11",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927947,
+          "resource_id": 135,
+          "text": "[همان کسی که] بسیار عیبجوست و به سخن‌چینی آمد و شد می‌کند."
+        }
+      ]
+    },
+    {
+      "id": 5283,
+      "verse_number": 12,
+      "verse_key": "68:12",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927948,
+          "resource_id": 135,
+          "text": "و بسیار مانع کار خیر، و متجاوز و گناهکار است."
+        }
+      ]
+    },
+    {
+      "id": 5284,
+      "verse_number": 13,
+      "verse_key": "68:13",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927949,
+          "resource_id": 135,
+          "text": "به علاوه، خشن و بی‌تبار و بدنام است."
+        }
+      ]
+    },
+    {
+      "id": 5285,
+      "verse_number": 14,
+      "verse_key": "68:14",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927950,
+          "resource_id": 135,
+          "text": "به خاطر آن که صاحب مال و فرزندان بسیار است."
+        }
+      ]
+    },
+    {
+      "id": 5286,
+      "verse_number": 15,
+      "verse_key": "68:15",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "page_number": 564,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927951,
+          "resource_id": 135,
+          "text": "هنگامی ‌که آیات ما بر او خوانده می‌شود، می‌گوید: «[اینها] افسانه‌های [خیالی] گذشتگان است»."
+        }
+      ]
+    },
+    {
+      "id": 5287,
+      "verse_number": 16,
+      "verse_key": "68:16",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927952,
+          "resource_id": 135,
+          "text": "به زودی داغ [ننگ و رسوایی] بر بینی او می‌نهیم."
+        }
+      ]
+    },
+    {
+      "id": 5288,
+      "verse_number": 17,
+      "verse_key": "68:17",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927953,
+          "resource_id": 135,
+          "text": "ما آنها را آزمایش کردیم، همان‌گونه که صاحبان باغ را آزمودیم؛ هنگامی که سوگند یاد کردند که صبحگاهان [که مستمندان نباشند،] میوه‌های باغ را بچینند."
+        }
+      ]
+    },
+    {
+      "id": 5289,
+      "verse_number": 18,
+      "verse_key": "68:18",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَسْتَثْنُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927954,
+          "resource_id": 135,
+          "text": "و[لی] «ان شاء الله» نگفتند."
+        }
+      ]
+    },
+    {
+      "id": 5290,
+      "verse_number": 19,
+      "verse_key": "68:19",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927955,
+          "resource_id": 135,
+          "text": "عذابی [فرا‌گیر] از سوی پروردگارت بر [باغِ] آنها فرود آمد، در حالی ‌که همه در خواب بودند."
+        }
+      ]
+    },
+    {
+      "id": 5291,
+      "verse_number": 20,
+      "verse_key": "68:20",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَصْبَحَتْ كَٱلصَّرِيمِ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927956,
+          "resource_id": 135,
+          "text": "و آن باغ [سبز و خرم، پس از آتش‌سوزی] همچون شبِ سیاه شد."
+        }
+      ]
+    },
+    {
+      "id": 5292,
+      "verse_number": 21,
+      "verse_key": "68:21",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَتَنَادَوْا۟ مُصْبِحِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927957,
+          "resource_id": 135,
+          "text": "آنگاه صبحگاهان یکدیگر را ندا دادند"
+        }
+      ]
+    },
+    {
+      "id": 5293,
+      "verse_number": 22,
+      "verse_key": "68:22",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَـٰرِمِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927958,
+          "resource_id": 135,
+          "text": "که اگر می‌خواهید میوه بچینید، به سوی کشتزار [و باغ] خویش بروید."
+        }
+      ]
+    },
+    {
+      "id": 5294,
+      "verse_number": 23,
+      "verse_key": "68:23",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱنطَلَقُوا۟ وَهُمْ يَتَخَـٰفَتُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927959,
+          "resource_id": 135,
+          "text": "آنگاه [به سوی کشتزار] حرکت کردند، در حالی ‌که آهسته با هم می‌گفتند:"
+        }
+      ]
+    },
+    {
+      "id": 5295,
+      "verse_number": 24,
+      "verse_key": "68:24",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927960,
+          "resource_id": 135,
+          "text": "«[مراقب باشید] که امروز هیچ [نیازمند و] بینوایی در آن [باغ] وارد نشود!»"
+        }
+      ]
+    },
+    {
+      "id": 5296,
+      "verse_number": 25,
+      "verse_key": "68:25",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَـٰدِرِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927961,
+          "resource_id": 135,
+          "text": "و صبحگاهان با تصمیم جدی بر جلوگیری [از ورود مستمندان، به سمتِ باغ] بیرون شدند."
+        }
+      ]
+    },
+    {
+      "id": 5297,
+      "verse_number": 26,
+      "verse_key": "68:26",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927962,
+          "resource_id": 135,
+          "text": "اما هنگامی ‌که آن [باغ] را دیدند، گفتند: «یقیناً ما [اشتباه آمده‌ایم و] راه را گم کرده‌ایم؛"
+        }
+      ]
+    },
+    {
+      "id": 5298,
+      "verse_number": 27,
+      "verse_key": "68:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927963,
+          "resource_id": 135,
+          "text": "[نه؛] بلکه ما [از حاصلِ آن] بی‌بهره و محروم هستیم»."
+        }
+      ]
+    },
+    {
+      "id": 5299,
+      "verse_number": 28,
+      "verse_key": "68:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927964,
+          "resource_id": 135,
+          "text": "بهترین [و خردمندترین] آنان گفت: «آیا به شما نگفتم چرا [شکر و] تسبیح [الله را] نمی‌گویید؟»."
+        }
+      ]
+    },
+    {
+      "id": 5300,
+      "verse_number": 29,
+      "verse_key": "68:29",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ سُبْحَـٰنَ رَبِّنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927965,
+          "resource_id": 135,
+          "text": "گفتند: «پروردگار ما پاک و منزّه است؛ مسلّماً ما ستمکار بودیم»."
+        }
+      ]
+    },
+    {
+      "id": 5301,
+      "verse_number": 30,
+      "verse_key": "68:30",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَـٰوَمُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927966,
+          "resource_id": 135,
+          "text": "آنگاه ملامت‌کنان به یکدیگر روی آوردند"
+        }
+      ]
+    },
+    {
+      "id": 5302,
+      "verse_number": 31,
+      "verse_key": "68:31",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا طَـٰغِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927967,
+          "resource_id": 135,
+          "text": "[و] گفتند: «وای بر ما که طغیانگر [و سرکش] بودیم!"
+        }
+      ]
+    },
+    {
+      "id": 5303,
+      "verse_number": 32,
+      "verse_key": "68:32",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927968,
+          "resource_id": 135,
+          "text": "امیدواریم که پروردگارمان [ما را ببخشد و] در عوض، چیزی بهتر از آن [باغ] به ما دهد؛ [چرا که] بی‌گمان، ما به سوی پروردگار خود روی آورده‌ایم»."
+        }
+      ]
+    },
+    {
+      "id": 5304,
+      "verse_number": 33,
+      "verse_key": "68:33",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 500,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927969,
+          "resource_id": 135,
+          "text": "عذاب [الله در دنیا] اینچنین است؛ و اگر می‌دانستند، عذاب آخرت مسلماً بزرگ‌تر [و بیشتر] است."
+        }
+      ]
+    },
+    {
+      "id": 5305,
+      "verse_number": 34,
+      "verse_key": "68:34",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927970,
+          "resource_id": 135,
+          "text": "به راستی برای پرهیزگاران نزد پروردگارشان باغ‌های پرنعمت است."
+        }
+      ]
+    },
+    {
+      "id": 5306,
+      "verse_number": 35,
+      "verse_key": "68:35",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927971,
+          "resource_id": 135,
+          "text": "آیا ما مسلمانان را همچون مجرمان [و گناهکاران] قرار می‌دهیم؟"
+        }
+      ]
+    },
+    {
+      "id": 5307,
+      "verse_number": 36,
+      "verse_key": "68:36",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927972,
+          "resource_id": 135,
+          "text": "شما را چه شده است؟ چگونه داوری می‌کنید؟"
+        }
+      ]
+    },
+    {
+      "id": 5308,
+      "verse_number": 37,
+      "verse_key": "68:37",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَكُمْ كِتَـٰبٌ فِيهِ تَدْرُسُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927973,
+          "resource_id": 135,
+          "text": "آیا شما کتابی [آسمانی] دارید که در آن [می‌خوانید و] فرامی‌گیرید؟"
+        }
+      ]
+    },
+    {
+      "id": 5309,
+      "verse_number": 38,
+      "verse_key": "68:38",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927974,
+          "resource_id": 135,
+          "text": "و [آیا] آنچه را انتخاب می‌کنید، در آن [کتاب] برای شما [تضمین شده] است؟"
+        }
+      ]
+    },
+    {
+      "id": 5310,
+      "verse_number": 39,
+      "verse_key": "68:39",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927975,
+          "resource_id": 135,
+          "text": "یا اینکه بر [عهدۀ] ما عهد و پیمان استواری تا روز قیامت دارید که هر چه را حکم کنید، [حق] برای شما باشد؟"
+        }
+      ]
+    },
+    {
+      "id": 5311,
+      "verse_number": 40,
+      "verse_key": "68:40",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927976,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] از آنها بپرس کدام‌یک از آنان در برابر این [ادعا‌ها] متعهد است؟"
+        }
+      ]
+    },
+    {
+      "id": 5312,
+      "verse_number": 41,
+      "verse_key": "68:41",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ لَهُمْ شُرَكَآءُ فَلْيَأْتُوا۟ بِشُرَكَآئِهِمْ إِن كَانُوا۟ صَـٰدِقِينَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927977,
+          "resource_id": 135,
+          "text": "و یا اینکه [معبودان و] شریکانی دارند؟ اگر راست می‌گویند، باید شریکان [و معبودان] خویش را بیاورند."
+        }
+      ]
+    },
+    {
+      "id": 5313,
+      "verse_number": 42,
+      "verse_key": "68:42",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "page_number": 565,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927978,
+          "resource_id": 135,
+          "text": "روزی ‌که [الله متعال برای داوری میان خلایق بیاید،] ساق [او تعالی که هیچ چیز مانند آن نیست] آشکار می‌‌گردد و [مردم] به سجده فراخوانده می‌شوند؛ ولی [کافران و منافقان] نمی‌توانند [سجده کنند]."
+        }
+      ]
+    },
+    {
+      "id": 5314,
+      "verse_number": 43,
+      "verse_key": "68:43",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927979,
+          "resource_id": 135,
+          "text": "[در حالی‌ که] دیدگانشان [از ترس و ندامت] فرو افتاده و ذلت و خواری وجود‌شان را فراگرفته است؛ و یقیناً پیش از این [در دنیا] در حالی ‌که تندرست بودند، به سجده فراخوانده می‌شدند."
+        }
+      ]
+    },
+    {
+      "id": 5315,
+      "verse_number": 44,
+      "verse_key": "68:44",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَرْنِى وَمَن يُكَذِّبُ بِهَـٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927980,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] مرا با آن کسی ‌که این سخن [= قرآن] را تکذیب می‌کند واگذار. ما آنان را اندک‌اندک [و] به گونه‌ای که درنیابند [و از جایی‌که متوجه نگردند]، به سوی عذاب خواهیم کشاند."
+        }
+      ]
+    },
+    {
+      "id": 5316,
+      "verse_number": 45,
+      "verse_key": "68:45",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927981,
+          "resource_id": 135,
+          "text": "و به آنها مهلت می‌دهم. بی‌گمان، مکر [و تدبیرِ] من استوار [و محکم] است."
+        }
+      ]
+    },
+    {
+      "id": 5317,
+      "verse_number": 46,
+      "verse_key": "68:46",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927982,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] مگر تو از آنان مزدی درخواست می‌کنی که [از ادایِ آن در رنجند و] برایشان سنگین است؟"
+        }
+      ]
+    },
+    {
+      "id": 5318,
+      "verse_number": 47,
+      "verse_key": "68:47",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927983,
+          "resource_id": 135,
+          "text": "یا [اسرار] غیب نزد آنهاست و آنان [آنچه را می‌گویند از روی آن] می‌نویسند."
+        }
+      ]
+    },
+    {
+      "id": 5319,
+      "verse_number": 48,
+      "verse_key": "68:48",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927984,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] در برابر فرمان [و حکم] پروردگارت صبر کن، و مانند صاحبِ ماهی [= یونس] مباش ‌که با دلی سرشار از خشم و اندوه، [الله را] ندا داد."
+        }
+      ]
+    },
+    {
+      "id": 5320,
+      "verse_number": 49,
+      "verse_key": "68:49",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927985,
+          "resource_id": 135,
+          "text": "اگر نعمت [و رحمتی] از سوی پروردگارش به یاری‌ او نیامده بود، یقیناً در حالی [از شکم ماهی،] ‌به صحرای خشکیده بیرون افکنده می‌شد که نکوهیده بود."
+        }
+      ]
+    },
+    {
+      "id": 5321,
+      "verse_number": 50,
+      "verse_key": "68:50",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927986,
+          "resource_id": 135,
+          "text": "آنگاه پروردگارش او را برگُزید و از صالحان قرار داد."
+        }
+      ]
+    },
+    {
+      "id": 5322,
+      "verse_number": 51,
+      "verse_key": "68:51",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927987,
+          "resource_id": 135,
+          "text": "و [ای پیامبر،] نزدیک است کسانی ‌که کافر شدند، هنگامی‌ که آیات قرآن را می‌شنوند، تو را چشم‌زخم زنند؛ و [به خاطر خشم و حسدشان] می‌گویند: «قطعاً او دیوانه است»؛"
+        }
+      ]
+    },
+    {
+      "id": 5323,
+      "verse_number": 52,
+      "verse_key": "68:52",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 226,
+      "ruku_number": 501,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927988,
+          "resource_id": 135,
+          "text": "در حالی ‌که این [قرآن] جز پندی برای جهانیان نیست."
+        }
+      ]
+    }
+  ]
+}

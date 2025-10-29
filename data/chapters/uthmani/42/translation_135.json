@@ -1,0 +1,1013 @@
+{
+  "id": 42,
+  "name": "The Consultation",
+  "verses": [
+    {
+      "id": 4273,
+      "verse_number": 1,
+      "verse_key": "42:1",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926938,
+          "resource_id": 135,
+          "text": "حم [حا. میم]."
+        }
+      ]
+    },
+    {
+      "id": 4274,
+      "verse_number": 2,
+      "verse_key": "42:2",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926939,
+          "resource_id": 135,
+          "text": "عسق [عین. سین. قاف]."
+        }
+      ]
+    },
+    {
+      "id": 4275,
+      "verse_number": 3,
+      "verse_key": "42:3",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926940,
+          "resource_id": 135,
+          "text": "الله شکست‌ناپذیر حکیم، بر تو و پیامبران پیش از تو چنین وحى مى‌فرستد."
+        }
+      ]
+    },
+    {
+      "id": 4276,
+      "verse_number": 4,
+      "verse_key": "42:4",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926941,
+          "resource_id": 135,
+          "text": "هرچه در آسمان‌ها و زمین است متعلق به اوست؛ و او بلندمرتبه و بزرگ است."
+        }
+      ]
+    },
+    {
+      "id": 4277,
+      "verse_number": 5,
+      "verse_key": "42:5",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926942,
+          "resource_id": 135,
+          "text": "نزدیک است آسمان‌ها [از شکوه و عظمت الهی] از فراز یکدیگر بشكافند، و فرشتگان، پروردگارشان را با ستایش تقدیس مى‌كنند و براى ساكنان زمین [كه توبه كرده‌اند] آمرزش مى‌طلبند. آگاه باشید كه الله آمرزندۀ مهربان است."
+        }
+      ]
+    },
+    {
+      "id": 4278,
+      "verse_number": 6,
+      "verse_key": "42:6",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926943,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] الله خود مراقبِ [رفتارِ] كسانى است كه غیر او را [دوست و] کارسازِ خود برگزیده‌اند و تو كارگزار [و مسئول رفتار] آنان نیستى."
+        }
+      ]
+    },
+    {
+      "id": 4279,
+      "verse_number": 7,
+      "verse_key": "42:7",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926944,
+          "resource_id": 135,
+          "text": "ما قرآن را این گونه به زبان عربی بر تو وحى كردیم تا اهل مکه و ساكنان اطرافش را بیم دهى و در مورد روز محشر ـ که تردیدی در وقوعش نیست ـ به آنان هشدار دهى. [آن روز،] گروهى بهشتى‌اند و گروهى در آتش سوزان."
+        }
+      ]
+    },
+    {
+      "id": 4280,
+      "verse_number": 8,
+      "verse_key": "42:8",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926945,
+          "resource_id": 135,
+          "text": "اگر الله مى‌خواست، همۀ مردم را امتی واحد [که الله را به یگانگی عبادت کنند] قرار مى‌داد؛ ولى [به انسان اختیار داد؛ او تعالی] هر کس را بخواهد، به رحمت خویش درمی‌آورد؛ و مشرکان هیچ کارساز و یاورى نخواهند داشت."
+        }
+      ]
+    },
+    {
+      "id": 4281,
+      "verse_number": 9,
+      "verse_key": "42:9",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 421,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926946,
+          "resource_id": 135,
+          "text": "آیا آنان به جای او کسی [دیگر را به عنوان دوست و] کارساز برگزیده‌اند؟ حال آنكه كارساز [جهانیان] الله است و اوست كه مردگان را زنده مى‌كند و بر هر كارى تواناست."
+        }
+      ]
+    },
+    {
+      "id": 4282,
+      "verse_number": 10,
+      "verse_key": "42:10",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 483,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926947,
+          "resource_id": 135,
+          "text": "[بگو: «ای مردم،] هر اختلافى بین شماست، داورى‌اش با الله است. این است الله، پروردگار من؛ بر او توکل كرده‌ام و به پیشگاهش بازمی‌آیم»."
+        }
+      ]
+    },
+    {
+      "id": 4283,
+      "verse_number": 11,
+      "verse_key": "42:11",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 484,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926948,
+          "resource_id": 135,
+          "text": "او آفرینندۀ آسمان‌ها و زمین است؛ همسرانى از [جنسِ] خود شما برایتان قرار داد و از چهارپایان نیز جفت آفرید؛ به این صورت، تعداد شما را افزایش مى‌دهد. هیچ چیز همانند الله نیست و همو شنوا و بیناست."
+        }
+      ]
+    },
+    {
+      "id": 4284,
+      "verse_number": 12,
+      "verse_key": "42:12",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 193,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 484,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926949,
+          "resource_id": 135,
+          "text": "کلید‌ [گنجینه‌های] آسمان‌ها و زمین از آنِ اوست؛ [نعمت و] روزی را بر هر کس که بخواهد، گسترده می‌دارد و یا تنگ می‌گرداند. به راستی که او بر هر چیزی داناست."
+        }
+      ]
+    },
+    {
+      "id": 4285,
+      "verse_number": 13,
+      "verse_key": "42:13",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 484,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926950,
+          "resource_id": 135,
+          "text": "از دین همان را براى شما مقرر كرد كه به نوح امر كرده بود؛ و نیز آنچه به تو وحى كردیم و آنچه به ابراهیم و موسى و عیسى امر كردیم؛ اینكه: «دین را برپا نگاه دارید و در مورد آن فرقه‌فرقه نشوید [و اختلاف نورزید]». [پذیرشِ] دعوت تو بر مشركان گران آمده است. الله است كه هر كس را بخواهد [توفیقِ عبادت می‌دهد و] به سوى خویش برمى‌گزیند؛ و هر کس را [که توبه کند و به درگاهش] بازآید، به سوى خویش هدایت خواهد كرد."
+        }
+      ]
+    },
+    {
+      "id": 4286,
+      "verse_number": 14,
+      "verse_key": "42:14",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 484,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926951,
+          "resource_id": 135,
+          "text": "هنگامی که دلایل محکمِ نبوتِ پیامبر بر کافران عرضه شد، آنان از روی برترى‌خواهى [و حسادتی] كه بینشان بود، راه تفرقه پیمودند؛ و اگر فرمان پروردگارت [در موردِ مهلت و تأخیرِ عذاب] تا زمانى معین، از پیش مقرر نشده بود، [بی‌درنگ] میانشان داورى مى‌شد؛ و اما پس از کافران [و به دلیل انكار و اختلاف آنان] وارثان كتاب [تورات و انجیل نیز] در مورد قرآن، سخت در تردید و بدگمانى‌ هستند."
+        }
+      ]
+    },
+    {
+      "id": 4287,
+      "verse_number": 15,
+      "verse_key": "42:15",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 484,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926952,
+          "resource_id": 135,
+          "text": "[ای پیامبر، مردم را] به سوی این [آیین الهی] دعوت کن و چنان كه فرمان یافته‌اى پایداری كن و از هوس‌های آنان پیروى نكن و بگو: «به همۀ کتاب‌هایی كه الله نازل كرده است ایمان دارم و فرمان یافته‌ام كه در برابر شما به عدالت رفتار كنم. الله پروردگار ما و شماست. [نتیجۀ] اعمال ما براى ماست و [نتیجۀ] اعمال شما براى شما؛ هیچ [دشمنی و] جدالی بین ما و شما نیست. الله همۀ ما را [در قیامت] جمع خواهد كرد و بازگشت [همه] به سوی اوست»."
+        }
+      ]
+    },
+    {
+      "id": 4288,
+      "verse_number": 16,
+      "verse_key": "42:16",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926953,
+          "resource_id": 135,
+          "text": "كسانى كه دربارۀ الله [و دین او] پس از آن كه [دعوت او از سوی مردم منصف] پذيرفته شد، به مجادله مى‌پردازند، حجّتشان نزد پروردگارشان [باطل و] بى‌پایه است؛ خشم [الهی] گریبانگیرشان مى‌شود و عذابى سخت [در پیش] دارند."
+        }
+      ]
+    },
+    {
+      "id": 4289,
+      "verse_number": 17,
+      "verse_key": "42:17",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926954,
+          "resource_id": 135,
+          "text": "الله است که قرآن و مقیاس عدالت را به‌حق نازل كرده است؛ و تو چه می‌دانی؟ شاید قیامت نزدیک باشد."
+        }
+      ]
+    },
+    {
+      "id": 4290,
+      "verse_number": 18,
+      "verse_key": "42:18",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926955,
+          "resource_id": 135,
+          "text": "كسانى كه قیامت را باور ندارند، [با تمسخر و] به شتاب آن را مى‌خواهند؛ و كسانى كه [به روزِ جزا] باور دارند و مى‌دانند كه حق است، از آن هراسانند. آگاه باشید! کسانی كه در مورد قیامت، جدل و انكار مى‌كنند، در گمراهىِ بى‌پایانى قرار دارند."
+        }
+      ]
+    },
+    {
+      "id": 4291,
+      "verse_number": 19,
+      "verse_key": "42:19",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 422,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926956,
+          "resource_id": 135,
+          "text": "الله نسبت به بندگانش باریک‌بین [و مهربان] است؛ به هر کس بخواهد، روزی می‌بخشد؛ و او توانای شکست‌ناپذیر است."
+        }
+      ]
+    },
+    {
+      "id": 4292,
+      "verse_number": 20,
+      "verse_key": "42:20",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926957,
+          "resource_id": 135,
+          "text": "کسی كه كِشت آخرت را بخواهد، به كِشته‌اش بركت مى‌بخشیم؛ و هر کس [تنها] كِشت دنیا را بخواهد، در اختیار او قرار مى‌دهیم؛ و[لى] در آخرت بهره‌اى نخواهد داشت."
+        }
+      ]
+    },
+    {
+      "id": 4293,
+      "verse_number": 21,
+      "verse_key": "42:21",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926958,
+          "resource_id": 135,
+          "text": "آیا [مشرکان] معبودانى دارند كه بدون اجازۀ الله، [قوانین] دینى برایشان مقرر كرده‌اند؟ اگر حُكمِ قطعى [براى مهلت دادن به گناهکاران] در میان نبود، [بى‌درنگ] میانشان داورى مى‌شد؛ و ستمکاران عذابی دردناک [در پیش] دارند."
+        }
+      ]
+    },
+    {
+      "id": 4294,
+      "verse_number": 22,
+      "verse_key": "42:22",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 485,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926959,
+          "resource_id": 135,
+          "text": "[در روز قیامت،] ستمکاران را از دستاوردشان هراسان مى‌بینى و [خواهی دید که كیفر آن کارها] دامنگیرشان است؛ ولى مؤمنان نیكوكار در باغ‌های بهشتند؛ هر چه بخواهند، نزد پروردگارشان دارند؛ فضل [و بخششِ] بزرگ همین است."
+        }
+      ]
+    },
+    {
+      "id": 4295,
+      "verse_number": 23,
+      "verse_key": "42:23",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926960,
+          "resource_id": 135,
+          "text": "این همان [فضیلتی] است كه الله به بندگان مؤمن و نیكوكارش بشارت مى‌دهد. [ای پیامبر،] بگو: «در برابر این رسالت، پاداشى از شما نمى‌خواهم؛ جز [رعایتِ دوستی و] محبتِ خویشاوندى؛ و هر کس [در این راستا] اقدام نیكویى كند، بر پاداشش در آن [مورد] مى‌افزاییم. به راستی كه الله آمرزگارى قدرشناس است."
+        }
+      ]
+    },
+    {
+      "id": 4296,
+      "verse_number": 24,
+      "verse_key": "42:24",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926961,
+          "resource_id": 135,
+          "text": "آیا مشرکان مى‌گویند: «[محمد] به الله دروغ نسبت داده است؟» اگر الله بخواهد، بر دل تو مُهر مى‌نهد؛ و[لى] الله باطل را محو مى‌كند و حق را با سخنان [و تمهیداتِ] خویش به كرسى مى‌نشانَد؛ كه او به راز دل‌ها داناست."
+        }
+      ]
+    },
+    {
+      "id": 4297,
+      "verse_number": 25,
+      "verse_key": "42:25",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926962,
+          "resource_id": 135,
+          "text": "اوست که توبۀ بندگانش را می‌پذیرد و از بدی‌ها درمى‌گذرد و آنچه مى‌كنید مى‌داند."
+        }
+      ]
+    },
+    {
+      "id": 4298,
+      "verse_number": 26,
+      "verse_key": "42:26",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 194,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926963,
+          "resource_id": 135,
+          "text": "او [درخواستِ] مؤمنانِ نیكوكار را مى‌پذیرد و از فضلِ خویش بر [پاداش] آنان مى‌افزاید؛ و کافران عذابى سخت [در پیش] دارند."
+        }
+      ]
+    },
+    {
+      "id": 4299,
+      "verse_number": 27,
+      "verse_key": "42:27",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926964,
+          "resource_id": 135,
+          "text": "اگر الله روزىِ [برخى از] بندگانش را گشایش مى‌داد، در زمین ستم و سركشى مى‌كردند؛ ولى به ‌اندازه‌اى كه بخواهد مقرر مى‌دارد ؛ زیرا او قطعاً به [حال] بندگانش آگاه و بیناست."
+        }
+      ]
+    },
+    {
+      "id": 4300,
+      "verse_number": 28,
+      "verse_key": "42:28",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926965,
+          "resource_id": 135,
+          "text": "او ذاتی است كه باران را پس از نومیدى [مردم] مى‌فرستد و رحمت خویش را مى‌گسترد؛ و او تعالی كارساز و ستوده است."
+        }
+      ]
+    },
+    {
+      "id": 4301,
+      "verse_number": 29,
+      "verse_key": "42:29",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 423,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926966,
+          "resource_id": 135,
+          "text": "از نشانه‌هاى [توان و تدبیر] او، آفرینش آسمان‌ها و زمین و موجودات زنده‌اى است كه در آنها پراكنده كرده است؛ و هر گاه اراده كند، بر جمع‌آورى آنها نیز تواناست."
+        }
+      ]
+    },
+    {
+      "id": 4302,
+      "verse_number": 30,
+      "verse_key": "42:30",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926967,
+          "resource_id": 135,
+          "text": "هر مصیبتی که به شما رسد، به خاطر کارهایی است که انجام داده‌اید؛ و [الله] از بسیاری [از گناهانتان] گذشت می‌کند."
+        }
+      ]
+    },
+    {
+      "id": 4303,
+      "verse_number": 31,
+      "verse_key": "42:31",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 486,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926968,
+          "resource_id": 135,
+          "text": "شما هرگز در زمین [و آسمان، الله را] به تنگ نمى‌آورید؛ و در برابر الله هیچ كارساز و یاورى نخواهید داشت."
+        }
+      ]
+    },
+    {
+      "id": 4304,
+      "verse_number": 32,
+      "verse_key": "42:32",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926969,
+          "resource_id": 135,
+          "text": "از نشانه‌های [توان و تدبیرِ] الهی، کشتی‌های کوه‌پیکری است که در دریاها در حرکتند."
+        }
+      ]
+    },
+    {
+      "id": 4305,
+      "verse_number": 33,
+      "verse_key": "42:33",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926970,
+          "resource_id": 135,
+          "text": "اگر الله بخواهد، باد را ساكن مى‌گردانَد تا [کشتی‌ها] بر پهنۀ دریا بى‌حركت بمانند. به راستى در این [امر،] براى هر شكیباى سپاسگزاری، نشانه‌هایى است."
+        }
+      ]
+    },
+    {
+      "id": 4306,
+      "verse_number": 34,
+      "verse_key": "42:34",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926971,
+          "resource_id": 135,
+          "text": "یا [اگر بخواهد، سرنشینانِ] آن کشتی‌ها را به کیفر اعمالشان نابود می‌سازد؛ در حالی که او از بسیاری [از گناهان] ‌گذشت می‌کند."
+        }
+      ]
+    },
+    {
+      "id": 4307,
+      "verse_number": 35,
+      "verse_key": "42:35",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926972,
+          "resource_id": 135,
+          "text": "[تا موجب عبرت باشد] و كسانى كه در مورد آیات ما به مجادله برمى‌خیزند، بدانند كه [اگر عذاب الهی فرارسد،] راه گریزى نخواهند داشت."
+        }
+      ]
+    },
+    {
+      "id": 4308,
+      "verse_number": 36,
+      "verse_key": "42:36",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926973,
+          "resource_id": 135,
+          "text": "[ای مردم،] آنچه به شما داده شده است، نعمت‌های [گذراىِ] زندگى دنیاست؛ و آنچه نزد الله است، براى مؤمنانى كه بر پروردگارشان توکل مى‌كنند، بهتر و پاینده‌تر است."
+        }
+      ]
+    },
+    {
+      "id": 4309,
+      "verse_number": 37,
+      "verse_key": "42:37",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926974,
+          "resource_id": 135,
+          "text": "و [نیز براى] کسانی كه از گناهان بزرگ و بی‌حیایی‌ها اجتناب می‌ورزند و آنگاه كه خشمگین می‌شوند، گذشت مى‌كنند."
+        }
+      ]
+    },
+    {
+      "id": 4310,
+      "verse_number": 38,
+      "verse_key": "42:38",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926975,
+          "resource_id": 135,
+          "text": "و کسانی كه [دعوت] پروردگارشان را پذیرا مى‌شوند و نماز برپا مى‌دارند و كارشان در ميانشان [بر پايه‌] مشورت است و از آنچه روزى‌شان كرده‌ایم، انفاق مى‌كنند."
+        }
+      ]
+    },
+    {
+      "id": 4311,
+      "verse_number": 39,
+      "verse_key": "42:39",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926976,
+          "resource_id": 135,
+          "text": "و کسانی که هر گاه ستمی به آنان برسد، [به دفاع و] انتقام برمی‌خیزند."
+        }
+      ]
+    },
+    {
+      "id": 4312,
+      "verse_number": 40,
+      "verse_key": "42:40",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926977,
+          "resource_id": 135,
+          "text": "و جزای هر بدی، کیفری همانند آن بدی است [نه بیشتر]؛ اما هر کس گذشت کند و کار را به اصلاح [و آشتی] آورَد، پاداشش بر عهدۀ الله است. بی‌گمان، او ستمکاران را دوست ندارد."
+        }
+      ]
+    },
+    {
+      "id": 4313,
+      "verse_number": 41,
+      "verse_key": "42:41",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926978,
+          "resource_id": 135,
+          "text": "البته کسانی كه پس از ستمى كه دیده‌اند، انتقام می‌گیرند، هیچ [بازخواست و] سرزنشی بر آنان نیست."
+        }
+      ]
+    },
+    {
+      "id": 4314,
+      "verse_number": 42,
+      "verse_key": "42:42",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926979,
+          "resource_id": 135,
+          "text": "راه [بازخواست و] سرزنش، تنها بر ستمکارانى گشوده است كه به ناحق در زمین برترى‌جویی مى‌كنند. آنان عذابى دردناک [در پیش] دارند."
+        }
+      ]
+    },
+    {
+      "id": 4315,
+      "verse_number": 43,
+      "verse_key": "42:43",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 424,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926980,
+          "resource_id": 135,
+          "text": "اما هر کس شكیبایى و گذشت كند، نشان از قدرت ارادۀ [او] دارد."
+        }
+      ]
+    },
+    {
+      "id": 4316,
+      "verse_number": 44,
+      "verse_key": "42:44",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 487,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926981,
+          "resource_id": 135,
+          "text": "هر کس که الله او را گمراه كند، پس از الله هیچ [یاور و] كارسازى نخواهد داشت؛ و [در روز قیامت،] ستمکاران را مى‌بینى كه چون عذاب را مشاهده كنند، مى‌گویند: «آیا راه بازگشتى [به دنیا] هست؟»"
+        }
+      ]
+    },
+    {
+      "id": 4317,
+      "verse_number": 45,
+      "verse_key": "42:45",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 488,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926982,
+          "resource_id": 135,
+          "text": "[در آن روز،] ستمگران را مشاهده خواهى كرد كه بر آتش عرضه مى‌شوند؛ و در حالى كه از [شدت] خواری، فروتن شده‌اند، زیرچشمى مى‌نگرند؛ و [در آن حال] مؤمنان مى‌گویند: «زیانكاران [واقعى] كسانى هستند كه [به طمع دنیا] خود و خانواده‌شان را در قیامت به زیان‌انداخته‌اند». آگاه باشید! ستمکاران، گرفتارِ عذابى پایدارند."
+        }
+      ]
+    },
+    {
+      "id": 4318,
+      "verse_number": 46,
+      "verse_key": "42:46",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 488,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926983,
+          "resource_id": 135,
+          "text": "و آنان در برابر الله، كارسازى نخواهند داشت كه یارى‌شان كند؛ و هر کس كه الله او را گمراه كند، راهى [براى نجات] نخواهد داشت."
+        }
+      ]
+    },
+    {
+      "id": 4319,
+      "verse_number": 47,
+      "verse_key": "42:47",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 488,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926984,
+          "resource_id": 135,
+          "text": "[ای مردم،] پیش از آنكه روزى فرارسد كه بازگشتى از جانب الله ندارد، دعوت پروردگارتان را بپذیرید. در آن روز، نه پناهگاهى خواهید داشت، نه [فرصتی برای] انكار."
+        }
+      ]
+    },
+    {
+      "id": 4320,
+      "verse_number": 48,
+      "verse_key": "42:48",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 488,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926985,
+          "resource_id": 135,
+          "text": "[ای پیامبر] اگر [مشرکان از دعوتِ تو] روى می‌گردانند، [توفیق را از خود سلب می‌كنند]. ما تو را نگهبان آنان نفرستادیم و تو وظیفه‌اى جز رساندن [وحی] نداری؛ و چون رحمتى از جانب خود به انسان بچشانیم، به آن سرمست مى‌شود؛ و اگر به سزاى رفتار گذشتۀ خود دچار مصیبتى شود، [به جاى بیدارى، ناسپاسی مى‌کند]. به راستی که انسان بسیار ناسپاس است."
+        }
+      ]
+    },
+    {
+      "id": 4321,
+      "verse_number": 49,
+      "verse_key": "42:49",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 488,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926986,
+          "resource_id": 135,
+          "text": "فرمانروایى آسمان‌ها و زمین، از آنِ الله است. او هر چه بخواهد، مى‌آفریند؛ به هر کس که بخواهد، [فرزندِ] دختر مى‌بخشد و به هر کس كه بخواهد، [فرزندِ] پسر."
+        }
+      ]
+    },
+    {
+      "id": 4322,
+      "verse_number": 50,
+      "verse_key": "42:50",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 195,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 488,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926987,
+          "resource_id": 135,
+          "text": "یا پسر و دختر را ـ هر دو ـ با هم می‌دهد؛ و هر کس را که بخواهد، نازا مى‌گرداند كه او دانای تواناست."
+        }
+      ]
+    },
+    {
+      "id": 4323,
+      "verse_number": 51,
+      "verse_key": "42:51",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 488,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926988,
+          "resource_id": 135,
+          "text": "درخورِ هیچ بشرى نیست كه الله با او سخن بگوید؛ مگر با وحى یا از فراسویِ حجابى یا [اینکه الله] فرشته‌اى بفرستد كه به فرمانش هر چه بخواهد، وحى كند. بی‌تردید، او تعالی بلندمرتبۀ حکیم است."
+        }
+      ]
+    },
+    {
+      "id": 4324,
+      "verse_number": 52,
+      "verse_key": "42:52",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926989,
+          "resource_id": 135,
+          "text": "[ای پیامبر] این‌گونه، قرآن را [توسط جبرئیل و] به فرمان خویش بر تو وحى كردیم. [پیش از آن] تو آگاهى نداشتى كه كتاب و ایمان چیست؛ ولى ما آن را نورى ساختیم كه هر یک از بندگان خویش را كه بخواهیم، به آن هدایت كنیم؛ و مسلّماً تو به راهى راست [= اسلام] هدایت مى‌كنى."
+        }
+      ]
+    },
+    {
+      "id": 4325,
+      "verse_number": 53,
+      "verse_key": "42:53",
+      "hizb_number": 49,
+      "rub_el_hizb_number": 196,
+      "ruku_number": 425,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 489,
+      "juz_number": 25,
+      "translations": [
+        {
+          "id": 926990,
+          "resource_id": 135,
+          "text": "راه الله که آنچه در آسمان‌ها و زمین است از آنِ اوست. آگاه باشید! [همۀ] امور به سوی الله بازمی‌گردد."
+        }
+      ]
+    }
+  ]
+}

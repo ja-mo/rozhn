@@ -1,0 +1,386 @@
+{
+  "id": 73,
+  "name": "The Enshrouded One",
+  "verses": [
+    {
+      "id": 5476,
+      "verse_number": 1,
+      "verse_key": "73:1",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928141,
+          "resource_id": 135,
+          "text": "ای جامه‌به‌خودپیچیده،"
+        }
+      ]
+    },
+    {
+      "id": 5477,
+      "verse_number": 2,
+      "verse_key": "73:2",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928142,
+          "resource_id": 135,
+          "text": "شب را ـ جز اندکی‌ـ به پا خیز [و عبادت کن]."
+        }
+      ]
+    },
+    {
+      "id": 5478,
+      "verse_number": 3,
+      "verse_key": "73:3",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928143,
+          "resource_id": 135,
+          "text": "نیمه‌ای از آن را، یا اندکی از آن کم کن."
+        }
+      ]
+    },
+    {
+      "id": 5479,
+      "verse_number": 4,
+      "verse_key": "73:4",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928144,
+          "resource_id": 135,
+          "text": "یا اندکی بر [نصف] آن بیفزای، و قرآن را با ترتیل [و تأمل] بخوان."
+        }
+      ]
+    },
+    {
+      "id": 5480,
+      "verse_number": 5,
+      "verse_key": "73:5",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928145,
+          "resource_id": 135,
+          "text": "یقیناً ما به زودی سخنی سنگین بر تو نازل خواهیم کرد."
+        }
+      ]
+    },
+    {
+      "id": 5481,
+      "verse_number": 6,
+      "verse_key": "73:6",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928146,
+          "resource_id": 135,
+          "text": "بی‌گمان، شب‌زنده‌داری [بر نفس] دشوار است، و برای گفتار [و نیایش،] مناسب‌تر و استوارتر است."
+        }
+      ]
+    },
+    {
+      "id": 5482,
+      "verse_number": 7,
+      "verse_key": "73:7",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928147,
+          "resource_id": 135,
+          "text": "و یقیناً تو در روز، مشغلۀ بسیار داری."
+        }
+      ]
+    },
+    {
+      "id": 5483,
+      "verse_number": 8,
+      "verse_key": "73:8",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928148,
+          "resource_id": 135,
+          "text": "و نام پروردگارت را یاد کن و [با خالص نمودن عبادت] تنها به او دل ببند."
+        }
+      ]
+    },
+    {
+      "id": 5484,
+      "verse_number": 9,
+      "verse_key": "73:9",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928149,
+          "resource_id": 135,
+          "text": "[همان] پروردگار مشرق و مغرب که معبودی [به‌حق] جز او نیست؛ پس او را کارساز [و نگهبان خود] برگُزین."
+        }
+      ]
+    },
+    {
+      "id": 5485,
+      "verse_number": 10,
+      "verse_key": "73:10",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928150,
+          "resource_id": 135,
+          "text": "و بر آنچه [مشرکان] می‌گویند، شکیبا باش، و به شیوۀ نیکو [و شایسته] از آنان دوری کن،"
+        }
+      ]
+    },
+    {
+      "id": 5486,
+      "verse_number": 11,
+      "verse_key": "73:11",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928151,
+          "resource_id": 135,
+          "text": "و مرا با این تکذیب‌کنندگان مرفّه واگذار و کمی به آنان مهلت ده."
+        }
+      ]
+    },
+    {
+      "id": 5487,
+      "verse_number": 12,
+      "verse_key": "73:12",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928152,
+          "resource_id": 135,
+          "text": "بی‌گمان، نزد ما قید [و بندهایی] سنگین و [آتش] دوزخ است،"
+        }
+      ]
+    },
+    {
+      "id": 5488,
+      "verse_number": 13,
+      "verse_key": "73:13",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928153,
+          "resource_id": 135,
+          "text": "و غذایی [ناگوار و] گلوگیر و عذابی دردناک."
+        }
+      ]
+    },
+    {
+      "id": 5489,
+      "verse_number": 14,
+      "verse_key": "73:14",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928154,
+          "resource_id": 135,
+          "text": "روزی ‌که زمین و کوه‌ها به لرزه درآید و کوه‌ها [متلاشی ‌شوند و] همچون تودۀ شنِ نرم [و روان] ‌گردند."
+        }
+      ]
+    },
+    {
+      "id": 5490,
+      "verse_number": 15,
+      "verse_key": "73:15",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928155,
+          "resource_id": 135,
+          "text": "یقیناً ما پیامبری به سوی شما فرستادیم که بر شما شاهد [و گواه] است؛ همان‌گونه که به سوی فرعون پیامبری فرستادیم."
+        }
+      ]
+    },
+    {
+      "id": 5491,
+      "verse_number": 16,
+      "verse_key": "73:16",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928156,
+          "resource_id": 135,
+          "text": "آنگاه فرعون از آن پیامبر نافرمانی [و با او مخالفت] کرد، و ما او را به شدّت مجازات کردیم."
+        }
+      ]
+    },
+    {
+      "id": 5492,
+      "verse_number": 17,
+      "verse_key": "73:17",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928157,
+          "resource_id": 135,
+          "text": "پس اگر کافر شوید، چگونه خود را [از عذاب] در امان می‌دارید [در] روزی‌ که [از هول و سختی] کودکان را پیر می‌گرداند؟"
+        }
+      ]
+    },
+    {
+      "id": 5493,
+      "verse_number": 18,
+      "verse_key": "73:18",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928158,
+          "resource_id": 135,
+          "text": "[در آن روز،] آسمان شکافته می‌شود [و] وعدۀ او قطعاً به وقوع می‌پیوندد."
+        }
+      ]
+    },
+    {
+      "id": 5494,
+      "verse_number": 19,
+      "verse_key": "73:19",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 229,
+      "ruku_number": 510,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 574,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928159,
+          "resource_id": 135,
+          "text": "بی‌گمان، این [آیات،] پند [و هشداری] است تا هر کس بخواهد، به سوى پروردگار خود راهى در پیش گیرد."
+        }
+      ]
+    },
+    {
+      "id": 5495,
+      "verse_number": 20,
+      "verse_key": "73:20",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 511,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928160,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] یقیناً پروردگارت می‌داند که تو و گروهی از کسانی که با تو هستند، نزدیک دو سوم شب و [یا] نصف [یا] یک‌سومِ آن را به [نماز] برمی‌خیزید؛ و الله شب و روز را اندازه‌گیری می‌کند. [او] می‌داند که شما نمی‌توانید همه شب را به نماز بایستید؛ و شما را بخشید. پس اکنون هر چه از قرآن [برای شما] میسّر باشد، بخوانید. [الله] می‌داند که برخی از شما بیمار خواهند شد، و گروهی [دیگر] برای به دست ‌آوردن فضل و نعمتِ الله، در زمین سفر می‌کنند، و گروهی [نیز] در راه الله جهاد می‌کنند؛ پس آنچه از آن میسر باشد بخوانید و نماز بر پا دارید و زکات دهید و به الله قرض نیکو دهید؛ و [بدانید که] آنچه از کارهای خیر پیشاپیش برای خود می‌فرستید، [آن را] نزد الله به بهترین وجه و بزرگ‌ترین پاداش خواهید یافت؛ و از الله آمرزش بخواهید، که همانا الله آمرزندۀ مهربان است."
+        }
+      ]
+    }
+  ]
+}

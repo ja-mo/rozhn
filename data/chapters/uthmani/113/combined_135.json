@@ -1,0 +1,106 @@
+{
+  "id": 113,
+  "name": "The Daybreak",
+  "verses": [
+    {
+      "id": 6226,
+      "verse_number": 1,
+      "verse_key": "113:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928891,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] بگو: «به پروردگار سپیده‌دم پناه می‌برم،"
+        }
+      ]
+    },
+    {
+      "id": 6227,
+      "verse_number": 2,
+      "verse_key": "113:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928892,
+          "resource_id": 135,
+          "text": "از شرِ تمام آنچه آفریده است،"
+        }
+      ]
+    },
+    {
+      "id": 6228,
+      "verse_number": 3,
+      "verse_key": "113:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928893,
+          "resource_id": 135,
+          "text": "و از شر تاریکی شب، آنگاه که همه جا را فراگیرد،"
+        }
+      ]
+    },
+    {
+      "id": 6229,
+      "verse_number": 4,
+      "verse_key": "113:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928894,
+          "resource_id": 135,
+          "text": "و از شر [زنان جادوگر] که با افسون در گره‌ها می‌دمند."
+        }
+      ]
+    },
+    {
+      "id": 6230,
+      "verse_number": 5,
+      "verse_key": "113:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928895,
+          "resource_id": 135,
+          "text": "و از شر [هر] حسود، آنگاه که حسد ورزد»."
+        }
+      ]
+    }
+  ]
+}

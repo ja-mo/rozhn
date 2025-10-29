@@ -1,0 +1,671 @@
+{
+  "id": 46,
+  "name": "The Wind-Curved Sandhills",
+  "verses": [
+    {
+      "id": 4511,
+      "verse_number": 1,
+      "verse_key": "46:1",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 502,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927176,
+          "resource_id": 135,
+          "text": "حم [حا. میم]."
+        }
+      ]
+    },
+    {
+      "id": 4512,
+      "verse_number": 2,
+      "verse_key": "46:2",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 502,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927177,
+          "resource_id": 135,
+          "text": "نزول [این] کتاب از جانب الله شکست‌ناپذیرِ حکیم است."
+        }
+      ]
+    },
+    {
+      "id": 4513,
+      "verse_number": 3,
+      "verse_key": "46:3",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 502,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927178,
+          "resource_id": 135,
+          "text": "آسمان‌ها و زمین و آنچه را که بین آنهاست به‌حق [و هدفمند] و براى مدتى معین آفریده‌ایم؛ و[لى] کافران از آنچه به آنان هشدار داده شده، رویگردانند."
+        }
+      ]
+    },
+    {
+      "id": 4514,
+      "verse_number": 4,
+      "verse_key": "46:4",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 502,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927179,
+          "resource_id": 135,
+          "text": "[ای پیامبر، به مشرکان] بگو: «آیا به چیزهایی که به جاى الله [به نیایش] مى‌خوانید توجه كرده‌اید؟ به من نشان دهید چه چیز از [اجزاى] زمین را آفریده‌اند. آیا در [آفرینش] آسمان‌ها شركت داشته‌اند؟ اگر راست مى‌گویید، از کتاب‌های آسمانى پیشین یا بازمانده‌ای از دانش [گذشتگان، دلیل] بیاورید»."
+        }
+      ]
+    },
+    {
+      "id": 4515,
+      "verse_number": 5,
+      "verse_key": "46:5",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 502,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927180,
+          "resource_id": 135,
+          "text": "كیست گمراه‌تر از کسی كه به جاى الله، افرادى را به دعا مى‌خواند كه تا روز قیامت به او پاسخ نمى‌دهند و آنان [= معبود‌های باطل، اساساً] از درخواست آنها [= عبادتگزارانشان] بى‌خبرند؟"
+        }
+      ]
+    },
+    {
+      "id": 4516,
+      "verse_number": 6,
+      "verse_key": "46:6",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927181,
+          "resource_id": 135,
+          "text": "و آنگاه که [در قیامت] مردم احضار شوند، آن [معبودان باطل] دشمنانشان خواهند بود و عبادتشان را انکار خواهند کرد."
+        }
+      ]
+    },
+    {
+      "id": 4517,
+      "verse_number": 7,
+      "verse_key": "46:7",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927182,
+          "resource_id": 135,
+          "text": "و چون آیاتِ روشنگر ما بر کافران خوانده می‌شود، آنان در مورد سخن حقى كه به آنها رسیده است می‌گویند: «این جادویى آشكار است»؛"
+        }
+      ]
+    },
+    {
+      "id": 4518,
+      "verse_number": 8,
+      "verse_key": "46:8",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927183,
+          "resource_id": 135,
+          "text": "یا می‌گویند: «[محمد] این [قرآن] را خود جعل كرده [و به الله نسبت داده] است». [ای پیامبر، به آنان] بگو: «اگر من آن را جعل کرده [و به الله نسبت داده] باشم، شما نمی‌توانید در برابر [عذاب و خشم] الله از من دفاع کنید. الله به آنچه شما دربارۀ او [= قرآن، با طعنه] گفتگو می‌کنید، آگاه‌تر است، و به عنوان گواه بین من و شما كافى است؛ و او آمرزگارِ مهربان است»."
+        }
+      ]
+    },
+    {
+      "id": 4519,
+      "verse_number": 9,
+      "verse_key": "46:9",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927184,
+          "resource_id": 135,
+          "text": "بگو: «من پدیده‌اى نوظهور در میان پیامبران نیستم و نمى‌دانم سرنوشت من و شما چه خواهد شد؛ تنها از آنچه به من وحى مى‌شود پیروى مى‌كنم و فقط هشداردهنده‌اى آشكارم»."
+        }
+      ]
+    },
+    {
+      "id": 4520,
+      "verse_number": 10,
+      "verse_key": "46:10",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 440,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927185,
+          "resource_id": 135,
+          "text": "بگو: «به من بگویید: اگر قرآن از جانب الله باشد و شما به آن کفر ورزید و شاهدى از بنی‌اسرائیل، به مشابهت آن [با تورات و با تکیه بر آنچه در تورات در مورد آن آمده بر حقانیّت آن] گواهى داده و ایمان آورده باشد و شما در برابرش [انكار و] تكبر ورزید، [آیا گمراه و ستمگر نیستید]؟ بى‌گمان، الله ستمکاران را هدایت نخواهد كرد»."
+        }
+      ]
+    },
+    {
+      "id": 4521,
+      "verse_number": 11,
+      "verse_key": "46:11",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927186,
+          "resource_id": 135,
+          "text": "و کافران به مؤمنان گفتند: «اگر این [قرآن] خوب بود، کسانی [كه بردگان و فقیرانی ناچیزند] در پذیرش آن بر ما سبقت نمى‌گرفتند»؛ و چون به وسیله آن هدایت نیافته‌اند، مى‌گویند: «این [قرآن]، دروغى قدیمی است»."
+        }
+      ]
+    },
+    {
+      "id": 4522,
+      "verse_number": 12,
+      "verse_key": "46:12",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927187,
+          "resource_id": 135,
+          "text": "و [در حالى كه] پیش از آن [= قرآن]، كتاب موسى راهنما و رحمت بود؛ و این [قرآن،] كتابى است كه [تورات را] به زبان [شیوای] عربی تصدیق مى‌كند تا به ستمکاران هشدار دهد و براى نیكوكاران بشارت باشد."
+        }
+      ]
+    },
+    {
+      "id": 4523,
+      "verse_number": 13,
+      "verse_key": "46:13",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927188,
+          "resource_id": 135,
+          "text": "كسانى كه گفتند: «پروردگارِ ما الله است»؛ آنگاه [از بندگىِ غیرِ او سر باز زدند و بر اعتقاد خود] پاى فشردند، ترس و ‌اندوهى نخواهند داشت."
+        }
+      ]
+    },
+    {
+      "id": 4524,
+      "verse_number": 14,
+      "verse_key": "46:14",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 503,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927189,
+          "resource_id": 135,
+          "text": "آنان اهل بهشتند و جاودانه در آنجا خواهند بود. این، پاداش اعمالی است که انجام ‌داده‌اند."
+        }
+      ]
+    },
+    {
+      "id": 4525,
+      "verse_number": 15,
+      "verse_key": "46:15",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 504,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927190,
+          "resource_id": 135,
+          "text": "و انسان را به نيكى كردن به پدر و مادرش سفارش كرديم؛ [به ویژه] مادر كه به دشوارى بارِ حمل او را بر عهده دارد و با دشوارى وضع حمل می‌كند؛ و [دوران] باردارى و شیرخوارگى‌اش [مجموعاً] سى ماه است؛ [او پرورش می‌یابد] تا به حد رشد برسد و در چهل سالگى [كه توان جسمی و ذهنی‌اش کامل است] می‌گوید: «پروردگارا، به من توفیق بده تا شکرِ نعمتی را كه به من و پدر و مادرم ارزانى داشته‌اى، به جای آورم و كار شایسته‌اى انجام دهم كه از آن راضی گردى؛ و فرزندانم را شایسته گردان؛ به درگاهت [توبه‌ نموده و] بازگشته‌ام و تسلیم [فرمانت] هستم»."
+        }
+      ]
+    },
+    {
+      "id": 4526,
+      "verse_number": 16,
+      "verse_key": "46:16",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 504,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927191,
+          "resource_id": 135,
+          "text": "آنان کسانی هستند که ما نیکوترین کارهایشان را می‌پذیریم و از گناهانشان درمی‌گذریم و در زمرۀ اهل بهشتند. این وعدۀ راستی است که به آن نوید داده‌ شده‌اند."
+        }
+      ]
+    },
+    {
+      "id": 4527,
+      "verse_number": 17,
+      "verse_key": "46:17",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 504,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927192,
+          "resource_id": 135,
+          "text": "و کسی كه به پدر و مادرش گفت: «اف بر شما! چگونه به من وعده مى‌دهید كه [از گور] بیرون آورده خواهم شد؛ در حالى كه نسل‌های فراوانی پیش از من رفتند [و بازنگشتند]؟» پدر و مادرش به درگاه الهی زاری مى‌كنند [که فرزندشان را هدایت کند و به او مى‌گویند:] «واى بر تو! ایمان بیاور كه وعدۀ الهی راست است»؛ [اما] او پاسخ مى‌دهد: «این [وعده‌ها] فقط افسانه‌هاى [خیالی] پیشینیان است»."
+        }
+      ]
+    },
+    {
+      "id": 4528,
+      "verse_number": 18,
+      "verse_key": "46:18",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 504,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927193,
+          "resource_id": 135,
+          "text": "این افراد، در زمرۀ گروه‌هایی از جن و انس هستند كه پیشتر، فرمان عذاب الهی در موردشان تحقق یافته است. بى‌گمان، آنان زیانكار بودند."
+        }
+      ]
+    },
+    {
+      "id": 4529,
+      "verse_number": 19,
+      "verse_key": "46:19",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 504,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927194,
+          "resource_id": 135,
+          "text": "هر گروه [بهشتی یا دوزخی]، درجاتى بر حسب اعمالشان دارند [تا حقى ضایع نگردد]؛ و الله اعمالشان را به تمام و کمال کیفر می‌دهد؛ بى آنكه در حقشان ستم شود."
+        }
+      ]
+    },
+    {
+      "id": 4530,
+      "verse_number": 20,
+      "verse_key": "46:20",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 201,
+      "ruku_number": 441,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 504,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927195,
+          "resource_id": 135,
+          "text": "روزى كه کافران بر آتش عرضه مى‌شوند، [به آنان خطاب مى‌شود:] «نعمت‌های پاكیزۀ خود را در زندگی دنیا از بین بردید و از آنها بهره‌مند شدید؛ پس امروز به خاطر برتری‌جوییِ ناحق و انحرافی كه در زمین داشتید، با عذابى خفت‌بار مجازات مى‌شوید»."
+        }
+      ]
+    },
+    {
+      "id": 4531,
+      "verse_number": 21,
+      "verse_key": "46:21",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 442,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927196,
+          "resource_id": 135,
+          "text": "[ای پیامبر، سرگذشت هود،] برادر قوم عاد را یاد کن؛ آنگاه كه در سرزمین «احقاف» [= ریگزاری در جنوب شبه جزیرۀ عربستان] قومش را هشدار مى‌داد ـ در حالى كه هشداردهندگان [دیگرى نیز] در گذشته‌هاى دور و نزدیک آمده بودند ـ [و چنین می‌گفت] كه: «تنها الله را عبادت کنید كه من از عذاب روزى بزرگ بر شما مى‌ترسم»."
+        }
+      ]
+    },
+    {
+      "id": 4532,
+      "verse_number": 22,
+      "verse_key": "46:22",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 442,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927197,
+          "resource_id": 135,
+          "text": "آنان گفتند: «آیا آمده‌اى كه ما را از [عبادت] معبودانمان بازگردانى؟ اگر راست مى‌گویى، عذابى كه به ما وعده مى‌دهى پیش آور»."
+        }
+      ]
+    },
+    {
+      "id": 4533,
+      "verse_number": 23,
+      "verse_key": "46:23",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 442,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927198,
+          "resource_id": 135,
+          "text": "[هود] گفت: «[وقت نزول عذاب را] فقط الله مى‌داند؛ و من پیامى را كه مأمور [ابلاغ] آن شده‌ام به شما مى‌رسانم؛ ولى شما را گروهى نادان مى‌بینم»."
+        }
+      ]
+    },
+    {
+      "id": 4534,
+      "verse_number": 24,
+      "verse_key": "46:24",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 442,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927199,
+          "resource_id": 135,
+          "text": "و چون آن [عذاب] را كه به صورت ابرى در جهت [دشت و] دره‌ها[ى حاصلخیز]شان پیش مى‌آمد، مشاهده كردند، [با شادمانی] گفتند: «این ابرى است كه [رحمت] بر ما مى‌بارد»؛ [هود گفت: «نه،] بلكه همان [عذابى] است كه براى رسیدنش شتاب داشتید؛ تندبادى است که عذابى دردناک با خود دارد."
+        }
+      ]
+    },
+    {
+      "id": 4535,
+      "verse_number": 25,
+      "verse_key": "46:25",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 442,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927200,
+          "resource_id": 135,
+          "text": "[طوفانی است که] هر چیزى را به فرمان پروردگارش در هم مى‌كوبد»؛ آنگاه چنان [هلاک] شدند كه جز خانه‌هاى [ویران] آنان، اثرى به چشم نمى‌خورد. ما بزهكاران را این گونه كیفر مى‌دهیم."
+        }
+      ]
+    },
+    {
+      "id": 4536,
+      "verse_number": 26,
+      "verse_key": "46:26",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 442,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927201,
+          "resource_id": 135,
+          "text": "یقیناً به آنها [= قوم عاد]، چنان امکاناتی داده بودیم كه به شما [اهل مکه، چنان] امکاناتی نداده‌ایم؛ و برای آنان چشم و گوش و دل [نیرومندتر از دیگران] قرار داده بودیم، و[لی] گوش و چشم و دل‌هایشان سودى به حالشان نداشت؛ زیرا آیات الهی را انكار مى‌كردند و [سرانجام،] عذابی كه آن را مسخره مى‌كردند، دامنگیرشان شد."
+        }
+      ]
+    },
+    {
+      "id": 4537,
+      "verse_number": 27,
+      "verse_key": "46:27",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927202,
+          "resource_id": 135,
+          "text": "[بسیارى از مردم] شهرهاى پیرامون شما [مكّیان] را هلاک كردیم؛ و[لى قبلاً] نشانه‌ها [و دلایل توحید] را به شکل‌های مختلف در میان آوردیم؛ باشد که [از کفر و گمراهى] بازگردند."
+        }
+      ]
+    },
+    {
+      "id": 4538,
+      "verse_number": 28,
+      "verse_key": "46:28",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 505,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927203,
+          "resource_id": 135,
+          "text": "پس چرا کسانی كه [مشرکان آنان را] براى تقرب [به الله،] معبودان خود گرفتند، [به هنگام بلا] یاری‌شان نكردند؟ بلكه از نظرشان ناپدید شدند؛ و [سرانجامِ] دروغ‌ها و تهمت‌هایشان همین بود."
+        }
+      ]
+    },
+    {
+      "id": 4539,
+      "verse_number": 29,
+      "verse_key": "46:29",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 506,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927204,
+          "resource_id": 135,
+          "text": "[ای پیامبر، به یاد آور] هنگامی‌ که گروهى از جن را به سوی تو فرستادیم كه قرآن را بشنوند؛ هنگامی که نزد پیامبر حضور یافتند، [به یكدیگر] گفتند: «خاموش باشید [تا به آیات قرآن گوش فرادهیم] و چون [تلاوتش] به پایان رسید، نزد قوم خود بازگشتند تا به آنان [در مورد عواقبِ سرپیچی از فرمان حق] هشدار دهند."
+        }
+      ]
+    },
+    {
+      "id": 4540,
+      "verse_number": 30,
+      "verse_key": "46:30",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 506,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927205,
+          "resource_id": 135,
+          "text": "گفتند: «اى قوم، ما [آیاتِ] كتابى را شنیدیم كه پس از موسى نازل شده است و کتاب‌های [آسمانیِ] پیش از خود را تصدیق می‌کند و به [سوى] حق و راه راست هدایت مى‌نماید."
+        }
+      ]
+    },
+    {
+      "id": 4541,
+      "verse_number": 31,
+      "verse_key": "46:31",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 506,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927206,
+          "resource_id": 135,
+          "text": "ای قوم، [سخنان توحیدیِ] این دعوتگر را که به سوی الله فرامی‌خوانَد بپذیرید و به او ایمان آورید تا [الله] برخى از گناهانتان را ببخشد و شما را از عذابى دردناک در امان بدارد."
+        }
+      ]
+    },
+    {
+      "id": 4542,
+      "verse_number": 32,
+      "verse_key": "46:32",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 506,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927207,
+          "resource_id": 135,
+          "text": "و هر کس [سخنان] دعوتگری را که به سوی الله فرامی‌خوانَد نپذیرد [و به وی ایمان نیاورد، هرگز الله را] در زمین به تنگ نمى‌آورَد؛ و در برابر الله [یاور و] كارسازى نخواهد داشت. چنین کسانی در گمراهىِ آشكارند»."
+        }
+      ]
+    },
+    {
+      "id": 4543,
+      "verse_number": 33,
+      "verse_key": "46:33",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 506,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927208,
+          "resource_id": 135,
+          "text": "آیا مشرکان ندیده‌اند [و نمی‌دانند] الله که آسمان‌ها و زمین را آفرید و از آفرینش آنها درمانده نشد، قادر است مردگان را [نیز] زنده كند؟ آرى، او بر هر كارى تواناست."
+        }
+      ]
+    },
+    {
+      "id": 4544,
+      "verse_number": 34,
+      "verse_key": "46:34",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 506,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927209,
+          "resource_id": 135,
+          "text": "روزى كه کافران بر آتش عرضه مى‌شوند، [از آنان پرسیده مى‌شود:] «آیا این آتش حق نیست [و حقیقت ندارد]؟» آنان می‌گویند: «آری؛ سوگند به پروردگارمان [که چنین است]»؛ [آنگاه الله] می‌فرماید: «پس به سزاى آنكه [قیامت را] انكار مى‌کردید، عذاب را بچشید»."
+        }
+      ]
+    },
+    {
+      "id": 4545,
+      "verse_number": 35,
+      "verse_key": "46:35",
+      "hizb_number": 51,
+      "rub_el_hizb_number": 202,
+      "ruku_number": 443,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 506,
+      "juz_number": 26,
+      "translations": [
+        {
+          "id": 927210,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] تو نیز همچون پیامبران اولوالعزم [كه همواره ثابت‌قدم بودند، در برابر آزار و تکذیبِ قومت] شکیبا باش و در مورد [درخواست عذابِ] آنان شتاب نكن. روزى كه [این کافران] عذابِ موعودشان را [در جهان آخرت] ببینند، [کیفرشان چنان طولانی است که] گویى فقط بخشی از روز را [در دنیا] به سر برده‌اند. این قرآن، پیامى [عمومى برای جن و انس] است. آیا جز نافرمانان هلاک مى‌شوند؟"
+        }
+      ]
+    }
+  ]
+}

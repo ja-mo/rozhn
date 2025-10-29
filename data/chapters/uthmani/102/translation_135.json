@@ -1,0 +1,158 @@
+{
+  "id": 102,
+  "name": "The Rivalry in world increase",
+  "verses": [
+    {
+      "id": 6169,
+      "verse_number": 1,
+      "verse_key": "102:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928834,
+          "resource_id": 135,
+          "text": "زیاده‌خواهی، شما را به خود مشغول [و از یادِ پروردگار غافل] ساخت"
+        }
+      ]
+    },
+    {
+      "id": 6170,
+      "verse_number": 2,
+      "verse_key": "102:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928835,
+          "resource_id": 135,
+          "text": "تا [پایانِ] كارتان به گورستان رسید."
+        }
+      ]
+    },
+    {
+      "id": 6171,
+      "verse_number": 3,
+      "verse_key": "102:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928836,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست [که شما می‌پندارید]؛ به زودی خواهید دانست."
+        }
+      ]
+    },
+    {
+      "id": 6172,
+      "verse_number": 4,
+      "verse_key": "102:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928837,
+          "resource_id": 135,
+          "text": "باز [هم] چنین نیست؛ به زودی خواهید دانست."
+        }
+      ]
+    },
+    {
+      "id": 6173,
+      "verse_number": 5,
+      "verse_key": "102:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928838,
+          "resource_id": 135,
+          "text": "چنین نیست [که شما گمان می‌کنید]؛ اگر به دانشِ یقینی [و تردیدناپذیر، حقیقتِ قیامت را] می‌دانستید، [از زیاده‌خواهی و افتخار به اموال و فرزندانتان دست برمی‌داشتید]."
+        }
+      ]
+    },
+    {
+      "id": 6174,
+      "verse_number": 6,
+      "verse_key": "102:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928839,
+          "resource_id": 135,
+          "text": "سوگند که دوزخ را خواهید دید."
+        }
+      ]
+    },
+    {
+      "id": 6175,
+      "verse_number": 7,
+      "verse_key": "102:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928840,
+          "resource_id": 135,
+          "text": "باز هم سوگند که آن را با چشم یقین خواهید دید؛"
+        }
+      ]
+    },
+    {
+      "id": 6176,
+      "verse_number": 8,
+      "verse_key": "102:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928841,
+          "resource_id": 135,
+          "text": "آنگاه قطعاً در آن روز، از [تمام] نعمت‌ها بازخواست خواهید شد."
+        }
+      ]
+    }
+  ]
+}

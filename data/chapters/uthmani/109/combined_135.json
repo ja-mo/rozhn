@@ -1,0 +1,126 @@
+{
+  "id": 109,
+  "name": "The Disbelievers",
+  "verses": [
+    {
+      "id": 6208,
+      "verse_number": 1,
+      "verse_key": "109:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928873,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] بگو: «ای کافران،"
+        }
+      ]
+    },
+    {
+      "id": 6209,
+      "verse_number": 2,
+      "verse_key": "109:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928874,
+          "resource_id": 135,
+          "text": "آنچه را که شما عبادت می‌کنید، من عبادت نمی‌کنم،"
+        }
+      ]
+    },
+    {
+      "id": 6210,
+      "verse_number": 3,
+      "verse_key": "109:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928875,
+          "resource_id": 135,
+          "text": "و [نیز] آنچه را که من عبادت می‌کنم شما عبادت نمی‌کنید."
+        }
+      ]
+    },
+    {
+      "id": 6211,
+      "verse_number": 4,
+      "verse_key": "109:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928876,
+          "resource_id": 135,
+          "text": "و نه من عبادت‌کننده آنچه شما عبادت کرده‌اید خواهم بود؛"
+        }
+      ]
+    },
+    {
+      "id": 6212,
+      "verse_number": 5,
+      "verse_key": "109:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928877,
+          "resource_id": 135,
+          "text": "و نه شما عبادت‌کننده آنچه من عبادت می‌کنم خواهید بود."
+        }
+      ]
+    },
+    {
+      "id": 6213,
+      "verse_number": 6,
+      "verse_key": "109:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928878,
+          "resource_id": 135,
+          "text": "[بنابراین] آیین شما [که آن را برای خویش ساخته‌اید] برای خود‌تان باد و آیین من [که الله آن را بر من فرستاده است] برای خودم»."
+        }
+      ]
+    }
+  ]
+}

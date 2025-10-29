@@ -1,0 +1,481 @@
+{
+  "id": 84,
+  "name": "The Sundering",
+  "verses": [
+    {
+      "id": 5885,
+      "verse_number": 1,
+      "verse_key": "84:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928550,
+          "resource_id": 135,
+          "text": "آنگاه ‌که آسمان شکافته شود،"
+        }
+      ]
+    },
+    {
+      "id": 5886,
+      "verse_number": 2,
+      "verse_key": "84:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928551,
+          "resource_id": 135,
+          "text": "و به [فرمان] پروردگارش گوش فرا دهد [و تسلیم شود]؛ و سزاوار است [که چنین کند]،"
+        }
+      ]
+    },
+    {
+      "id": 5887,
+      "verse_number": 3,
+      "verse_key": "84:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928552,
+          "resource_id": 135,
+          "text": "و آنگاه ‌که زمین گسترده [و هموار] شود،"
+        }
+      ]
+    },
+    {
+      "id": 5888,
+      "verse_number": 4,
+      "verse_key": "84:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928553,
+          "resource_id": 135,
+          "text": "و هر چه را درون خود دارد، بیرون ریزد و تهی گردد،"
+        }
+      ]
+    },
+    {
+      "id": 5889,
+      "verse_number": 5,
+      "verse_key": "84:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928554,
+          "resource_id": 135,
+          "text": "و به [فرمان] پروردگارش گوش دهد [و تسلیم شود]؛ و سزاوار است [که چنین کند]."
+        }
+      ]
+    },
+    {
+      "id": 5890,
+      "verse_number": 6,
+      "verse_key": "84:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928555,
+          "resource_id": 135,
+          "text": "ای انسان، بی‌گمان، تو در راه [رسیدن به] پروردگارت سخت تلاش و کوشش می‌کنی؛ پس او را ملاقات خواهی کرد."
+        }
+      ]
+    },
+    {
+      "id": 5891,
+      "verse_number": 7,
+      "verse_key": "84:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928556,
+          "resource_id": 135,
+          "text": "و اما کسی ‌که نامۀ [اعمال] او به دست راستش داده شود،"
+        }
+      ]
+    },
+    {
+      "id": 5892,
+      "verse_number": 8,
+      "verse_key": "84:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928557,
+          "resource_id": 135,
+          "text": "به زودی به حسابی آسان، محاسبه می‌شود."
+        }
+      ]
+    },
+    {
+      "id": 5893,
+      "verse_number": 9,
+      "verse_key": "84:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928558,
+          "resource_id": 135,
+          "text": "و شادمان به سوی خانواده‌اش بازمی‌گردد؛"
+        }
+      ]
+    },
+    {
+      "id": 5894,
+      "verse_number": 10,
+      "verse_key": "84:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928559,
+          "resource_id": 135,
+          "text": "و اما کسی ‌که نامۀ [اعمال] او از پشت سرش به او داده شود."
+        }
+      ]
+    },
+    {
+      "id": 5895,
+      "verse_number": 11,
+      "verse_key": "84:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928560,
+          "resource_id": 135,
+          "text": "به زودی نابودیِ خود را خواهد ‌طلبید"
+        }
+      ]
+    },
+    {
+      "id": 5896,
+      "verse_number": 12,
+      "verse_key": "84:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928561,
+          "resource_id": 135,
+          "text": "و به [آتش] جهنم شعله‌ور در خواهد آمد."
+        }
+      ]
+    },
+    {
+      "id": 5897,
+      "verse_number": 13,
+      "verse_key": "84:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928562,
+          "resource_id": 135,
+          "text": "بی‌گمان، او در [دنیا به خاطر گناهانش،] در میان خانوادۀ خود شادمان بود."
+        }
+      ]
+    },
+    {
+      "id": 5898,
+      "verse_number": 14,
+      "verse_key": "84:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928563,
+          "resource_id": 135,
+          "text": "او گمان می‌کرد که هرگز [به نزد الله] بازنخواهد گشت."
+        }
+      ]
+    },
+    {
+      "id": 5899,
+      "verse_number": 15,
+      "verse_key": "84:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928564,
+          "resource_id": 135,
+          "text": "آری؛ همانا پروردگارش از حال وی آگاه بود."
+        }
+      ]
+    },
+    {
+      "id": 5900,
+      "verse_number": 16,
+      "verse_key": "84:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928565,
+          "resource_id": 135,
+          "text": "به شفق سوگند می‌خورم،"
+        }
+      ]
+    },
+    {
+      "id": 5901,
+      "verse_number": 17,
+      "verse_key": "84:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928566,
+          "resource_id": 135,
+          "text": "و سوگند به شب و آنچه را فرو می‌پوشد"
+        }
+      ]
+    },
+    {
+      "id": 5902,
+      "verse_number": 18,
+      "verse_key": "84:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928567,
+          "resource_id": 135,
+          "text": "و سوگند به ماه چون [فروغش] کامل شود"
+        }
+      ]
+    },
+    {
+      "id": 5903,
+      "verse_number": 19,
+      "verse_key": "84:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928568,
+          "resource_id": 135,
+          "text": "که قطعاً مراتب و حالات مختلفی را یکی پس از دیگری [در مسیر زندگی دنیوی] طی خواهید کرد."
+        }
+      ]
+    },
+    {
+      "id": 5904,
+      "verse_number": 20,
+      "verse_key": "84:20",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928569,
+          "resource_id": 135,
+          "text": "آنان را چه شده که ایمان نمی‌آورند؟"
+        }
+      ]
+    },
+    {
+      "id": 5905,
+      "verse_number": 21,
+      "verse_key": "84:21",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": 13,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928570,
+          "resource_id": 135,
+          "text": "و [چرا] هنگامی‌ که قرآن بر آنان تلاوت می‌شود سجده نمی‌کنند؟"
+        }
+      ]
+    },
+    {
+      "id": 5906,
+      "verse_number": 22,
+      "verse_key": "84:22",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928571,
+          "resource_id": 135,
+          "text": "بلکه کسانی‌ که کافر شدند، پیوسته [آیات الهی را] تکذیب می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 5907,
+      "verse_number": 23,
+      "verse_key": "84:23",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928572,
+          "resource_id": 135,
+          "text": "و الله به آنچه در دل پنهان می‌دارند، دانا‌تر است."
+        }
+      ]
+    },
+    {
+      "id": 5908,
+      "verse_number": 24,
+      "verse_key": "84:24",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928573,
+          "resource_id": 135,
+          "text": "پس [ای پیامبر،] آنان را به عذابی دردناک بشارت ده؛"
+        }
+      ]
+    },
+    {
+      "id": 5909,
+      "verse_number": 25,
+      "verse_key": "84:25",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 528,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928574,
+          "resource_id": 135,
+          "text": "مگر کسانی که ایمان آورده‌اند و کارهای شایسته انجام داده‌اند، که پاداشی بی‌منّت و پیوسته برایشان است."
+        }
+      ]
+    }
+  ]
+}

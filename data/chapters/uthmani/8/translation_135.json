@@ -1,0 +1,1431 @@
+{
+  "id": 8,
+  "name": "The Spoils of War",
+  "verses": [
+    {
+      "id": 1161,
+      "verse_number": 1,
+      "verse_key": "8:1",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923826,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] از تو دربارۀ [تقسیمِ] انفال [= غنایم جنگی] می‌پرسند؛ بگو: «انفال از آنِ الله و پیامبر است؛ پس از الله پروا کنید و با یكدیگر سازش نمایید و اگر ایمان دارید، از الله و پیامبرش اطاعت کنید»."
+        }
+      ]
+    },
+    {
+      "id": 1162,
+      "verse_number": 2,
+      "verse_key": "8:2",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923827,
+          "resource_id": 135,
+          "text": "بی‌تردید، مؤمنان فقط کسانی هستند که وقتی الله یاد می‌شود، دل‌هایشان هراسان می‌گردد و هرگاه آیاتش بر آنان خوانده می‌شود، بر ایمانشان می‌افزاید و بر پروردگارشان توکل می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 1163,
+      "verse_number": 3,
+      "verse_key": "8:3",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923828,
+          "resource_id": 135,
+          "text": "همان کسانی‌ که نماز برپا می‌دارند و از آنچه روزی‌شان کرده‌‌ایم انفاق می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 1164,
+      "verse_number": 4,
+      "verse_key": "8:4",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923829,
+          "resource_id": 135,
+          "text": "آنان هستند كه به راستی مؤمنند. براى آنان نزد پروردگارشان، درجاتی [والا] و آمرزش و روزىِ نیكو خواهد بود."
+        }
+      ]
+    },
+    {
+      "id": 1165,
+      "verse_number": 5,
+      "verse_key": "8:5",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923830,
+          "resource_id": 135,
+          "text": "[ای پیامبر، اختیار کاملِ تو بر غنایم، موجب ناخشنودی برخی افراد است؛ درست] همان‌ طور که پروردگارت تو را به‌حق از خانه‌ات [در مدینه به سوی میدان بدر] بیرون آورد و قطعاً گروهی از مؤمنان [از جنگیدن] ناخشنود بودند."
+        }
+      ]
+    },
+    {
+      "id": 1166,
+      "verse_number": 6,
+      "verse_key": "8:6",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923831,
+          "resource_id": 135,
+          "text": "آنان پس از آنکه حقیقت آشکار شد، دربارۀ حق [= جهاد] با تو مجادله می‌کنند؛ گویى آنان را به سوى مرگ مى‌رانند در حالی که خود [به مُردنشان‌] مى‌نگرند."
+        }
+      ]
+    },
+    {
+      "id": 1167,
+      "verse_number": 7,
+      "verse_key": "8:7",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923832,
+          "resource_id": 135,
+          "text": "و [ای مجاهدان، به یاد آورید] هنگامی که الله به شما وعده داد که [غنایمِ] یکی از دو گروه [= کاروان تجاری یا لشکر] نصیبتان خواهد شد و شما دوست ‌داشتید که کاروانِ غیرنظامی [= تجاری] برای شما باشد؛ و[لی] الله می‌خواست با سخنان خویش [دربارۀ کشتار کفار]، حق [= اسلام] را پایدار گردانَد و ریشۀ کافران را قطع کند."
+        }
+      ]
+    },
+    {
+      "id": 1168,
+      "verse_number": 8,
+      "verse_key": "8:8",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 177,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923833,
+          "resource_id": 135,
+          "text": "[الله اسلام را پیروز کرد] تا حق را ثابت نماید و باطل را از میان بردارد؛ هر چند که گناهکاران [مشرک] نا‌‌خشنود باشند."
+        }
+      ]
+    },
+    {
+      "id": 1169,
+      "verse_number": 9,
+      "verse_key": "8:9",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923834,
+          "resource_id": 135,
+          "text": "[روز بدر را به یاد آورید؛] آنگاه كه از پروردگارتان فریادرسى [و یارى‌] مى‌خواستید و او [درخواستِ] شما را پذیرفت [و فرمود:] «بی‌گمان، شما را با هزار فرشته که پیا‌‌پی فرود می‌آیند یاری می‌کنم»."
+        }
+      ]
+    },
+    {
+      "id": 1170,
+      "verse_number": 10,
+      "verse_key": "8:10",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 146,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923835,
+          "resource_id": 135,
+          "text": "و الله این [یاری] را جز مژده‌ای [برای شما] قرار نداد تا دل‌هایتان با آن آرام گیرد؛ و [بدانید که] پیروزی جز از جانب الله نیست. به راستی که الله شکست‌ناپذیرِ حکیم است."
+        }
+      ]
+    },
+    {
+      "id": 1171,
+      "verse_number": 11,
+      "verse_key": "8:11",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923836,
+          "resource_id": 135,
+          "text": "[و به یاد آورید] هنگامی که [الله آن] خواب سبک را که [امنیت و] آرامشی از سوی او تعالی بود، بر شما افکند و آبی از آسمان برایتان فروفرستاد تا شما را با آن پاک کند و پلیدی [= وسوسه‌های] شیطان را از شما دور سازد و دل‌هایتان را محکم بدارد و گام‌هایتان را با آن استوار نماید."
+        }
+      ]
+    },
+    {
+      "id": 1172,
+      "verse_number": 12,
+      "verse_key": "8:12",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923837,
+          "resource_id": 135,
+          "text": "[و ای پیامبر، به یاد آور] هنگامی‌ که پروردگارت به فرشتگان وحی کرد: «من با شما هستم؛ پس کسانی را که ایمان آورده‌اند، ثابت‌قدم دارید. به زودی در دل کسانی که کفر ورزیدند، هراس می‌افکنم؛ پس [ای مجاهدان، شمشیر خویش را] بر فرازِ گردن‌هایشان بزنید و همۀ انگشتانشان را قطع کنید [تا سلاح برنگیرند]."
+        }
+      ]
+    },
+    {
+      "id": 1173,
+      "verse_number": 13,
+      "verse_key": "8:13",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923838,
+          "resource_id": 135,
+          "text": "این [کیفر] به خاطر آن است که آنان با الله و رسولش مخالفت کردند؛ و هر کس با الله و رسولش مخالفت کند، [بداند که] الله سخت‌کیفر است."
+        }
+      ]
+    },
+    {
+      "id": 1174,
+      "verse_number": 14,
+      "verse_key": "8:14",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923839,
+          "resource_id": 135,
+          "text": "[ای کافران،] این [عذاب دنیا] را بچشید و [بدانید که] برای کافران [در قیامت،] عذاب آتش است."
+        }
+      ]
+    },
+    {
+      "id": 1175,
+      "verse_number": 15,
+      "verse_key": "8:15",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923840,
+          "resource_id": 135,
+          "text": "اى كسانى كه ایمان آورده‌اید، هر گاه [در میدان جنگ] با انبوهِ كافران روبرو شدید، به آنان پشت نكنید [و نگریزید]."
+        }
+      ]
+    },
+    {
+      "id": 1176,
+      "verse_number": 16,
+      "verse_key": "8:16",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 178,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923841,
+          "resource_id": 135,
+          "text": "و هر کس در آن هنگام به آنان پشت كند ـ مگر آنكه [انگیزه‌اش فریب دشمن یا] كناره‌گیرى براى نبردى [دوباره] یا پیوستن به گروهی [دیگر از سپاه مسلمانان‌] باشد ـ قطعاً به خشم الله گرفتار می‌گردد و جایگاهش دوزخ است؛ و چه بد سرانجامى است!"
+        }
+      ]
+    },
+    {
+      "id": 1177,
+      "verse_number": 17,
+      "verse_key": "8:17",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923842,
+          "resource_id": 135,
+          "text": "پس [ای مؤمنان، در روز نبرد با مشرکان در بدر] شما [با نیروی خود] آنان را نکشتید؛ بلکه الله آنان را کشت؛ و [ای پیامبر،] هنگامی که [به سویشان خاک و سنگ] می‌انداختی، [در حقیقت،] تو نینداختی؛ بلکه الله انداخت تا مؤمنان را به آزمایشی نیکو از جانب خود بیازماید. بی‌تردید، الله شنوای داناست."
+        }
+      ]
+    },
+    {
+      "id": 1178,
+      "verse_number": 18,
+      "verse_key": "8:18",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923843,
+          "resource_id": 135,
+          "text": "این [شکست و فرارِ مشرکان و سرافرازیِ مؤمنان، همه از جانب الله] بود و الله نیرنگِ كافران را سست [و بی‌اثر] مى‌گردانَد."
+        }
+      ]
+    },
+    {
+      "id": 1179,
+      "verse_number": 19,
+      "verse_key": "8:19",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 147,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923844,
+          "resource_id": 135,
+          "text": "[اى مشركان،‌] اگر خواهان پیروزی [بر مسلمانان و فرارسیدنِ عذاب الهی هستید]، اینک پیروزى [اسلام، که بزرگ‌ترین رنج و عذاب شماست] به سراغتان آمد؛ و اگر [از کفر و دشمنى با پیامبر‌] دست بردارید، آن [کار] برایتان بهتر است؛ و[لی] اگر [به جنگ با مسلمانان‌] برگردید، ما نیز برمى‌گردیم؛ و [این را بدانید] كه گروه شما ـ هر چند زیاد باشدـ هرگز نمی‌تواند شما را از چیزی بی‌نیاز کند و [دیگر] اینكه [همواره] الله با مؤمنان است."
+        }
+      ]
+    },
+    {
+      "id": 1180,
+      "verse_number": 20,
+      "verse_key": "8:20",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923845,
+          "resource_id": 135,
+          "text": "ای کسانی که ایمان آورده‌اید، از الله و رسولش اطاعت کنید و از [احکام و فرمان‌های] او روی نگردانید؛ در حالی که [آیات قرآن و سخنان پیامبر را] می‌شنوید."
+        }
+      ]
+    },
+    {
+      "id": 1181,
+      "verse_number": 21,
+      "verse_key": "8:21",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 71,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923846,
+          "resource_id": 135,
+          "text": "و مانند کسانی نباشید که گفتند: «[آیات الهی و سخن رسولان را] شنیدیم»؛ حال آنکه نمی‌شنیدند."
+        }
+      ]
+    },
+    {
+      "id": 1182,
+      "verse_number": 22,
+      "verse_key": "8:22",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923847,
+          "resource_id": 135,
+          "text": "بی‌گمان، بدترین جنبندگان نزد الله، آن [کسانی هستند که در برابر حق] كر و گُنگ هستند [و حقا] که نمی‌اندیشند."
+        }
+      ]
+    },
+    {
+      "id": 1183,
+      "verse_number": 23,
+      "verse_key": "8:23",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923848,
+          "resource_id": 135,
+          "text": "و اگر الله خیری در آنان سراغ داشت، [در برابر کلام حق] شنوایشان می‌نمود؛ و[لی حتی] اگر آنان را شنوا می‌ساخت، باز هم پشت می‌کردند و رویگردان می‌شدند."
+        }
+      ]
+    },
+    {
+      "id": 1184,
+      "verse_number": 24,
+      "verse_key": "8:24",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923849,
+          "resource_id": 135,
+          "text": "اى كسانى كه ایمان آورده‌اید، هر گاه الله و پیامبر، شما را به چیزى فراخواندند كه به شما زندگی مى‌بخشد، [فرمان] آنان را اجابت كنید و بدانید كه الله میان انسان و دلش حایل می‌شود [و از اسرار آگاه است] و اینکه [در قیامت، همگی] نزد او گِرد آورده می‌شوید."
+        }
+      ]
+    },
+    {
+      "id": 1185,
+      "verse_number": 25,
+      "verse_key": "8:25",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 179,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923850,
+          "resource_id": 135,
+          "text": "و [ای مؤمنان،] از عذابی بپرهیزید كه تنها دامن ستمکارانتان را نمی‌گیرد؛ و بدانید که الله سخت‌کیفر است."
+        }
+      ]
+    },
+    {
+      "id": 1186,
+      "verse_number": 26,
+      "verse_key": "8:26",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923851,
+          "resource_id": 135,
+          "text": "و به یاد آورید زمانی را که شما در سرزمین [مکه] اندک و ناتوان بودید [و] می‌ترسیدید که مردمان [مشرک،] شما را بربایند؛ ولی الله شما را [در مدینه] پناه داد و با یاری خویش نیرومندتان ساخت و از چیزهای پاکیزه به شما روزی بخشید؛ باشد که سپاسگزاری کنید."
+        }
+      ]
+    },
+    {
+      "id": 1187,
+      "verse_number": 27,
+      "verse_key": "8:27",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923852,
+          "resource_id": 135,
+          "text": "ای کسانی که ایمان آورده‌اید، [با سرپیچی از اوامر و نَواهی،] به الله و پیامبر خیانت نکنید و [همچنین] در امانت‌هایتان خیانت نکنید، در حالی ‌که می‌دانید [این کار، گناه است]."
+        }
+      ]
+    },
+    {
+      "id": 1188,
+      "verse_number": 28,
+      "verse_key": "8:28",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 148,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923853,
+          "resource_id": 135,
+          "text": "و بدانید که بی‌تردید، اموال و فرزندانتان [وسیلۀ] آزمایش [شما] هستند و پاداشی بزرگ نزد الله است."
+        }
+      ]
+    },
+    {
+      "id": 1189,
+      "verse_number": 29,
+      "verse_key": "8:29",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923854,
+          "resource_id": 135,
+          "text": "ای کسانی ‌که ایمان آورده‌اید، اگر از الله پروا کنید، براى شما [نیروى‌] تشخیص [حق و باطل‌] قرار مى‌دهد و گناهانتان را از شما مى‌زداید و شما را مى‌آمرزد؛ و الله داراى بخشش بزرگ است."
+        }
+      ]
+    },
+    {
+      "id": 1190,
+      "verse_number": 30,
+      "verse_key": "8:30",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923855,
+          "resource_id": 135,
+          "text": "و [ای پیامبر، به یاد آور] آنگاه که کافران درباره تو دسیسه می‌کردند که تو را به زندان بیفکنند یا بکشند یا تو را [از مکه] بیرون کنند. آنان مکر می‌اندیشیدند و الله [نیز تدبیر و] مکر می‌کرد؛ و الله بهترینِ مکرانگیزان است."
+        }
+      ]
+    },
+    {
+      "id": 1191,
+      "verse_number": 31,
+      "verse_key": "8:31",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923856,
+          "resource_id": 135,
+          "text": "و چون آیات ما بر آنان خوانده شود، می‌گویند: «به خوبى شنیدیم. اگر مى‌خواستیم، ما نیز قطعاً همانند این [سخنان] را مى‌گفتیم. این [قرآن، چیزی] نیست، مگر افسانه‌هاى [خیالی] پیشینیان»."
+        }
+      ]
+    },
+    {
+      "id": 1192,
+      "verse_number": 32,
+      "verse_key": "8:32",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923857,
+          "resource_id": 135,
+          "text": "و [به یاد آور] آنگاه که گفتند: «پروردگارا، اگر این [قرآن] به راستی، حق و از جانب توست، سنگ‌هایی [ویرانگر] از آسمان بر ما ببار یا عذابی دردناک بر ما بفرست»."
+        }
+      ]
+    },
+    {
+      "id": 1193,
+      "verse_number": 33,
+      "verse_key": "8:33",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 180,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923858,
+          "resource_id": 135,
+          "text": "و[لى‌ ای محمد،] تا تو در میان آنان هستى، الله بر آن نیست كه عذابشان كند و تا زمانی که [از درگاه الهی] آمرزش می‌طلبند، الله عذاب‌كنندۀ آنان نیست."
+        }
+      ]
+    },
+    {
+      "id": 1194,
+      "verse_number": 34,
+      "verse_key": "8:34",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 181,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923859,
+          "resource_id": 135,
+          "text": "و چرا الله آنان را [در آخرت‌] عذاب نكند، با اینكه آنان [مردم را] از [طواف و عبادت در] مسجدالحرام بازمى‌دارند؟ و [مشرکان] هرگز دوستان الله نبوده‌اند؛ [زیرا] دوستان الله کسی جز پرهیزگاران نیستند؛ ولى بیشتر آنان نمى‌دانند."
+        }
+      ]
+    },
+    {
+      "id": 1195,
+      "verse_number": 35,
+      "verse_key": "8:35",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 181,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923860,
+          "resource_id": 135,
+          "text": "و نمازشان نزد خانه [کعبه] چیزی جز سوت‌کشیدن و کف‌زدن نبود؛ پس به سزای آنکه کفر می‌ورزیدید، عذاب [شکست و اسارت در بدر] را بچشید."
+        }
+      ]
+    },
+    {
+      "id": 1196,
+      "verse_number": 36,
+      "verse_key": "8:36",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 181,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923861,
+          "resource_id": 135,
+          "text": "کسانی‌ که کفر ورزیدند، اموالشان را خرج می‌کنند تا [مردم را] از راه الله بازدارند؛ پس به زودی همه را خرج می‌کنند، آنگاه [این کار، مایۀ] حسرت و پیشمانی‌شان می‌گردد و سپس شکست می‌خورند؛ و [سرانجام،] کسانی ‌که کفر ورزیدند، به سوی [آتش] دوزخ کشانده می‌شوند."
+        }
+      ]
+    },
+    {
+      "id": 1197,
+      "verse_number": 37,
+      "verse_key": "8:37",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 149,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 181,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923862,
+          "resource_id": 135,
+          "text": "تا الله، پلید را از پاکیزه جدا کند و پلیدان را روى يكديگر نهد و همگی را متراكم سازد، سپس [یکجا] در دوزخ قرار دهد. اینان همان زیانکاران [واقعی] هستند."
+        }
+      ]
+    },
+    {
+      "id": 1198,
+      "verse_number": 38,
+      "verse_key": "8:38",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 150,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 181,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923863,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] به کسانی‌ که کفر ورزیدند بگو [که] اگر [از شرک و دشمنی] دست بردارند، گذشته‌هایشان بخشوده می‌شود و[لی] اگر [به رفتار گذشتۀ خود] بازگردند، سنت [و عذاب الهى كه در مورد] پیشینیان گذشت [تكرار خواهد شد]."
+        }
+      ]
+    },
+    {
+      "id": 1199,
+      "verse_number": 39,
+      "verse_key": "8:39",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 150,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 181,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923864,
+          "resource_id": 135,
+          "text": "و [ای مؤمنان،] با آنان پیکار کنید تا فتنه [ی شرک] ریشه‌کن شود و [عبادت و] دین، همه از آنِ الله گردد. پس اگر آنان [از شرک و آزار] دست برداشتند، [رهایشان کنید؛ چرا که] بی‌تردید، الله به آنچه می‌کنند بیناست."
+        }
+      ]
+    },
+    {
+      "id": 1200,
+      "verse_number": 40,
+      "verse_key": "8:40",
+      "hizb_number": 18,
+      "rub_el_hizb_number": 72,
+      "ruku_number": 150,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 181,
+      "juz_number": 9,
+      "translations": [
+        {
+          "id": 923865,
+          "resource_id": 135,
+          "text": "و اگر [از اوامر الهی] سرپیچی کردند، بدانید که الله [دوست و] کارسازِ شماست. چه نیکو کارساز و چه نیک یاوری است!"
+        }
+      ]
+    },
+    {
+      "id": 1201,
+      "verse_number": 41,
+      "verse_key": "8:41",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 150,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 182,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923866,
+          "resource_id": 135,
+          "text": "و بدانید هر غنیمتی که به دست آوردید، یک‌پنجم آن برای الله و پیامبر و برای خویشاوندان [پیامبر، از بنی‌هاشم و بنی‌مطّلب] و یتیمان [نابالغ] و مستمندان و درراه‌ماندگان است. اگر به الله و آنچه که بر بندۀ خود در روز جدایی [حق از باطل]، روز برخورد دو گروه [مؤمنان و مشرکان] نازل کردیم، ایمان دارید [به این احکام عمل کنید] و [بدانید که] الله بر هر چیز تواناست."
+        }
+      ]
+    },
+    {
+      "id": 1202,
+      "verse_number": 42,
+      "verse_key": "8:42",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 150,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 182,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923867,
+          "resource_id": 135,
+          "text": "آنگاه كه شما [مؤمنان] بر دامنۀ نزدیک‌تر [دره، به سمت مدینه] بودید و آنان در دامنۀ دورتر [دره، به سمت مکه] قرار داشتند و کاروان [تجاری قریش‌] پایین‌تر از [میدان جنگ و دور از تیررسِ‌] شما بود و اگر [شما و مشرکان] با یكدیگر [در مورد محل درگیری] وعده گذاشته بودید، قطعاً در وعده‌گاهِ خود اختلاف مى‌كردید؛ ولى [به ارادۀ الهی در بدر جمع شدید] تا الله كارى را كه قطعاً [باید] به وقوع می‌پیوست انجام دهد تا هر [کافری] كه هلاک می‌شود [با وجود برتری نظامی و عددی، در شرک و گمراهى] هلاک گردد و هر [مؤمنی] که زنده می‌ماند [به هدایت] زندگى ‌یابد [و این مرگ و زندگی] بر اساس دلیلی روشن باشد؛ و به راستی که الله شنوای داناست‌."
+        }
+      ]
+    },
+    {
+      "id": 1203,
+      "verse_number": 43,
+      "verse_key": "8:43",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 150,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 182,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923868,
+          "resource_id": 135,
+          "text": "[به یاد آور] آنگاه که الله [تعداد] آنان را در خوابت به تو اندک نشان داد؛ و اگر آنان را بسیار نشان می‌داد، مسلماً سست [و بددل] می‌شدید و در کار [جنگ] اختلاف می‌کردید؛ ولی الله [شما را از سستی و اختلاف] در امان نگاه داشت. بی‌گمان، او تعالی به آنچه در سینه‌هاست، داناست."
+        }
+      ]
+    },
+    {
+      "id": 1204,
+      "verse_number": 44,
+      "verse_key": "8:44",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 150,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 182,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923869,
+          "resource_id": 135,
+          "text": "و [به یاد آور] هنگامی که با هم روبرو شدید، آنان را به چشم شما کم‌تعداد نمود و شما را [نیز] به چشم آنان اندک جلوه داد، تا الله كارى را كه قطعاً [باید] به وقوع می‌پیوست انجام دهد؛ و [بدانید که همۀ] کارها به الله بازگردانده می‌شود."
+        }
+      ]
+    },
+    {
+      "id": 1205,
+      "verse_number": 45,
+      "verse_key": "8:45",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 151,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 182,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923870,
+          "resource_id": 135,
+          "text": "اى كسانى كه ایمان آورده‌اید، هنگامی ‌که با گروهی [از دشمنان] روبرو شدید، پایداری نمایید و الله را بسیار یاد کنید؛ باشد که رستگار شوید."
+        }
+      ]
+    },
+    {
+      "id": 1206,
+      "verse_number": 46,
+      "verse_key": "8:46",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 151,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 183,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923871,
+          "resource_id": 135,
+          "text": "و از الله و پیامبرش اطاعت کنید و [در تصمیم‌گیری] با یکدیگر کشمکش نکنید که سست می‌شوید و [توان و] اقتدارتان از بین می‌رود؛ و شکیبایی کنید که بی‌گمان، الله با شکیبایان است."
+        }
+      ]
+    },
+    {
+      "id": 1207,
+      "verse_number": 47,
+      "verse_key": "8:47",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 151,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 183,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923872,
+          "resource_id": 135,
+          "text": "و مانند کسانی نباشید که با سرکشی و خودنمایی در برابر مردم، از سرزمین خود [= مکه] خارج شدند و [مردم را] از راه الله باز‌داشتند؛ و الله به آنچه می‌کنند احاطه دارد."
+        }
+      ]
+    },
+    {
+      "id": 1208,
+      "verse_number": 48,
+      "verse_key": "8:48",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 151,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 183,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923873,
+          "resource_id": 135,
+          "text": "و [ای مؤمنان، به یاد آورید] هنگامی که شیطان، اعمال آنان را در نظرشان آراست و گفت: «امروز هیچ کس بر شما پیروز نمی‌شود و من [یاور و] پناهتان هستم»؛ اما هنگامی ‌که دو گروه [با هم] روبرو شدند، [شیطان] به عقب بازگشت و گفت: «به راستی که من از شما بیزارم و چیزی [= فرشتگان یاریگر] را می‌بینم که شما نمی‌بینید. من از الله می‌ترسم و [از هلاکت بیم دارم؛ چرا که] الله سخت‌کیفر است»."
+        }
+      ]
+    },
+    {
+      "id": 1209,
+      "verse_number": 49,
+      "verse_key": "8:49",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 183,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923874,
+          "resource_id": 135,
+          "text": "و [به یاد آورید] هنگامی که منافقان و كسانى كه در دل‌هایشان بیمارى بود می‌گفتند: «اینان [= مؤمنان] را دینشان فریفته است»؛ و هر ‌کس بر الله توکل کند، پس [آسوده‌خاطر باشد؛ چرا که] بی‌تردید، الله شکست‌ناپذیرِ حکیم است."
+        }
+      ]
+    },
+    {
+      "id": 1210,
+      "verse_number": 50,
+      "verse_key": "8:50",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 183,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923875,
+          "resource_id": 135,
+          "text": "و اگر مى‌دیدى آنگاه كه فرشتگان جان كافران را مى‌ستانند، بر صورت و پشتشان مى‌زنند و [می‌گویند:] «عذاب سوزان را بچشید."
+        }
+      ]
+    },
+    {
+      "id": 1211,
+      "verse_number": 51,
+      "verse_key": "8:51",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 183,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923876,
+          "resource_id": 135,
+          "text": "این [جان دادنِ خفت‌بار و عذاب دردناک] در مقابل کارهایی است که از پیش فرستاده‌اید؛ و [گرنه‌] الله نسبت به بندگان [خود] ستمكار نیست»."
+        }
+      ]
+    },
+    {
+      "id": 1212,
+      "verse_number": 52,
+      "verse_key": "8:52",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 183,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923877,
+          "resource_id": 135,
+          "text": "[عذاب این کافران حق‌ستیز،] همانند شیوۀ [مجازات] فرعونیان و [دیگر] کسانی است‌ که پیش از آنان بودند [که همگی] به آیات الله کفر ورزیدند و الله آنان را به [سزاى‌] گناهانشان گرفتار كرد. بی‌تردید، الله نیرومندِ سخت‌کیفر است."
+        }
+      ]
+    },
+    {
+      "id": 1213,
+      "verse_number": 53,
+      "verse_key": "8:53",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923878,
+          "resource_id": 135,
+          "text": "این [كیفر سخت،] از آن روست كه الله هرگز بر آن نبوده است كه نعمتى را كه بر مردمى ارزانى داشته است دگرگون كند؛ مگر آنکه آنان [رفتار موحدانۀ] خود را تغییر دهند [و کفر و ناسپاسی بورزند]؛ و بی‌تردید، الله شنوای داناست."
+        }
+      ]
+    },
+    {
+      "id": 1214,
+      "verse_number": 54,
+      "verse_key": "8:54",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923879,
+          "resource_id": 135,
+          "text": "[کافران رفتارى دارند‌] همچون رفتار فرعونیان و كسانى كه پیش از آنان بودند كه آیات پروردگارشان را دروغ می‌انگاشتند؛ پس [ما نیز] آنان را به کیفر گناهانشان هلاک کردیم و فرعونیان را غرق نمودیم و همگی [مشرک و] ستمکار بودند."
+        }
+      ]
+    },
+    {
+      "id": 1215,
+      "verse_number": 55,
+      "verse_key": "8:55",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923880,
+          "resource_id": 135,
+          "text": "یقیناً بدترین جنبندگان نزد الله کسانی هستند که کفر می‌ورزند و ایمان نمی‌آورند."
+        }
+      ]
+    },
+    {
+      "id": 1216,
+      "verse_number": 56,
+      "verse_key": "8:56",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923881,
+          "resource_id": 135,
+          "text": "[همان] کسانی‌ که با آنان پیمان بستی؛ ولى هر بار پیمانشان را مى‌شكنند و [از الله] پروا نمى‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 1217,
+      "verse_number": 57,
+      "verse_key": "8:57",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923882,
+          "resource_id": 135,
+          "text": "و [ای پیامبر،] اگر در جنگ بر آنان دست یافتی، چنان آنان را در هم بکوب که مایۀ عبرت دیگران گردد؛ باشد که [دیگران] پند گیرند."
+        }
+      ]
+    },
+    {
+      "id": 1218,
+      "verse_number": 58,
+      "verse_key": "8:58",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 152,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923883,
+          "resource_id": 135,
+          "text": "و اگر از گروهى بیم خیانت دارى، [پیمانشان را] به آنان بازگردان [و از لغو پیمان، آنان را آگاه کن تا آگاهی طرفین از نقض پیمان] به طور یكسان [باشد]. بی‌تردید، الله خائنان را دوست ندارد."
+        }
+      ]
+    },
+    {
+      "id": 1219,
+      "verse_number": 59,
+      "verse_key": "8:59",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 153,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923884,
+          "resource_id": 135,
+          "text": "و کسانی که کفر ورزیدند، هرگز مپندارند که جان به در برده‌اند [و نجات یافته‌اند]؛ آنان هرگز [از مرگ و عذاب،] راهِ گریزی ندارند."
+        }
+      ]
+    },
+    {
+      "id": 1220,
+      "verse_number": 60,
+      "verse_key": "8:60",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 73,
+      "ruku_number": 153,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923885,
+          "resource_id": 135,
+          "text": "و [ای مؤمنان،] هر چه در توان دارید ـ از نیرو و اسب‌های آماده [و جنگ‌افزار]ـ بسیج كنید تا با این [تداركات‌]، دشمن الله و دشمن خویش را بترسانید، همچنین [با این تجهیزات، دشمنان‌] دیگرى را غیر از اینان که شما آنان را نمی‌شناسید و[لی] الله آنان را می‌شناسد [به وحشت بیندازید]؛ و هر چه در راه الله انفاق کنید، پاداش آن به شما بازگردانده مى‌شود و بر شما ستم نمی‌رود."
+        }
+      ]
+    },
+    {
+      "id": 1221,
+      "verse_number": 61,
+      "verse_key": "8:61",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 153,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 184,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923886,
+          "resource_id": 135,
+          "text": "و اگر [کافران] به صلح مایل شدند، پس تو [نیز ای پیامبر،] از درِ صلح درآی و بر الله توکل کن. بی‌گمان، اوست که شنوای داناست."
+        }
+      ]
+    },
+    {
+      "id": 1222,
+      "verse_number": 62,
+      "verse_key": "8:62",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 153,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923887,
+          "resource_id": 135,
+          "text": "و اگر [کافران با تظاهر به آشتی] بخواهند تو را فریب دهند، الله برایت کافی است. او تعالی همان ذاتی است که با یاری خود و مؤمنان، تو را تأیید [و تقویت] نمود."
+        }
+      ]
+    },
+    {
+      "id": 1223,
+      "verse_number": 63,
+      "verse_key": "8:63",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 153,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923888,
+          "resource_id": 135,
+          "text": "و بین دل‌هایشان [مهربانی و] اُلفَت برقرار نمود. [ای پیامبر،] اگر تو تمام آنچه را که در روی زمین است خرج می‌کردی، [هرگز] نمی‌توانستی بین دل‌هایشان الفت برقرار کنی؛ ولی الله میان آنان الفت انداخت. به راستی که او شکست‌ناپذیرِ حکیم است."
+        }
+      ]
+    },
+    {
+      "id": 1224,
+      "verse_number": 64,
+      "verse_key": "8:64",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 153,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923889,
+          "resource_id": 135,
+          "text": "ای پیامبر، [حمایتِ] الله برای تو و [نیز] برای مؤمنانی که از تو پیروی کرده‌اند، كافى است."
+        }
+      ]
+    },
+    {
+      "id": 1225,
+      "verse_number": 65,
+      "verse_key": "8:65",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 154,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923890,
+          "resource_id": 135,
+          "text": "ای پیامبر، مؤمنان را به جنگ تشویق کن. اگر از [میان] شما [مؤمنان] بیست نفر [بر جهاد] شکیبا باشند، بر دویست نفر [از کافران] غلبه می‌کنند و اگر صد نفر از شما [اینچنین] باشند، بر هزار نفر از کسانی ‌که کفر ورزیدند غلبه می‌کنند؛ زیرا آنان گروهی هستند که [ارزش حقیقیِ جهاد را] نمی‌فهمند."
+        }
+      ]
+    },
+    {
+      "id": 1226,
+      "verse_number": 66,
+      "verse_key": "8:66",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 154,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923891,
+          "resource_id": 135,
+          "text": "اکنون الله به شما تخفیف داد و دانست که [بر اثر جنگ،] ضعفی در وجودتان است. پس اگر از [میان] شما صد نفر شکیبا باشند، بر دویست نفر [از کافران] پیروز می‌شوند و اگر از شما هزار نفر باشند، به فرمان الله، بر دو هزار نفر پیروز خواهند شد؛ و الله با شکیبایان است."
+        }
+      ]
+    },
+    {
+      "id": 1227,
+      "verse_number": 67,
+      "verse_key": "8:67",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 154,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923892,
+          "resource_id": 135,
+          "text": "برای هیچ پیامبری سزاوار نیست که اسیران [جنگی] داشته باشد [تا آنان را در مقابل دریافت فدیه رها کند، مگر] تا [زمانی‌که با ریختن خون آنها] در زمین کشتار بسیار به راه اندازد [و به این وسیله، دشمن را به وحشت بیندازد]. شما [مؤمنان، با گرفتن فدیه از اسیران بدر، ثروت و] کالای دنیا را می‌خواهید و الله آخرت را [برایتان] می‌خواهد؛ و الله شکست‌ناپذیرِ حکیم است."
+        }
+      ]
+    },
+    {
+      "id": 1228,
+      "verse_number": 68,
+      "verse_key": "8:68",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 154,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923893,
+          "resource_id": 135,
+          "text": "اگر در آنچه [از غنایم و فدیه‌ها که] گرفتید، حکم پیشین الهی وجود نداشت [و آن را برایتان حلال نکرده بود]، قطعاً عذابی بزرگ به شما می‌رسید."
+        }
+      ]
+    },
+    {
+      "id": 1229,
+      "verse_number": 69,
+      "verse_key": "8:69",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 154,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 185,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923894,
+          "resource_id": 135,
+          "text": "پس [اکنون] از آنچه غنیمت گرفته‌اید، حلال و پاکیزه بخورید و از الله پروا کنید. به راستی که الله آمرزندۀ مهربان است."
+        }
+      ]
+    },
+    {
+      "id": 1230,
+      "verse_number": 70,
+      "verse_key": "8:70",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 155,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 186,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923895,
+          "resource_id": 135,
+          "text": "ای پیامبر، به اسیرانی که در دست شما هستند بگو: «اگر الله خیری در دل‌هایتان سراغ داشته باشد، بهتر از [فدیه و] آنچه را که از شما گرفته شده است به شما می‌دهد و شما را می‌آمرزد؛ و الله آمرزندۀ مهربان است»."
+        }
+      ]
+    },
+    {
+      "id": 1231,
+      "verse_number": 71,
+      "verse_key": "8:71",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 155,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 186,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923896,
+          "resource_id": 135,
+          "text": "و [ای پیامبر،] اگر بخواهند به تو خیانت کنند، [بدان که] آنان قطعاً پیش از این [نیز] به الله خیانت کرده‌اند و الله [تو را] بر آنان پیروز نمود؛ و الله دانای حکیم است."
+        }
+      ]
+    },
+    {
+      "id": 1232,
+      "verse_number": 72,
+      "verse_key": "8:72",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 155,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 186,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923897,
+          "resource_id": 135,
+          "text": "کسانی ‌که ایمان آوردند و هجرت کردند و با اموال و جان‌هایشان در راه الله جهاد نمودند و کسانی ‌که [مهاجران را] پناه دادند و یاری نمودند، اینان [همه] دوستان یکدیگرند؛ و کسانی‌ که ایمان آوردند و[لی از سرزمین کفر] هجرت نکردند، شما هیچ دوستی [و پیوندی] با آنان ندارید؛ مگر آنکه هجرت کنند؛ و اگر در [کار] دین از شما یاری خواستند، بر شما [واجب] است که [به آنان] یاری رسانید، مگر [اینکه این یاری‌خواهی] علیه گروهی باشد که میان شما و آنان پیمانی برقرار است؛ و الله به آنچه می‌کنید بیناست."
+        }
+      ]
+    },
+    {
+      "id": 1233,
+      "verse_number": 73,
+      "verse_key": "8:73",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 155,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 186,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923898,
+          "resource_id": 135,
+          "text": "و کسانی که کفر ورزیدند، [آنان نیز] دوستان یکدیگرند. اگر [شما مؤمنان به این سفارش دربارۀ دوست و دشمن] عمل نکنید، فتنه و فسادی بزرگ در زمین بر پا می‌گردد."
+        }
+      ]
+    },
+    {
+      "id": 1234,
+      "verse_number": 74,
+      "verse_key": "8:74",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 155,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 186,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923899,
+          "resource_id": 135,
+          "text": "و کسانی‌ که ایمان آوردند و هجرت نمودند و در راه الله جهاد کردند و کسانی ‌که [این مهاجران را] پناه دادند و یاری نمودند، اینان مؤمنان حقیقی هستند. برای آنان [در بهشت] آمرزش و روزیِ شایسته‌ای خواهد بود."
+        }
+      ]
+    },
+    {
+      "id": 1235,
+      "verse_number": 75,
+      "verse_key": "8:75",
+      "hizb_number": 19,
+      "rub_el_hizb_number": 74,
+      "ruku_number": 155,
+      "manzil_number": 2,
+      "sajdah_number": null,
+      "page_number": 186,
+      "juz_number": 10,
+      "translations": [
+        {
+          "id": 923900,
+          "resource_id": 135,
+          "text": "و کسانی‌ که پس از آنان ایمان آوردند و هجرت نمودند و به همراه شما [مؤمنان] جهاد کردند، آنان [نیز] از شما هستند؛ و در [حکمِ] کتابِ الله، خویشاوندان [در میراث،] نسبت به یکدیگر سزاوارترند. به راستی که الله به همه چیز داناست."
+        }
+      ]
+    }
+  ]
+}

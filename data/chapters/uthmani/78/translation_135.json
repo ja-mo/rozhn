@@ -1,0 +1,766 @@
+{
+  "id": 78,
+  "name": "The Tidings",
+  "verses": [
+    {
+      "id": 5673,
+      "verse_number": 1,
+      "verse_key": "78:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928338,
+          "resource_id": 135,
+          "text": "[کافران] دربارۀ چه چیزی از یکدیگر سؤال می‌کنند؟"
+        }
+      ]
+    },
+    {
+      "id": 5674,
+      "verse_number": 2,
+      "verse_key": "78:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928339,
+          "resource_id": 135,
+          "text": "از خبری بزرگ."
+        }
+      ]
+    },
+    {
+      "id": 5675,
+      "verse_number": 3,
+      "verse_key": "78:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928340,
+          "resource_id": 135,
+          "text": "همان [خبری] که در مورد آن با هم اختلاف دارند."
+        }
+      ]
+    },
+    {
+      "id": 5676,
+      "verse_number": 4,
+      "verse_key": "78:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928341,
+          "resource_id": 135,
+          "text": "چنین نیست [که آنها می‌اندیشند]؛ به زودی خواهند دانست."
+        }
+      ]
+    },
+    {
+      "id": 5677,
+      "verse_number": 5,
+      "verse_key": "78:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928342,
+          "resource_id": 135,
+          "text": "باز هم چنین نیست؛ به زودی خواهند دانست."
+        }
+      ]
+    },
+    {
+      "id": 5678,
+      "verse_number": 6,
+      "verse_key": "78:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928343,
+          "resource_id": 135,
+          "text": "آیا زمین را بستری [برای آسایش شما] قرار ندادیم؟"
+        }
+      ]
+    },
+    {
+      "id": 5679,
+      "verse_number": 7,
+      "verse_key": "78:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928344,
+          "resource_id": 135,
+          "text": "و کوه‌ها را میخ‌ها[ی آن قرار ندادیم؟]"
+        }
+      ]
+    },
+    {
+      "id": 5680,
+      "verse_number": 8,
+      "verse_key": "78:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928345,
+          "resource_id": 135,
+          "text": "و شما را جفت [= نر و ماده] آفریدیم."
+        }
+      ]
+    },
+    {
+      "id": 5681,
+      "verse_number": 9,
+      "verse_key": "78:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928346,
+          "resource_id": 135,
+          "text": "و خواب شما را [مایۀ] آرامشتان قرار دادیم."
+        }
+      ]
+    },
+    {
+      "id": 5682,
+      "verse_number": 10,
+      "verse_key": "78:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928347,
+          "resource_id": 135,
+          "text": "و شب را پوششی [برایتان] قرار دادیم."
+        }
+      ]
+    },
+    {
+      "id": 5683,
+      "verse_number": 11,
+      "verse_key": "78:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928348,
+          "resource_id": 135,
+          "text": "و روز را [وسیلۀ] زندگی و [امرارِ معاش] قرار دادیم،"
+        }
+      ]
+    },
+    {
+      "id": 5684,
+      "verse_number": 12,
+      "verse_key": "78:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928349,
+          "resource_id": 135,
+          "text": "و بر فراز شما هفت [آسمان] محکم بنا کردیم،"
+        }
+      ]
+    },
+    {
+      "id": 5685,
+      "verse_number": 13,
+      "verse_key": "78:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928350,
+          "resource_id": 135,
+          "text": "و [خورشید را] چراغی درخشان [و روشنایی‌بخش] آفریدیم،"
+        }
+      ]
+    },
+    {
+      "id": 5686,
+      "verse_number": 14,
+      "verse_key": "78:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928351,
+          "resource_id": 135,
+          "text": "و از ابر‌های باران‌زا، آبی فراوان فرو‌‌فرستادیم"
+        }
+      ]
+    },
+    {
+      "id": 5687,
+      "verse_number": 15,
+      "verse_key": "78:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928352,
+          "resource_id": 135,
+          "text": "تا دانه و گیاه بسیار با آن برویانیم."
+        }
+      ]
+    },
+    {
+      "id": 5688,
+      "verse_number": 16,
+      "verse_key": "78:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928353,
+          "resource_id": 135,
+          "text": "و باغ‌هایی پردرخت [با آن پرورش دهیم]."
+        }
+      ]
+    },
+    {
+      "id": 5689,
+      "verse_number": 17,
+      "verse_key": "78:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928354,
+          "resource_id": 135,
+          "text": "بی‌گمان، روز داورى [میان مخلوقات]، وعده‌گاه [ما با شما] است."
+        }
+      ]
+    },
+    {
+      "id": 5690,
+      "verse_number": 18,
+      "verse_key": "78:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928355,
+          "resource_id": 135,
+          "text": "روزی ‌که در «صور» دمیده می‌شود و شما گروه‌گروه [به محشر] می‌آیید؛"
+        }
+      ]
+    },
+    {
+      "id": 5691,
+      "verse_number": 19,
+      "verse_key": "78:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928356,
+          "resource_id": 135,
+          "text": "و آسمان گشوده می‌شود و به صورت درهای متعدد درمی‌آید؛"
+        }
+      ]
+    },
+    {
+      "id": 5692,
+      "verse_number": 20,
+      "verse_key": "78:20",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928357,
+          "resource_id": 135,
+          "text": "و کوه‌ها به حرکت درمی‌آید و به صورت سرابی می‌شود؛"
+        }
+      ]
+    },
+    {
+      "id": 5693,
+      "verse_number": 21,
+      "verse_key": "78:21",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928358,
+          "resource_id": 135,
+          "text": "و بی‌گمان، جهنم کمینگاهی است"
+        }
+      ]
+    },
+    {
+      "id": 5694,
+      "verse_number": 22,
+      "verse_key": "78:22",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928359,
+          "resource_id": 135,
+          "text": "[و] محل بازگشتی برای طغیانگران."
+        }
+      ]
+    },
+    {
+      "id": 5695,
+      "verse_number": 23,
+      "verse_key": "78:23",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928360,
+          "resource_id": 135,
+          "text": "مدت زمانی بی‌پایان در آنجا می‌مانند."
+        }
+      ]
+    },
+    {
+      "id": 5696,
+      "verse_number": 24,
+      "verse_key": "78:24",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928361,
+          "resource_id": 135,
+          "text": "در آنجا نه [چیز] خنکی می‌چشند و نه آشامیدنی [گوارایی خواهند داشت]."
+        }
+      ]
+    },
+    {
+      "id": 5697,
+      "verse_number": 25,
+      "verse_key": "78:25",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928362,
+          "resource_id": 135,
+          "text": "جز آبی سوزان و [مایعی که] چرک و خون [جهنمیان است]."
+        }
+      ]
+    },
+    {
+      "id": 5698,
+      "verse_number": 26,
+      "verse_key": "78:26",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928363,
+          "resource_id": 135,
+          "text": "[این] کیفری است مناسب و درخور [گناهانشان]؛"
+        }
+      ]
+    },
+    {
+      "id": 5699,
+      "verse_number": 27,
+      "verse_key": "78:27",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928364,
+          "resource_id": 135,
+          "text": "همانا آنان از حساب [و کتاب روز قیامت] نمی‌ترسیدند"
+        }
+      ]
+    },
+    {
+      "id": 5700,
+      "verse_number": 28,
+      "verse_key": "78:28",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928365,
+          "resource_id": 135,
+          "text": "و آیات ما را به شدت تکذیب کردند؛"
+        }
+      ]
+    },
+    {
+      "id": 5701,
+      "verse_number": 29,
+      "verse_key": "78:29",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928366,
+          "resource_id": 135,
+          "text": "و ما همه چیز را [در لوح محفوظ] شمارش و ثبت کرده‌ایم."
+        }
+      ]
+    },
+    {
+      "id": 5702,
+      "verse_number": 30,
+      "verse_key": "78:30",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 520,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 582,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928367,
+          "resource_id": 135,
+          "text": "پس [کیفرِ اعمال خود را] بچشید که [چیزی] جز عذاب بر شما نمی‌افزاییم."
+        }
+      ]
+    },
+    {
+      "id": 5703,
+      "verse_number": 31,
+      "verse_key": "78:31",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928368,
+          "resource_id": 135,
+          "text": "بی‌گمان، برای پرهیزگاران کامیابی [بزرگی] است."
+        }
+      ]
+    },
+    {
+      "id": 5704,
+      "verse_number": 32,
+      "verse_key": "78:32",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928369,
+          "resource_id": 135,
+          "text": "باغ‌های [میوه] و تاکستان‌ها."
+        }
+      ]
+    },
+    {
+      "id": 5705,
+      "verse_number": 33,
+      "verse_key": "78:33",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928370,
+          "resource_id": 135,
+          "text": "و حوریانی نوجوان و هم‌سن و سال."
+        }
+      ]
+    },
+    {
+      "id": 5706,
+      "verse_number": 34,
+      "verse_key": "78:34",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928371,
+          "resource_id": 135,
+          "text": "و جام‌هایی لبریز و پیاپی [از شراب پاکیزۀ بهشت]."
+        }
+      ]
+    },
+    {
+      "id": 5707,
+      "verse_number": 35,
+      "verse_key": "78:35",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928372,
+          "resource_id": 135,
+          "text": "در آنجا نه سخن بیهوده‌ای می‌شنوند و نه دروغی."
+        }
+      ]
+    },
+    {
+      "id": 5708,
+      "verse_number": 36,
+      "verse_key": "78:36",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928373,
+          "resource_id": 135,
+          "text": "[این] پاداش، از جانب پروردگار توست، و عطایی از روی حساب"
+        }
+      ]
+    },
+    {
+      "id": 5709,
+      "verse_number": 37,
+      "verse_key": "78:37",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928374,
+          "resource_id": 135,
+          "text": "[همان] پروردگار آسمان‌ها و زمین و آنچه در میان آنهاست؛ [همان الله] رحمان [که] هیچ‌ کس [در آن روز] یارای سخن گفتن با او را ندارد."
+        }
+      ]
+    },
+    {
+      "id": 5710,
+      "verse_number": 38,
+      "verse_key": "78:38",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928375,
+          "resource_id": 135,
+          "text": "روزی ‌که روح [= جبرئیل] و فرشتگان به صف می‌ایستند، [و] هیچ‌ کس سخن نمی‌گوید، جز کسی ‌که [الله] رحمان به او اجازه داده باشد و [او] سخن درست [و صواب] گوید."
+        }
+      ]
+    },
+    {
+      "id": 5711,
+      "verse_number": 39,
+      "verse_key": "78:39",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928376,
+          "resource_id": 135,
+          "text": "آن [روز]، روزِ حق است [و بدون تردید واقع می‌شود]؛ پس هر کس كه بخواهد، [می‌تواند] راه بازگشتى به سوى پروردگار خود بجوید."
+        }
+      ]
+    },
+    {
+      "id": 5712,
+      "verse_number": 40,
+      "verse_key": "78:40",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 233,
+      "ruku_number": 521,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 583,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928377,
+          "resource_id": 135,
+          "text": "به راستی، ما شما را از عذابی نزدیک بیم دادیم: روزی ‌که انسان آنچه را از قبل با دست‌های خود فرستاده است می‌بیند، و کافر می‌گوید: «ای کاش من خاک بودم [و برای حساب برانگیخته نمی‌شدم»]!"
+        }
+      ]
+    }
+  ]
+}

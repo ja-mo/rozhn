@@ -1,0 +1,726 @@
+{
+  "id": 83,
+  "name": "The Defrauding",
+  "verses": [
+    {
+      "id": 5849,
+      "verse_number": 1,
+      "verse_key": "83:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَيْلٌ لِّلْمُطَفِّفِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928514,
+          "resource_id": 135,
+          "text": "وای بر کم‌فروشان!"
+        }
+      ]
+    },
+    {
+      "id": 5850,
+      "verse_number": 2,
+      "verse_key": "83:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928515,
+          "resource_id": 135,
+          "text": "[همان] کسانی‌ که چون [برای خود] از مردم پیمانه می‌کنند، حق خود را کامل می‌گیرند،"
+        }
+      ]
+    },
+    {
+      "id": 5851,
+      "verse_number": 3,
+      "verse_key": "83:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928516,
+          "resource_id": 135,
+          "text": "و هنگامی ‌که [می‌خواهند] برای آنان پیمانه یا وزن کنند، کم می‌گذارند."
+        }
+      ]
+    },
+    {
+      "id": 5852,
+      "verse_number": 4,
+      "verse_key": "83:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928517,
+          "resource_id": 135,
+          "text": "آیا آنها گمان نمی‌کنند که [قیامت فرا می‌رسد و از قبرها] برانگیخته می‌شوند،"
+        }
+      ]
+    },
+    {
+      "id": 5853,
+      "verse_number": 5,
+      "verse_key": "83:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِيَوْمٍ عَظِيمٍ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928518,
+          "resource_id": 135,
+          "text": "در روزی بزرگ؟"
+        }
+      ]
+    },
+    {
+      "id": 5854,
+      "verse_number": 6,
+      "verse_key": "83:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928519,
+          "resource_id": 135,
+          "text": "[همان] روزی‌ که مردم در پیشگاه پروردگار جهانیان می‌ایستند."
+        }
+      ]
+    },
+    {
+      "id": 5855,
+      "verse_number": 7,
+      "verse_key": "83:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928520,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست [که کافران پنداشته‌اند]! به راستی که نامۀ [اعمال] بدکاران در سِجّین است."
+        }
+      ]
+    },
+    {
+      "id": 5856,
+      "verse_number": 8,
+      "verse_key": "83:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928521,
+          "resource_id": 135,
+          "text": "و تو چه دانی که سِجّین چیست؟"
+        }
+      ]
+    },
+    {
+      "id": 5857,
+      "verse_number": 9,
+      "verse_key": "83:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كِتَـٰبٌ مَّرْقُومٌ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928522,
+          "resource_id": 135,
+          "text": "کتابی است که [اعمال بدکاران در آن] نوشته شده است."
+        }
+      ]
+    },
+    {
+      "id": 5858,
+      "verse_number": 10,
+      "verse_key": "83:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928523,
+          "resource_id": 135,
+          "text": "در آن روز، وای بر تکذیب‌کنندگان!"
+        }
+      ]
+    },
+    {
+      "id": 5859,
+      "verse_number": 11,
+      "verse_key": "83:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928524,
+          "resource_id": 135,
+          "text": "همان کسانی که روز جزا را [انکار و] تکذیب می‌کنند؛"
+        }
+      ]
+    },
+    {
+      "id": 5860,
+      "verse_number": 12,
+      "verse_key": "83:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928525,
+          "resource_id": 135,
+          "text": "و جز ستمکارانِ گنهکار، [کسی] آن [روز] را تکذیب نمی‌کند."
+        }
+      ]
+    },
+    {
+      "id": 5861,
+      "verse_number": 13,
+      "verse_key": "83:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928526,
+          "resource_id": 135,
+          "text": "هنگامی که آیات ما بر او تلاوت می‌شود، می‌گوید: «[این] افسانه‌های [خیالی] گذشتگان است»."
+        }
+      ]
+    },
+    {
+      "id": 5862,
+      "verse_number": 14,
+      "verse_key": "83:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928527,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست [که آنها گمان می‌کنند]؛ بلکه [به سبب] آنچه کرده‌اند، بر دل‌هایشان زنگار بسته است."
+        }
+      ]
+    },
+    {
+      "id": 5863,
+      "verse_number": 15,
+      "verse_key": "83:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928528,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست [که آنها می‌پندارند]. بی‌گمان، آنان در آن روز از [دیدار] پروردگار‌شان محرومند."
+        }
+      ]
+    },
+    {
+      "id": 5864,
+      "verse_number": 16,
+      "verse_key": "83:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928529,
+          "resource_id": 135,
+          "text": "و [بعد از حساب،] مسلماً وارد دوزخ می‌شوند."
+        }
+      ]
+    },
+    {
+      "id": 5865,
+      "verse_number": 17,
+      "verse_key": "83:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928530,
+          "resource_id": 135,
+          "text": "آنگاه به آنان گفته می‌شود: «این [آتش،] همان چیزی است که آن را تکذیب می‌کردید»."
+        }
+      ]
+    },
+    {
+      "id": 5866,
+      "verse_number": 18,
+      "verse_key": "83:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928531,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست [که آنها می‌پندارند]؛ بی‌گمان، نامۀ [اعمال] نیکوکاران در «عِلّیین» است."
+        }
+      ]
+    },
+    {
+      "id": 5867,
+      "verse_number": 19,
+      "verse_key": "83:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928532,
+          "resource_id": 135,
+          "text": "و تو چه دانی که «عِلّیین» چیست؟"
+        }
+      ]
+    },
+    {
+      "id": 5868,
+      "verse_number": 20,
+      "verse_key": "83:20",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كِتَـٰبٌ مَّرْقُومٌ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928533,
+          "resource_id": 135,
+          "text": "کتابی است که [اعمال نیکوکاران در آن] نوشته شده است،"
+        }
+      ]
+    },
+    {
+      "id": 5869,
+      "verse_number": 21,
+      "verse_key": "83:21",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928534,
+          "resource_id": 135,
+          "text": "که مقرّبان [درگاه الهی] بر آن حاضر می‌شوند [و گواهی می‌دهند]."
+        }
+      ]
+    },
+    {
+      "id": 5870,
+      "verse_number": 22,
+      "verse_key": "83:22",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928535,
+          "resource_id": 135,
+          "text": "همانا نیکوکاران در نعمت[های بهشت] هستند."
+        }
+      ]
+    },
+    {
+      "id": 5871,
+      "verse_number": 23,
+      "verse_key": "83:23",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928536,
+          "resource_id": 135,
+          "text": "بر تخت‌ها [تکیه زده و] می‌نگرند."
+        }
+      ]
+    },
+    {
+      "id": 5872,
+      "verse_number": 24,
+      "verse_key": "83:24",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928537,
+          "resource_id": 135,
+          "text": "خرمی و نشاطِ نعمت [بهشت] را در چهره‌هایشان [می بینی و] می‌شناسی."
+        }
+      ]
+    },
+    {
+      "id": 5873,
+      "verse_number": 25,
+      "verse_key": "83:25",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928538,
+          "resource_id": 135,
+          "text": "آنها از شراب نابِ مُهرشده، [نوشانیده و] سیراب می‌شوند."
+        }
+      ]
+    },
+    {
+      "id": 5874,
+      "verse_number": 26,
+      "verse_key": "83:26",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928539,
+          "resource_id": 135,
+          "text": "مُهری که بر آن نهاده شده، از مُشک است، و مشتاقان [رحمت]، در این [شراب و دیگر نعمت‌های بهشتی] باید بر یکدیگر پیشی گیرند."
+        }
+      ]
+    },
+    {
+      "id": 5875,
+      "verse_number": 27,
+      "verse_key": "83:27",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928540,
+          "resource_id": 135,
+          "text": "و آمیزه‌اش از [چشمه] تسنیم است؛"
+        }
+      ]
+    },
+    {
+      "id": 5876,
+      "verse_number": 28,
+      "verse_key": "83:28",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928541,
+          "resource_id": 135,
+          "text": "[همان] چشمه‌ای که مقربان [درگاه الهی] از آن می‌نوشند."
+        }
+      ]
+    },
+    {
+      "id": 5877,
+      "verse_number": 29,
+      "verse_key": "83:29",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928542,
+          "resource_id": 135,
+          "text": "همانا کسانی که جرم و گناه مرتکب شدند، پیوسته [در دنیا] بر کسانی‌ که ایمان آورده بودند می‌خندیدند."
+        }
+      ]
+    },
+    {
+      "id": 5878,
+      "verse_number": 30,
+      "verse_key": "83:30",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928543,
+          "resource_id": 135,
+          "text": "و هر گاه [مؤمنان] از کنار‌شان می‌گذشتند، با چشم و ابرو به هم اشاره می‌کردند [و آنان را به سُخره می‌گرفتند]؛"
+        }
+      ]
+    },
+    {
+      "id": 5879,
+      "verse_number": 31,
+      "verse_key": "83:31",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928544,
+          "resource_id": 135,
+          "text": "و چون به سوی خانوادۀ خود بازمی‌گشتند، [به خاطر تمسخرِ مؤمنان] شادمان و خندان بودند؛"
+        }
+      ]
+    },
+    {
+      "id": 5880,
+      "verse_number": 32,
+      "verse_key": "83:32",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928545,
+          "resource_id": 135,
+          "text": "و هنگامی که مؤمنان را می‌دیدند می‌گفتند: «بی‌گمان، اینان گمراهانند»؛"
+        }
+      ]
+    },
+    {
+      "id": 5881,
+      "verse_number": 33,
+      "verse_key": "83:33",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928546,
+          "resource_id": 135,
+          "text": "در حالی ‌که آنان برای مراقبت [و نگهبانی،] بر مؤمنان فرستاده نشده بودند."
+        }
+      ]
+    },
+    {
+      "id": 5882,
+      "verse_number": 34,
+      "verse_key": "83:34",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+      "page_number": 588,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928547,
+          "resource_id": 135,
+          "text": "ولی امروز کسانی ‌که ایمان آورده‌اند، به کافران می‌خندند."
+        }
+      ]
+    },
+    {
+      "id": 5883,
+      "verse_number": 35,
+      "verse_key": "83:35",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928548,
+          "resource_id": 135,
+          "text": "بر تخت‌های [آراسته نشسته و به نعمت‌های الهی که برترین آنها، رؤیت وجه گرامی الله است] می‌نگرند."
+        }
+      ]
+    },
+    {
+      "id": 5884,
+      "verse_number": 36,
+      "verse_key": "83:36",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 527,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+      "page_number": 589,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928549,
+          "resource_id": 135,
+          "text": "آیا کافران [با چشیدن عذاب،] جزای آنچه را که می‌کردند دریافت نموده‌اند؟"
+        }
+      ]
+    }
+  ]
+}

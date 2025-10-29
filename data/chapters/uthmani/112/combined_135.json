@@ -1,0 +1,86 @@
+{
+  "id": 112,
+  "name": "The Sincerity",
+  "verses": [
+    {
+      "id": 6222,
+      "verse_number": 1,
+      "verse_key": "112:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928887,
+          "resource_id": 135,
+          "text": "[ای پیامبر] بگو: «او الله یکتا و یگانه است."
+        }
+      ]
+    },
+    {
+      "id": 6223,
+      "verse_number": 2,
+      "verse_key": "112:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928888,
+          "resource_id": 135,
+          "text": "الله بی‌نیاز است [و همه نیازمند او هستند]."
+        }
+      ]
+    },
+    {
+      "id": 6224,
+      "verse_number": 3,
+      "verse_key": "112:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928889,
+          "resource_id": 135,
+          "text": "نه [فرزندی] زاده و نه [از کسی] زاده شده است."
+        }
+      ]
+    },
+    {
+      "id": 6225,
+      "verse_number": 4,
+      "verse_key": "112:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928890,
+          "resource_id": 135,
+          "text": "و هیچ کس همانند و همتای او نبوده و نیست»."
+        }
+      ]
+    }
+  ]
+}

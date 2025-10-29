@@ -1,0 +1,386 @@
+{
+  "id": 87,
+  "name": "The Most High",
+  "verses": [
+    {
+      "id": 5949,
+      "verse_number": 1,
+      "verse_key": "87:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928614,
+          "resource_id": 135,
+          "text": "نام پروردگار بلند مرتبه‌ات را به پاکی یاد کن."
+        }
+      ]
+    },
+    {
+      "id": 5950,
+      "verse_number": 2,
+      "verse_key": "87:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928615,
+          "resource_id": 135,
+          "text": "[همان ذاتی] که [انسان را] آفرید و هماهنگ و متعادل ساخت."
+        }
+      ]
+    },
+    {
+      "id": 5951,
+      "verse_number": 3,
+      "verse_key": "87:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928616,
+          "resource_id": 135,
+          "text": "و [همان] ذاتی‌ که اندازه‌گیری کرد و [به شایستگی آفرید] و سپس هدایت نمود."
+        }
+      ]
+    },
+    {
+      "id": 5952,
+      "verse_number": 4,
+      "verse_key": "87:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928617,
+          "resource_id": 135,
+          "text": "و [آن] ذاتی‌ که چراگاه را [برای تغذیۀ جانداران] رویانید."
+        }
+      ]
+    },
+    {
+      "id": 5953,
+      "verse_number": 5,
+      "verse_key": "87:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928618,
+          "resource_id": 135,
+          "text": "سپس آن را خشک و سیاه گردانید."
+        }
+      ]
+    },
+    {
+      "id": 5954,
+      "verse_number": 6,
+      "verse_key": "87:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928619,
+          "resource_id": 135,
+          "text": "ما به زودی [قرآن را] بر تو می‌خوانیم؛ پس تو هرگز [آن را] فراموش نخواهی کرد؛"
+        }
+      ]
+    },
+    {
+      "id": 5955,
+      "verse_number": 7,
+      "verse_key": "87:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928620,
+          "resource_id": 135,
+          "text": "مگر آنچه را که الله بخواهد؛ همانا او آشکار و نهان را می‌داند."
+        }
+      ]
+    },
+    {
+      "id": 5956,
+      "verse_number": 8,
+      "verse_key": "87:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928621,
+          "resource_id": 135,
+          "text": "و آسان‌ترین [راه‌] را برایت فراهم مى‌گردانیم."
+        }
+      ]
+    },
+    {
+      "id": 5957,
+      "verse_number": 9,
+      "verse_key": "87:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928622,
+          "resource_id": 135,
+          "text": "اگر پند مفید باشد، [مردم را با آیات قرآن] پند ده."
+        }
+      ]
+    },
+    {
+      "id": 5958,
+      "verse_number": 10,
+      "verse_key": "87:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928623,
+          "resource_id": 135,
+          "text": "به زودی کسی‌ که [از الله] می‌ترسد، پند می‌پذیرد."
+        }
+      ]
+    },
+    {
+      "id": 5959,
+      "verse_number": 11,
+      "verse_key": "87:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928624,
+          "resource_id": 135,
+          "text": "و بدبخت‌ترین [مردم،] از آن دوری می‌گزیند؛"
+        }
+      ]
+    },
+    {
+      "id": 5960,
+      "verse_number": 12,
+      "verse_key": "87:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928625,
+          "resource_id": 135,
+          "text": "[همان] کسی‌ که در آتش بزرگ [جهنم] درخواهد آمد،"
+        }
+      ]
+    },
+    {
+      "id": 5961,
+      "verse_number": 13,
+      "verse_key": "87:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928626,
+          "resource_id": 135,
+          "text": "و در آن [آتش] نه می‌میرد و نه زنده می‌مانَد."
+        }
+      ]
+    },
+    {
+      "id": 5962,
+      "verse_number": 14,
+      "verse_key": "87:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928627,
+          "resource_id": 135,
+          "text": "یقیناً کسی ‌که خود را [از کفرو گناه] پاک کند، رستگار خواهد شد؛"
+        }
+      ]
+    },
+    {
+      "id": 5963,
+      "verse_number": 15,
+      "verse_key": "87:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "page_number": 591,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928628,
+          "resource_id": 135,
+          "text": "و [نیز کسی که] نام پروردگارش را یاد کند و نماز بگزارد."
+        }
+      ]
+    },
+    {
+      "id": 5964,
+      "verse_number": 16,
+      "verse_key": "87:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928629,
+          "resource_id": 135,
+          "text": "ولی شما [مردم،] زندگی دنیا را [بر آخرت] ترجیح می‌دهید؛"
+        }
+      ]
+    },
+    {
+      "id": 5965,
+      "verse_number": 17,
+      "verse_key": "87:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928630,
+          "resource_id": 135,
+          "text": "در حالی‌ که آخرت، بهتر و پاینده‌تر است."
+        }
+      ]
+    },
+    {
+      "id": 5966,
+      "verse_number": 18,
+      "verse_key": "87:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928631,
+          "resource_id": 135,
+          "text": "به راستی این [پندها] در کتاب‌های آسمانی پیشین [نیز] بود؛"
+        }
+      ]
+    },
+    {
+      "id": 5967,
+      "verse_number": 19,
+      "verse_key": "87:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 237,
+      "ruku_number": 531,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+      "page_number": 592,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928632,
+          "resource_id": 135,
+          "text": "کتاب‌های ابراهیم و موسی."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1906 @@
+{
+  "id": 23,
+  "name": "The Believers",
+  "verses": [
+    {
+      "id": 2674,
+      "verse_number": 1,
+      "verse_key": "23:1",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925339,
+          "resource_id": 135,
+          "text": "به راستی که مؤمنان رستگار شدند؛"
+        }
+      ]
+    },
+    {
+      "id": 2675,
+      "verse_number": 2,
+      "verse_key": "23:2",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925340,
+          "resource_id": 135,
+          "text": "همان کسانی ‌که در نمازشان فروتن هستند؛"
+        }
+      ]
+    },
+    {
+      "id": 2676,
+      "verse_number": 3,
+      "verse_key": "23:3",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925341,
+          "resource_id": 135,
+          "text": "و آنان ‌که از [گفتار و رفتار] بیهوده رویگردانند؛"
+        }
+      ]
+    },
+    {
+      "id": 2677,
+      "verse_number": 4,
+      "verse_key": "23:4",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925342,
+          "resource_id": 135,
+          "text": "و آنان ‌که زکات می‌پردازند؛"
+        }
+      ]
+    },
+    {
+      "id": 2678,
+      "verse_number": 5,
+      "verse_key": "23:5",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925343,
+          "resource_id": 135,
+          "text": "و آنان که شرمگاهشان را حفظ می‌کنند؛"
+        }
+      ]
+    },
+    {
+      "id": 2679,
+      "verse_number": 6,
+      "verse_key": "23:6",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925344,
+          "resource_id": 135,
+          "text": "مگر در مورد همسران‌ یا کنیزانشان که [در بهره‌گیری جنسی از آنها] نکوهشی بر آنان نیست."
+        }
+      ]
+    },
+    {
+      "id": 2680,
+      "verse_number": 7,
+      "verse_key": "23:7",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925345,
+          "resource_id": 135,
+          "text": "اما کسانی که فراتر از این بخواهند، آنان کسانی هستند که از حد درگذشته‌اند."
+        }
+      ]
+    },
+    {
+      "id": 2681,
+      "verse_number": 8,
+      "verse_key": "23:8",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925346,
+          "resource_id": 135,
+          "text": "و کسانی‌ که امانت‌ها و عهد خود را رعایت می‌کنند،"
+        }
+      ]
+    },
+    {
+      "id": 2682,
+      "verse_number": 9,
+      "verse_key": "23:9",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925347,
+          "resource_id": 135,
+          "text": "و کسانی‌ که بر [ادای] نمازهایشان مراقبت می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 2683,
+      "verse_number": 10,
+      "verse_key": "23:10",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925348,
+          "resource_id": 135,
+          "text": "اینانند که وارثان هستند."
+        }
+      ]
+    },
+    {
+      "id": 2684,
+      "verse_number": 11,
+      "verse_key": "23:11",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925349,
+          "resource_id": 135,
+          "text": "[همان] کسانی‌ که بهشت برین را به ارث می‌برند [و] در آن جاودانند."
+        }
+      ]
+    },
+    {
+      "id": 2685,
+      "verse_number": 12,
+      "verse_key": "23:12",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925350,
+          "resource_id": 135,
+          "text": "و در حقیقت، انسان را از چکیده‌ای از گِل آفریدیم."
+        }
+      ]
+    },
+    {
+      "id": 2686,
+      "verse_number": 13,
+      "verse_key": "23:13",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925351,
+          "resource_id": 135,
+          "text": "سپس او را [به شکل] نطفه‌ای در قرارگاهی استوار [= رحِم] نهادیم."
+        }
+      ]
+    },
+    {
+      "id": 2687,
+      "verse_number": 14,
+      "verse_key": "23:14",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925352,
+          "resource_id": 135,
+          "text": "سپس نطفه را [به شکل] خونِ بسته ساختیم و آنگاه خونِ بسته را [به صورت] پاره‌گوشتی ساختیم؛ سپس پاره‌گوشت را [به شکل] استخوان درآوردیم و آنگاه بر استخوان‌ها گوشت پوشاندیم؛ سپس آن [جنین] را آفرینشی دیگر بخشیدیم. [پربرکت و] بزرگوار است الله که نیکوترین آفریننده است."
+        }
+      ]
+    },
+    {
+      "id": 2688,
+      "verse_number": 15,
+      "verse_key": "23:15",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925353,
+          "resource_id": 135,
+          "text": "سپس شما [پس از طی مراحل زندگی] قطعاً خواهید مُرد."
+        }
+      ]
+    },
+    {
+      "id": 2689,
+      "verse_number": 16,
+      "verse_key": "23:16",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925354,
+          "resource_id": 135,
+          "text": "آنگاه بی‌تردید، در روز قیامت برانگیخته می‌شوید."
+        }
+      ]
+    },
+    {
+      "id": 2690,
+      "verse_number": 17,
+      "verse_key": "23:17",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 342,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925355,
+          "resource_id": 135,
+          "text": "و به یقین، ما بر فرازتان هفت آسمان آفریدیم و [هرگز] از مخلوقات [خود] غافل نبوده‌ایم."
+        }
+      ]
+    },
+    {
+      "id": 2691,
+      "verse_number": 18,
+      "verse_key": "23:18",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925356,
+          "resource_id": 135,
+          "text": "و از آسمان به ‌اندازه‌ای معیّن [برای نیاز مخلوقات] آبی فرستادیم و آن را در زمین جای دادیم؛ و قطعاً برای از بین بردنش [نیز] کاملاً تواناییم."
+        }
+      ]
+    },
+    {
+      "id": 2692,
+      "verse_number": 19,
+      "verse_key": "23:19",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925357,
+          "resource_id": 135,
+          "text": "سپس توسط آن [آب] باغ‌هایی از درختان خرما و انگور برایتان پدید آوردیم که در آن [باغ‌ها،] میوه‌های بسیاری برای شماست و از آن [محصولات] می‌خورید."
+        }
+      ]
+    },
+    {
+      "id": 2693,
+      "verse_number": 20,
+      "verse_key": "23:20",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925358,
+          "resource_id": 135,
+          "text": "و درختى [آفریدیم] كه از طور سینا برمى‌آید و روغن [زیتون‌] مى‌دهد و خورشى براى خورندگان است."
+        }
+      ]
+    },
+    {
+      "id": 2694,
+      "verse_number": 21,
+      "verse_key": "23:21",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925359,
+          "resource_id": 135,
+          "text": "و بی‌تردید، در [وجود] چهارپایان عبرتى [از قدرت الله] برایتان است: از آنچه در شكم آنهاست به شما [شیر] مى‌نوشانیم و در [وجود] آنها سودهای بسیاری برایتان وجود دارد و از [گوشت] آنها مى‌خورید."
+        }
+      ]
+    },
+    {
+      "id": 2695,
+      "verse_number": 22,
+      "verse_key": "23:22",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 295,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925360,
+          "resource_id": 135,
+          "text": "[در خشكى] بر آنها و [در آب] بر کشتی‌ها سوار می‌شوید."
+        }
+      ]
+    },
+    {
+      "id": 2696,
+      "verse_number": 23,
+      "verse_key": "23:23",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925361,
+          "resource_id": 135,
+          "text": "و بی‌تردید، ما نوح را به سوی قومش فرستادیم؛ [به آنان] گفت: «ای قوم من، الله را عبادت کنید [که] جز او معبودی [به‌حق] ندارید. آیا پروا نمی‌کنید؟»"
+        }
+      ]
+    },
+    {
+      "id": 2697,
+      "verse_number": 24,
+      "verse_key": "23:24",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925362,
+          "resource_id": 135,
+          "text": "اما اشراف و بزرگان قومش ‌که کفر ورزیده بودند گفتند: «این [مرد کسی] نیست مگر بشری همچون شما [که] می‌خواهد بر شما برتری جوید. اگر الله می‌خواست [رسولی بفرستد]، فرشتگانی [به سویتان] نازل می‌کرد. ما این [سخن] را [که نوح می‌گوید] در میان نیاکان خود نشنیده‌ایم."
+        }
+      ]
+    },
+    {
+      "id": 2698,
+      "verse_number": 25,
+      "verse_key": "23:25",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925363,
+          "resource_id": 135,
+          "text": "او مرد دیوانه‌ای بیش نیست؛ پس تا مدتی منتظر باشید [که یا دروغش آشکار گردد و دست از دعوتش بردارد یا مرگش فرارسد]»."
+        }
+      ]
+    },
+    {
+      "id": 2699,
+      "verse_number": 26,
+      "verse_key": "23:26",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925364,
+          "resource_id": 135,
+          "text": "[نوح] گفت: «پروردگارا، مرا در برابر تکذیب آنان یاری کن»."
+        }
+      ]
+    },
+    {
+      "id": 2700,
+      "verse_number": 27,
+      "verse_key": "23:27",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 343,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925365,
+          "resource_id": 135,
+          "text": "به او وحی کردیدم: «کشتی را تحت نظرِ ما و به وحی ما بساز و هنگامی‌ که فرمان [عذاب] ما فرارسید و [به نشانۀ رسیدنِ طوفان، آب از] تنور جوشید، از هر نوع [حیوان،] یک جفت [نر و ماده] در کشتی سوار کن و خانواده‌ات را [نیز همراه خود ببر] مگر کسانی که پیشتر وعده[ی هلاکت] بر آنان مقرر شده است و دربارۀ [نجاتِ] کسانی ‌که ستم کرده‌اند با من سخن نگو؛ [چرا که] آنان حتماً غرق خواهند شد."
+        }
+      ]
+    },
+    {
+      "id": 2701,
+      "verse_number": 28,
+      "verse_key": "23:28",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925366,
+          "resource_id": 135,
+          "text": "هنگامی ‌که تو و همراهانت بر کشتی سوار شدید بگو: \"سپاس مخصوص الله است که ما را از [چنگ] گروه ستمکار نجات داد\"»."
+        }
+      ]
+    },
+    {
+      "id": 2702,
+      "verse_number": 29,
+      "verse_key": "23:29",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925367,
+          "resource_id": 135,
+          "text": "و [نیز] بگو: «پروردگارا، ما را در منزل‌گاهی پربرکت فرود آور که تو بهترین فرودآورنده‌ای»."
+        }
+      ]
+    },
+    {
+      "id": 2703,
+      "verse_number": 30,
+      "verse_key": "23:30",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925368,
+          "resource_id": 135,
+          "text": "بی‌تردید در این [ماجرا] نشانه‌هایی [از قدرت الله در نجات مؤمنان و عذاب کافران] است و یقیناً ما آزمایشگر [ایمان و کفرِ مردم] بوده‌ایم؛"
+        }
+      ]
+    },
+    {
+      "id": 2704,
+      "verse_number": 31,
+      "verse_key": "23:31",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925369,
+          "resource_id": 135,
+          "text": "آنگاه گروه دیگری را پس از آنان پدید آوردیم؛"
+        }
+      ]
+    },
+    {
+      "id": 2705,
+      "verse_number": 32,
+      "verse_key": "23:32",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 296,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925370,
+          "resource_id": 135,
+          "text": "و پیامبری از خودشان در [میان] آنان فرستادیم [تا بگوید]: «الله را عبادت کنید [که] جز او معبودی [به‌حق] ندارید. آیا پروا نمی‌کنید؟»"
+        }
+      ]
+    },
+    {
+      "id": 2706,
+      "verse_number": 33,
+      "verse_key": "23:33",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925371,
+          "resource_id": 135,
+          "text": "گروهی از اشراف و بزرگان قومش که کفر ورزیده بودند و دیدار آخرت را دروغ می‌انگاشتند و در زندگی دنیا نعمت و آسایش به آنان داده بودیم، گفتند: «این [مرد کسی] نیست مگر بشری همچون شما؛ از آنچه [شما] می‌خورید [او نیز] می‌خورد و از آنچه که شما می‌نوشید [او نیز] می‌نوشد [پس مزیّتی ندارد که پیامبر باشد]."
+        }
+      ]
+    },
+    {
+      "id": 2707,
+      "verse_number": 34,
+      "verse_key": "23:34",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925372,
+          "resource_id": 135,
+          "text": "و اگر از بشری همچون خود اطاعت کنید، در آن صورت، یقیناً زیانکارید."
+        }
+      ]
+    },
+    {
+      "id": 2708,
+      "verse_number": 35,
+      "verse_key": "23:35",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 137,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925373,
+          "resource_id": 135,
+          "text": "آیا او به شما وعده می‌دهد که وقتی مردید و خاک و استخوان شدید، [در قیامت از گور] بیرون آورده می‌شوید؟"
+        }
+      ]
+    },
+    {
+      "id": 2709,
+      "verse_number": 36,
+      "verse_key": "23:36",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925374,
+          "resource_id": 135,
+          "text": "آنچه به شما وعده می‌دهد، چه دور است، چه دور!"
+        }
+      ]
+    },
+    {
+      "id": 2710,
+      "verse_number": 37,
+      "verse_key": "23:37",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925375,
+          "resource_id": 135,
+          "text": "[زندگانی] جز همین زندگی دنیای ما نیست؛ و [گروهى‌] مى‌میریم و [و گروهى به جاى آنها] زنده مى‌شویم و هرگز [پس از مرگ] برانگیخته نخواهیم شد."
+        }
+      ]
+    },
+    {
+      "id": 2711,
+      "verse_number": 38,
+      "verse_key": "23:38",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925376,
+          "resource_id": 135,
+          "text": "او [کسی] نیست مگر مردی که بر الله دروغ می‌بندد و ما به او ایمان نمی‌آوریم»."
+        }
+      ]
+    },
+    {
+      "id": 2712,
+      "verse_number": 39,
+      "verse_key": "23:39",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925377,
+          "resource_id": 135,
+          "text": "[پیامبرشان] گفت: «پروردگارا، مرا در برابر تکذیب آنان یاری کن»."
+        }
+      ]
+    },
+    {
+      "id": 2713,
+      "verse_number": 40,
+      "verse_key": "23:40",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925378,
+          "resource_id": 135,
+          "text": "[الله] فرمود: «پس از اندک زمانی، [از کار خود] سخت پشیمان می‌شوند»."
+        }
+      ]
+    },
+    {
+      "id": 2714,
+      "verse_number": 41,
+      "verse_key": "23:41",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925379,
+          "resource_id": 135,
+          "text": "پس بانگی [مرگبار] آنان را به‌حق فروگرفت و آنان را [همچون] خس و خاشاک [روی سیل] نمودیم؛ پس قوم ستمکار [از رحمت الله] دور باد!"
+        }
+      ]
+    },
+    {
+      "id": 2715,
+      "verse_number": 42,
+      "verse_key": "23:42",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 344,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925380,
+          "resource_id": 135,
+          "text": "سپس بعد از آنان نسل‌هایی دیگر پدید آوردیم."
+        }
+      ]
+    },
+    {
+      "id": 2716,
+      "verse_number": 43,
+      "verse_key": "23:43",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925381,
+          "resource_id": 135,
+          "text": "هیچ امتی نه از اجل [معینِ] خود پیشی می‌گیرد و نه تأخیر می‌کند."
+        }
+      ]
+    },
+    {
+      "id": 2717,
+      "verse_number": 44,
+      "verse_key": "23:44",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925382,
+          "resource_id": 135,
+          "text": "سپس پیامبران خود را پیاپی فرستادیم. هر گاه پیامبری برای [هدایت] امتی می‌آمد، او را دروغگو می‌انگاشتند؛ [ما نیز] آنان را یکی پس از دیگری هلاک کردیم و آنان را داستان‌ها[ی عبرت‌آموزی برای آیندگان] قرار دادیم. پس نابود باد قومی که ایمان نمی‌آورند!"
+        }
+      ]
+    },
+    {
+      "id": 2718,
+      "verse_number": 45,
+      "verse_key": "23:45",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925383,
+          "resource_id": 135,
+          "text": "سپس موسی و برادرش هارون را با آیات [نُه‌گانۀ] خویش و دلایل آشکار فرستادیم"
+        }
+      ]
+    },
+    {
+      "id": 2719,
+      "verse_number": 46,
+      "verse_key": "23:46",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925384,
+          "resource_id": 135,
+          "text": "به سوی فرعون و اشراف [قوم] او؛ و[لی] آنان گردنکشی کردند و گروهی برتری‌خواه بودند."
+        }
+      ]
+    },
+    {
+      "id": 2720,
+      "verse_number": 47,
+      "verse_key": "23:47",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925385,
+          "resource_id": 135,
+          "text": "و گفتند: «آیا به دو انسان مانند خود ایمان بیاوریم، حال‌ آنکه قومشان بردگان ما هستند؟»"
+        }
+      ]
+    },
+    {
+      "id": 2721,
+      "verse_number": 48,
+      "verse_key": "23:48",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925386,
+          "resource_id": 135,
+          "text": "پس آن دو را دروغگو انگاشتند [و] سرانجام هلاک شدند."
+        }
+      ]
+    },
+    {
+      "id": 2722,
+      "verse_number": 49,
+      "verse_key": "23:49",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925387,
+          "resource_id": 135,
+          "text": "و بی‌تردید، به موسی کتاب [تورات] دادیم؛ باشد که [بنی‌اسرائیل] هدایت شوند."
+        }
+      ]
+    },
+    {
+      "id": 2723,
+      "verse_number": 50,
+      "verse_key": "23:50",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 297,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925388,
+          "resource_id": 135,
+          "text": "و پسر مریم و مادرش را نشانه‌ای [از قدرت الهی] قرار دادیم و آنان را در مکان بلند و همواری که دارای امنیت و آبی [زلال و] جاری بود جای دادیم."
+        }
+      ]
+    },
+    {
+      "id": 2724,
+      "verse_number": 51,
+      "verse_key": "23:51",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925389,
+          "resource_id": 135,
+          "text": "ای پیامبران، از [غذاهای] پاکیزه بخورید و کار شایسته انجام دهید. یقیناً من از آنچه انجام می‌دهید آگاهم."
+        }
+      ]
+    },
+    {
+      "id": 2725,
+      "verse_number": 52,
+      "verse_key": "23:52",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925390,
+          "resource_id": 135,
+          "text": "و در حقیقت، این دین شما، دینی واحد [به نام اسلام] است و من پروردگارتان هستم؛ پس از من پروا کنید."
+        }
+      ]
+    },
+    {
+      "id": 2726,
+      "verse_number": 53,
+      "verse_key": "23:53",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925391,
+          "resource_id": 135,
+          "text": "اما [پیروانشان اختلاف کردند و] در امر [دین]شان میان خود پراکنده و گروه‌گروه شدند [و] هر گروهی به آنچه نزدشان است دلخوشند [چرا که خود را بر حق و دیگران را بر باطل می‌دانند]."
+        }
+      ]
+    },
+    {
+      "id": 2727,
+      "verse_number": 54,
+      "verse_key": "23:54",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925392,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] آنان را تا وقتی [که عذاب فرامی‌رسد] در جهل و نادانی‌‌شان رها کن."
+        }
+      ]
+    },
+    {
+      "id": 2728,
+      "verse_number": 55,
+      "verse_key": "23:55",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925393,
+          "resource_id": 135,
+          "text": "آیا گمان می‌کنند اموال و فرزندانی که به آنان می‌دهیم [به این هدف است که،]"
+        }
+      ]
+    },
+    {
+      "id": 2729,
+      "verse_number": 56,
+      "verse_key": "23:56",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925394,
+          "resource_id": 135,
+          "text": "شتابان نیکی‌ها را به آنان برسانیم؟ [نه، هرگز چنین نیست؛] بلکه آنان نمی‌فهمند [که این وسیله امتحانشان است]."
+        }
+      ]
+    },
+    {
+      "id": 2730,
+      "verse_number": 57,
+      "verse_key": "23:57",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925395,
+          "resource_id": 135,
+          "text": "کسانی ‌که از بیم پروردگارشان ترسانند"
+        }
+      ]
+    },
+    {
+      "id": 2731,
+      "verse_number": 58,
+      "verse_key": "23:58",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925396,
+          "resource_id": 135,
+          "text": "و کسانی‌ که به آیات پروردگارشان ایمان می‌آورند"
+        }
+      ]
+    },
+    {
+      "id": 2732,
+      "verse_number": 59,
+      "verse_key": "23:59",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 345,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925397,
+          "resource_id": 135,
+          "text": "و کسانی‌ که به پروردگارشان شرک نمی‌ورزند"
+        }
+      ]
+    },
+    {
+      "id": 2733,
+      "verse_number": 60,
+      "verse_key": "23:60",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925398,
+          "resource_id": 135,
+          "text": "و کسانی ‌که در انجام کارهای خیر می‌کوشند و از اینکه به سوی پروردگار‌ خویش بازمی‌گردند دل‌هایشان هراسان است [از اینکه مبادا کارهای نیکشان قبول نشود]."
+        }
+      ]
+    },
+    {
+      "id": 2734,
+      "verse_number": 61,
+      "verse_key": "23:61",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925399,
+          "resource_id": 135,
+          "text": "اینان در نیکی‌ها شتاب می‌کنند و در انجام آن [از یکدیگر] پیشی می‌گیرند."
+        }
+      ]
+    },
+    {
+      "id": 2735,
+      "verse_number": 62,
+      "verse_key": "23:62",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925400,
+          "resource_id": 135,
+          "text": "و [ما] به هیچ کس جز به ‌اندازۀ توانش تکلیف نمی‌کنیم و نزد ما کتابی است که [دربارۀ اعمال بندگان] به‌حق سخن می‌گوید و به آنان ستم نمی‌شود."
+        }
+      ]
+    },
+    {
+      "id": 2736,
+      "verse_number": 63,
+      "verse_key": "23:63",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925401,
+          "resource_id": 135,
+          "text": "[نه،] بلكه دل‌هایشان از این [کتاب‌] در غفلت است و آنان جز این [گناه کفر،] کارهایی [دیگر نیز] انجام مى‌دهند."
+        }
+      ]
+    },
+    {
+      "id": 2737,
+      "verse_number": 64,
+      "verse_key": "23:64",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925402,
+          "resource_id": 135,
+          "text": "تا هنگامی ‌که ثروتمندانشان را به عذاب گرفتار کنیم، ناگهان فریادِ زاری سر می‌دهند."
+        }
+      ]
+    },
+    {
+      "id": 2738,
+      "verse_number": 65,
+      "verse_key": "23:65",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925403,
+          "resource_id": 135,
+          "text": "[به آنان گفته می‌شود:] «امروز ناله و زاری نکنید [که] هرگز از سوی ما یاری نخواهید شد."
+        }
+      ]
+    },
+    {
+      "id": 2739,
+      "verse_number": 66,
+      "verse_key": "23:66",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925404,
+          "resource_id": 135,
+          "text": "بی‌تردید، آیات من پیوسته بر شما خوانده می‌شد؛ ولی [از حق] روی می‌گرداندید."
+        }
+      ]
+    },
+    {
+      "id": 2740,
+      "verse_number": 67,
+      "verse_key": "23:67",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925405,
+          "resource_id": 135,
+          "text": "در حالی‌ که در برابرش تکبر می‌کردید [و در مجالس شبانۀ خود] به بدگویی می‌پرداختید."
+        }
+      ]
+    },
+    {
+      "id": 2741,
+      "verse_number": 68,
+      "verse_key": "23:68",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925406,
+          "resource_id": 135,
+          "text": "آیا آنان در این گفتار [= قرآن] نیندیشیده‌اند یا [مگر] چیزی برایشان آمده که برای نیاکانشان نیامده است؟"
+        }
+      ]
+    },
+    {
+      "id": 2742,
+      "verse_number": 69,
+      "verse_key": "23:69",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925407,
+          "resource_id": 135,
+          "text": "یا پیامبر‌‌شان را [به خوبی] نشناخته‌اند و [از این روست که] او را انکار می‌کنند؟"
+        }
+      ]
+    },
+    {
+      "id": 2743,
+      "verse_number": 70,
+      "verse_key": "23:70",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925408,
+          "resource_id": 135,
+          "text": "یا می‌گویند او جنون دارد؟ [نه، چنین نیست؛] بلکه [او دینِ] حق را برایشان آورده است؛ [ولی] بیشتر آنان [از روی حسادت و تعصبی که به باطل خویش دارند] حق را نمی‌پسندند [و از آن به خشم می‌آیند]."
+        }
+      ]
+    },
+    {
+      "id": 2744,
+      "verse_number": 71,
+      "verse_key": "23:71",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925409,
+          "resource_id": 135,
+          "text": "اگر الله از هوس‌های آنان پیروی کند [و امورِ هستی به میلِ کافران اداره شود]، آسمان‌ها و زمین و هر ‌کس [و هر چه] در آنهاست تباه می‌گردد؛ بلکه پندشان [= قرآن] را برای آنان آورده‌ایم [که مایۀ عزت و شرفشان است]؛ ولی آنان از پندشان رویگردانند."
+        }
+      ]
+    },
+    {
+      "id": 2745,
+      "verse_number": 72,
+      "verse_key": "23:72",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925410,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] آیا تو از آنان [برای تبلیغ دین] پاداشی می‌طلبی؟ و حال آنکه پاداش پروردگارت [بسی] بهتر است و او بهترین روزی‌دهنده است."
+        }
+      ]
+    },
+    {
+      "id": 2746,
+      "verse_number": 73,
+      "verse_key": "23:73",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925411,
+          "resource_id": 135,
+          "text": "و بی‌تردید، تو آنان را به راهی راست دعوت می‌کنی."
+        }
+      ]
+    },
+    {
+      "id": 2747,
+      "verse_number": 74,
+      "verse_key": "23:74",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 138,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 346,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925412,
+          "resource_id": 135,
+          "text": "کسانی ‌که به آخرت ایمان ندارند قطعاً از این راه [راست،] منحرف شده‌اند."
+        }
+      ]
+    },
+    {
+      "id": 2748,
+      "verse_number": 75,
+      "verse_key": "23:75",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925413,
+          "resource_id": 135,
+          "text": "اگر به آنان رحم کنیم و بلا و رنجی را که [از قحطی و گرسنگی] دیده‌اند از آنان بر‌طرف سازیم، بر سرکشی [و گمراهیِ] خویش پا‌‌‌فشاری می‌کنند [و همچنان] به بیراهه می‌روند."
+        }
+      ]
+    },
+    {
+      "id": 2749,
+      "verse_number": 76,
+      "verse_key": "23:76",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925414,
+          "resource_id": 135,
+          "text": "در حقیقت، [ما] آنان را به عذاب [و بلا] گرفتار ساختیم [تا بیدار شوند]؛ اما در برابر پروردگارشان فروتنی ننمودند و [به درگاهش تضرع و] زاری نکردند."
+        }
+      ]
+    },
+    {
+      "id": 2750,
+      "verse_number": 77,
+      "verse_key": "23:77",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 298,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925415,
+          "resource_id": 135,
+          "text": "[آنان پیوسته چنین هستند] تا آنگاه‌ که دری از عذابِ سخت بر آنان می‌گشاییم [و چنان گرفتار ‌شوند] که [از همه جا] مأیوس گردند."
+        }
+      ]
+    },
+    {
+      "id": 2751,
+      "verse_number": 78,
+      "verse_key": "23:78",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925416,
+          "resource_id": 135,
+          "text": "[ای منکرانِ قیامت،] الله ذاتی است که گوش و چشم و دل برایتان پدید آورد. چه اندک سپاس می‌گزارید!"
+        }
+      ]
+    },
+    {
+      "id": 2752,
+      "verse_number": 79,
+      "verse_key": "23:79",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925417,
+          "resource_id": 135,
+          "text": "و او تعالی است که شما را در زمین [آفرید و] پراکنده کرد و [روز قیامت] به سوی او جمع می‌شوید."
+        }
+      ]
+    },
+    {
+      "id": 2753,
+      "verse_number": 80,
+      "verse_key": "23:80",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925418,
+          "resource_id": 135,
+          "text": "و اوست که زنده می‌کند و می‌میراند و گردشِ شب و روز از [تدبیرِ] اوست. آیا نمی‌اندیشید؟"
+        }
+      ]
+    },
+    {
+      "id": 2754,
+      "verse_number": 81,
+      "verse_key": "23:81",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925419,
+          "resource_id": 135,
+          "text": "[چنین نکردند؛] بلكه آنان نیز همان [سخنانی را] گفتند كه پیشینیان مى‌گفتند."
+        }
+      ]
+    },
+    {
+      "id": 2755,
+      "verse_number": 82,
+      "verse_key": "23:82",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925420,
+          "resource_id": 135,
+          "text": "گفتند: «آیا هنگامی که مردیم و خاک و استخوان شدیم، برانگیخته خواهیم شد؟"
+        }
+      ]
+    },
+    {
+      "id": 2756,
+      "verse_number": 83,
+      "verse_key": "23:83",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925421,
+          "resource_id": 135,
+          "text": "بی‌تردید، این وعده را پیش از این نیز به ما و نیاکانمان داده‌اند. این [سخن، چیزی] نیست مگر [دروغ‌ها و] افسانه‌های [خیالی] پیشینیان»."
+        }
+      ]
+    },
+    {
+      "id": 2757,
+      "verse_number": 84,
+      "verse_key": "23:84",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925422,
+          "resource_id": 135,
+          "text": "[ای پیامبر، به منکرانِ معاد] بگو: «اگر می‌دانید، [بگویید] زمین و هر ‌کس در آن است از آنِ کیست؟»"
+        }
+      ]
+    },
+    {
+      "id": 2758,
+      "verse_number": 85,
+      "verse_key": "23:85",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925423,
+          "resource_id": 135,
+          "text": "خواهند گفت: «[همه] از آنِ الله است». بگو: «پس آیا پند نمی‌گیرید؟»"
+        }
+      ]
+    },
+    {
+      "id": 2759,
+      "verse_number": 86,
+      "verse_key": "23:86",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925424,
+          "resource_id": 135,
+          "text": "بگو: «پروردگارِ هفت ‌آسمان و پروردگار عرش بزرگ کیست؟»"
+        }
+      ]
+    },
+    {
+      "id": 2760,
+      "verse_number": 87,
+      "verse_key": "23:87",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925425,
+          "resource_id": 135,
+          "text": "خواهند گفت: «[همه] از آنِ الله است». بگو: «پس آیا [از الله] پروا نمی‌کنید؟»"
+        }
+      ]
+    },
+    {
+      "id": 2761,
+      "verse_number": 88,
+      "verse_key": "23:88",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925426,
+          "resource_id": 135,
+          "text": "بگو: «اگر می‌دانید، [بگویید] فرمانرواییِ همه چیز به دست کیست؟ و [کیست که] پناه می‌دهد و کسی در برابر [عذابِ] او پناه‌داده نمی‌شود؟»"
+        }
+      ]
+    },
+    {
+      "id": 2762,
+      "verse_number": 89,
+      "verse_key": "23:89",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 347,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925427,
+          "resource_id": 135,
+          "text": "خواهند گفت: «[فرمانرواییِ همه چیز،] از آنِ الله است». بگو: «پس چگونه افسون می‌شوید [و نمی‌اندیشید]؟»"
+        }
+      ]
+    },
+    {
+      "id": 2763,
+      "verse_number": 90,
+      "verse_key": "23:90",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925428,
+          "resource_id": 135,
+          "text": "[چنین نیست که کافران گمان می‌کنند] بلکه ما حق را برایشان آوردیم و یقیناً آنان دروغگو هستند."
+        }
+      ]
+    },
+    {
+      "id": 2764,
+      "verse_number": 91,
+      "verse_key": "23:91",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925429,
+          "resource_id": 135,
+          "text": "الله هرگز فرزندی برنگزیده است و هیچ معبودی با او نیست. [اگر چنین بود،] آنگاه هر معبودی آنچه را آفریده بود [با خود] می‌بُرد و مسلماً برخی بر برخی دیگر برتری می‌جستند [و نظامِ هستی تباه می‌گشت]. الله از آنچه [مشرکان] توصیف می‌کنند، منزّه است."
+        }
+      ]
+    },
+    {
+      "id": 2765,
+      "verse_number": 92,
+      "verse_key": "23:92",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 299,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925430,
+          "resource_id": 135,
+          "text": "او دانای نهان و آشکار است و از چیزهایی که با [وی] شریک می‌سازند برتر است."
+        }
+      ]
+    },
+    {
+      "id": 2766,
+      "verse_number": 93,
+      "verse_key": "23:93",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925431,
+          "resource_id": 135,
+          "text": "بگو: «پروردگارا، اگر آن [عذابی] را که به آنان وعده داده می‌شود به من نشان می‌دهی [که شاهدش باشم]،"
+        }
+      ]
+    },
+    {
+      "id": 2767,
+      "verse_number": 94,
+      "verse_key": "23:94",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925432,
+          "resource_id": 135,
+          "text": "مرا در این [عذاب‌ها، در کنارِ این] گروه ستمکار قرار نده»."
+        }
+      ]
+    },
+    {
+      "id": 2768,
+      "verse_number": 95,
+      "verse_key": "23:95",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925433,
+          "resource_id": 135,
+          "text": "و قطعاً ما تواناییم که آنچه را به آنان وعده می‌دهیم، به تو نشان دهیم."
+        }
+      ]
+    },
+    {
+      "id": 2769,
+      "verse_number": 96,
+      "verse_key": "23:96",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925434,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] بدی را به شیوه‌ای که بهتر است، دفع کن [و ببخش و شکیبا باش]. ما به آنچه [مشرکان دربارۀ تو] توصیف می‌کنند، داناتریم."
+        }
+      ]
+    },
+    {
+      "id": 2770,
+      "verse_number": 97,
+      "verse_key": "23:97",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925435,
+          "resource_id": 135,
+          "text": "و بگو: «پروردگارا، من از وسوسه‌های شیاطین به تو پناه می‌برم."
+        }
+      ]
+    },
+    {
+      "id": 2771,
+      "verse_number": 98,
+      "verse_key": "23:98",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925436,
+          "resource_id": 135,
+          "text": "و پروردگارا، از اینکه آنها نزد من حاضر شوند [نیز] به تو پناه می‌برم»."
+        }
+      ]
+    },
+    {
+      "id": 2772,
+      "verse_number": 99,
+      "verse_key": "23:99",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925437,
+          "resource_id": 135,
+          "text": "[کافران پیوسته بر عقیدۀ باطلشان هستند] تا هنگامی ‌که مرگ یکی از آنان فرارسد [آنگاه در حالی که] نزد پروردگار [خود ناله و زاری می‌کند، به فرشتگان] می‌گوید: «مرا [به دنیا] بازگردانید."
+        }
+      ]
+    },
+    {
+      "id": 2773,
+      "verse_number": 100,
+      "verse_key": "23:100",
+      "hizb_number": 35,
+      "rub_el_hizb_number": 139,
+      "ruku_number": 300,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 348,
+      "juz_number": 18,
+      "translations": [
+        {
+          "id": 925438,
+          "resource_id": 135,
+          "text": "شاید در آنچه [کوتاهی نموده و] ترک کرده‌ام، کار شایسته‌ای انجام دهم». هرگز چنین نیست. بی‌تردید، این فقط سخنی است که او به زبان می‌گوید [و هرگز رفتارش تغییر نمی‌کند]؛ و تا روزی ‌که برانگیخته شوند، پشت سرشان برزخی است."
+        }
+      ]
+    }
+  ]
+}

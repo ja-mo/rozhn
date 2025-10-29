@@ -1,0 +1,1488 @@
+{
+  "id": 55,
+  "name": "The Beneficent",
+  "verses": [
+    {
+      "id": 4902,
+      "verse_number": 1,
+      "verse_key": "55:1",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927567,
+          "resource_id": 135,
+          "text": "[الله] رحمان"
+        }
+      ]
+    },
+    {
+      "id": 4903,
+      "verse_number": 2,
+      "verse_key": "55:2",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927568,
+          "resource_id": 135,
+          "text": "قرآن را آموزش داد؛"
+        }
+      ]
+    },
+    {
+      "id": 4904,
+      "verse_number": 3,
+      "verse_key": "55:3",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927569,
+          "resource_id": 135,
+          "text": "انسان را آفرید؛"
+        }
+      ]
+    },
+    {
+      "id": 4905,
+      "verse_number": 4,
+      "verse_key": "55:4",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927570,
+          "resource_id": 135,
+          "text": "[و] به او سخن‌گفتن آموخت."
+        }
+      ]
+    },
+    {
+      "id": 4906,
+      "verse_number": 5,
+      "verse_key": "55:5",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927571,
+          "resource_id": 135,
+          "text": "خورشید و ماه، با حسابی منظم [و دقیق] در گردِشَند؛"
+        }
+      ]
+    },
+    {
+      "id": 4907,
+      "verse_number": 6,
+      "verse_key": "55:6",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927572,
+          "resource_id": 135,
+          "text": "و گیاه و درخت [برایش] سجده می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 4908,
+      "verse_number": 7,
+      "verse_key": "55:7",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927573,
+          "resource_id": 135,
+          "text": "و آسمان را برافراشت و میزان [عدالت را در زمین] برقرار نمود."
+        }
+      ]
+    },
+    {
+      "id": 4909,
+      "verse_number": 8,
+      "verse_key": "55:8",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927574,
+          "resource_id": 135,
+          "text": "[ای مردم، چنین کرد] تا در وزن و پیمانه، [به یکدیگر] ستم نکنید؛"
+        }
+      ]
+    },
+    {
+      "id": 4910,
+      "verse_number": 9,
+      "verse_key": "55:9",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927575,
+          "resource_id": 135,
+          "text": "و سنجش [حقوق دیگران] را به عدالت برآورد كنید و در سنجش [چیزی] مکاهید [و کم‌فروشی نکنید]."
+        }
+      ]
+    },
+    {
+      "id": 4911,
+      "verse_number": 10,
+      "verse_key": "55:10",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927576,
+          "resource_id": 135,
+          "text": "و زمین را براى [زندگى] انسان‌ها مقرر داشت،"
+        }
+      ]
+    },
+    {
+      "id": 4912,
+      "verse_number": 11,
+      "verse_key": "55:11",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927577,
+          "resource_id": 135,
+          "text": "که [انواع] میوه‌ها و نخل‌های خوشه‌دار در آن است."
+        }
+      ]
+    },
+    {
+      "id": 4913,
+      "verse_number": 12,
+      "verse_key": "55:12",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927578,
+          "resource_id": 135,
+          "text": "و [همچنین] حبوباتِ برگ‌دار و گیاهانِ خوشبو؛"
+        }
+      ]
+    },
+    {
+      "id": 4914,
+      "verse_number": 13,
+      "verse_key": "55:13",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927579,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4915,
+      "verse_number": 14,
+      "verse_key": "55:14",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927580,
+          "resource_id": 135,
+          "text": "او انسان را از گِل خشکی همچون سفال آفرید؛"
+        }
+      ]
+    },
+    {
+      "id": 4916,
+      "verse_number": 15,
+      "verse_key": "55:15",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927581,
+          "resource_id": 135,
+          "text": "و جن را از شعله‌ای از آتش خلق کرد؛"
+        }
+      ]
+    },
+    {
+      "id": 4917,
+      "verse_number": 16,
+      "verse_key": "55:16",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927582,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4918,
+      "verse_number": 17,
+      "verse_key": "55:17",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927583,
+          "resource_id": 135,
+          "text": "[او] پروردگار مشرق‌ها و مغرب‌هاست؛"
+        }
+      ]
+    },
+    {
+      "id": 4919,
+      "verse_number": 18,
+      "verse_key": "55:18",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927584,
+          "resource_id": 135,
+          "text": "پس [ای گروه انس و جن] کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4920,
+      "verse_number": 19,
+      "verse_key": "55:19",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927585,
+          "resource_id": 135,
+          "text": "او دو دریا[ی شور و شیرین] را روان کرد تا [به یکدیگر] برسند؛"
+        }
+      ]
+    },
+    {
+      "id": 4921,
+      "verse_number": 20,
+      "verse_key": "55:20",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927586,
+          "resource_id": 135,
+          "text": "[در عین حال،] مانعی میان آن دو است که با هم نمی‌آمیزند؛"
+        }
+      ]
+    },
+    {
+      "id": 4922,
+      "verse_number": 21,
+      "verse_key": "55:21",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927587,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4923,
+      "verse_number": 22,
+      "verse_key": "55:22",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927588,
+          "resource_id": 135,
+          "text": "از آن دو [دریا] مروارید و مرجان به دست می‌آید؛"
+        }
+      ]
+    },
+    {
+      "id": 4924,
+      "verse_number": 23,
+      "verse_key": "55:23",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927589,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4925,
+      "verse_number": 24,
+      "verse_key": "55:24",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927590,
+          "resource_id": 135,
+          "text": "کشتی‌های كوه‌پیكرِ بادبان‌برافراشته [و جاری] در دریا برای اوست؛"
+        }
+      ]
+    },
+    {
+      "id": 4926,
+      "verse_number": 25,
+      "verse_key": "55:25",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927591,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4927,
+      "verse_number": 26,
+      "verse_key": "55:26",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927592,
+          "resource_id": 135,
+          "text": "هر چه روی زمین وجود دارد، فناپذیر است"
+        }
+      ]
+    },
+    {
+      "id": 4928,
+      "verse_number": 27,
+      "verse_key": "55:27",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927593,
+          "resource_id": 135,
+          "text": "و [تنها ذات جاوید و] روی پروردگار باشکوه و ارجمندت باقی خواهد ماند؛"
+        }
+      ]
+    },
+    {
+      "id": 4929,
+      "verse_number": 28,
+      "verse_key": "55:28",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927594,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4930,
+      "verse_number": 29,
+      "verse_key": "55:29",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927595,
+          "resource_id": 135,
+          "text": "[تمام] کسانی که در آسمان‌ها و زمین هستند از او درخواستِ نیاز می‌کنند و او هر روز [و هر لحظه] در کاری است؛"
+        }
+      ]
+    },
+    {
+      "id": 4931,
+      "verse_number": 30,
+      "verse_key": "55:30",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927596,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4932,
+      "verse_number": 31,
+      "verse_key": "55:31",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927597,
+          "resource_id": 135,
+          "text": "ای گروه جن و انس، به زودی به حساب شما می‌پردازیم؛"
+        }
+      ]
+    },
+    {
+      "id": 4933,
+      "verse_number": 32,
+      "verse_key": "55:32",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927598,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4934,
+      "verse_number": 33,
+      "verse_key": "55:33",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927599,
+          "resource_id": 135,
+          "text": "ای گروه جن و انس، اگر مى‌توانید از كرانه‌هاى آسمان و زمین گذر كنید [تا از مجازات الهی برهید]، پس بگذرید؛ قادر [به این کار] نخواهید بود، مگر با قدرت [و بَیّنه فراوان که شما آن را ندارید]؛"
+        }
+      ]
+    },
+    {
+      "id": 4935,
+      "verse_number": 34,
+      "verse_key": "55:34",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927600,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4936,
+      "verse_number": 35,
+      "verse_key": "55:35",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927601,
+          "resource_id": 135,
+          "text": "شراره‌اى از آتش و مِس گداخته بر شما باریده مى‌شود كه [در برابر آن] قادر به دفاع [از خود] نیستید؛"
+        }
+      ]
+    },
+    {
+      "id": 4937,
+      "verse_number": 36,
+      "verse_key": "55:36",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927602,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4938,
+      "verse_number": 37,
+      "verse_key": "55:37",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927603,
+          "resource_id": 135,
+          "text": "آنگاه كه آسمان بشكافد و همچون روغن گداخته، سرخ‌فام گردد [قیامت آغاز خواهد شد]."
+        }
+      ]
+    },
+    {
+      "id": 4939,
+      "verse_number": 38,
+      "verse_key": "55:38",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927604,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4940,
+      "verse_number": 39,
+      "verse_key": "55:39",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927605,
+          "resource_id": 135,
+          "text": "آن روز، [به علت روشن‌بودن همۀ امور،] از انس و جن [دربارۀ گناهانشان] سؤال نخواهد شد؛"
+        }
+      ]
+    },
+    {
+      "id": 4941,
+      "verse_number": 40,
+      "verse_key": "55:40",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927606,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4942,
+      "verse_number": 41,
+      "verse_key": "55:41",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927607,
+          "resource_id": 135,
+          "text": "گناهکاران از سيمايشان شناخته می‌شوند؛ آنگاه [آنان را] از موی پیشانی و پاهایشان می‌گیرند [و به دوزخ می‌اندازند]؛"
+        }
+      ]
+    },
+    {
+      "id": 4943,
+      "verse_number": 42,
+      "verse_key": "55:42",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927608,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4944,
+      "verse_number": 43,
+      "verse_key": "55:43",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927609,
+          "resource_id": 135,
+          "text": "این [همان] جهنمی است که گناهکاران انکارش می‌کردند؛"
+        }
+      ]
+    },
+    {
+      "id": 4945,
+      "verse_number": 44,
+      "verse_key": "55:44",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927610,
+          "resource_id": 135,
+          "text": "[در آنجا] میان آتش و آب بی‌نهایت داغ در حركتند؛"
+        }
+      ]
+    },
+    {
+      "id": 4946,
+      "verse_number": 45,
+      "verse_key": "55:45",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927611,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4947,
+      "verse_number": 46,
+      "verse_key": "55:46",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927612,
+          "resource_id": 135,
+          "text": "هر کس از ایستادن در پیشگاهِ پروردگارش [براى حساب] مى‌ترسد، دو باغ [در بهشت] دارد؛"
+        }
+      ]
+    },
+    {
+      "id": 4948,
+      "verse_number": 47,
+      "verse_key": "55:47",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927613,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4949,
+      "verse_number": 48,
+      "verse_key": "55:48",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927614,
+          "resource_id": 135,
+          "text": "[با درختانى] پر از شاخسارِ [تر و تازه و ثمردهنده]؛"
+        }
+      ]
+    },
+    {
+      "id": 4950,
+      "verse_number": 49,
+      "verse_key": "55:49",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927615,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4951,
+      "verse_number": 50,
+      "verse_key": "55:50",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927616,
+          "resource_id": 135,
+          "text": "در آن دو [باغ]، دو چشمه جاری است؛"
+        }
+      ]
+    },
+    {
+      "id": 4952,
+      "verse_number": 51,
+      "verse_key": "55:51",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927617,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4953,
+      "verse_number": 52,
+      "verse_key": "55:52",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927618,
+          "resource_id": 135,
+          "text": "در آن دو [باغ]، از هر میوه‌ای دو نوع وجود دارد؛"
+        }
+      ]
+    },
+    {
+      "id": 4954,
+      "verse_number": 53,
+      "verse_key": "55:53",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927619,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4955,
+      "verse_number": 54,
+      "verse_key": "55:54",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927620,
+          "resource_id": 135,
+          "text": "[بهشتیان] بر بسترهایی كه آسترش از دیباى ضخیم است تكیه می‌زنند و میوه‌هاى آن باغ‌ها در دسترسشان است؛"
+        }
+      ]
+    },
+    {
+      "id": 4956,
+      "verse_number": 55,
+      "verse_key": "55:55",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927621,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4957,
+      "verse_number": 56,
+      "verse_key": "55:56",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927622,
+          "resource_id": 135,
+          "text": "در آن باغ‌ها، حوریانی هستند که تنها [به شوهران خود] نظر دارند [و فقط به آنها عشق می‌ورزند]، و دستِ احدى از انس و جن قبلاً به آنان نرسیده است؛"
+        }
+      ]
+    },
+    {
+      "id": 4958,
+      "verse_number": 57,
+      "verse_key": "55:57",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927623,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4959,
+      "verse_number": 58,
+      "verse_key": "55:58",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927624,
+          "resource_id": 135,
+          "text": "گویی آن حوریان، یاقوت و مرجانند؛"
+        }
+      ]
+    },
+    {
+      "id": 4960,
+      "verse_number": 59,
+      "verse_key": "55:59",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927625,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4961,
+      "verse_number": 60,
+      "verse_key": "55:60",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927626,
+          "resource_id": 135,
+          "text": "آیا پاداشِ نیکی جز نیکی است؟"
+        }
+      ]
+    },
+    {
+      "id": 4962,
+      "verse_number": 61,
+      "verse_key": "55:61",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927627,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4963,
+      "verse_number": 62,
+      "verse_key": "55:62",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927628,
+          "resource_id": 135,
+          "text": "در کنار آن باغ‌ها، دو باغ [بهشتیِ] دیگر است؛"
+        }
+      ]
+    },
+    {
+      "id": 4964,
+      "verse_number": 63,
+      "verse_key": "55:63",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927629,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4965,
+      "verse_number": 64,
+      "verse_key": "55:64",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927630,
+          "resource_id": 135,
+          "text": "[آن دو باغ] كه [درختانش] در نهایت سبزى [و خرمى] است؛"
+        }
+      ]
+    },
+    {
+      "id": 4966,
+      "verse_number": 65,
+      "verse_key": "55:65",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927631,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4967,
+      "verse_number": 66,
+      "verse_key": "55:66",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927632,
+          "resource_id": 135,
+          "text": "در آن دو [باغ بهشتی،] دو چشمۀ همیشه جوشان جاری است."
+        }
+      ]
+    },
+    {
+      "id": 4968,
+      "verse_number": 67,
+      "verse_key": "55:67",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927633,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4969,
+      "verse_number": 68,
+      "verse_key": "55:68",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927634,
+          "resource_id": 135,
+          "text": "و در آنها [درختان] میوه و درختان خرما و انار هست؛"
+        }
+      ]
+    },
+    {
+      "id": 4970,
+      "verse_number": 69,
+      "verse_key": "55:69",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927635,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4971,
+      "verse_number": 70,
+      "verse_key": "55:70",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927636,
+          "resource_id": 135,
+          "text": "در میان آن باغ‌ها، زنان نیک‌سیرت و نیکوروی، حضور دارند؛"
+        }
+      ]
+    },
+    {
+      "id": 4972,
+      "verse_number": 71,
+      "verse_key": "55:71",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927637,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4973,
+      "verse_number": 72,
+      "verse_key": "55:72",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927638,
+          "resource_id": 135,
+          "text": "حوریانی که در خیمه‌های بهشتی [از چشم بیگانگان] مستورند؛"
+        }
+      ]
+    },
+    {
+      "id": 4974,
+      "verse_number": 73,
+      "verse_key": "55:73",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927639,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4975,
+      "verse_number": 74,
+      "verse_key": "55:74",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927640,
+          "resource_id": 135,
+          "text": "[دوشیزگانی که] دست هیچ انس و جنی قبلاً به آنان نرسیده است؛"
+        }
+      ]
+    },
+    {
+      "id": 4976,
+      "verse_number": 75,
+      "verse_key": "55:75",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927641,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4977,
+      "verse_number": 76,
+      "verse_key": "55:76",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927642,
+          "resource_id": 135,
+          "text": "[بهشتیان] بر بالشت‌های سبز و بسترهایى نفیس و زیبا آرمیده‌اند؛"
+        }
+      ]
+    },
+    {
+      "id": 4978,
+      "verse_number": 77,
+      "verse_key": "55:77",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927643,
+          "resource_id": 135,
+          "text": "پس [ای جن و انس] كدام یک از نعمت‌های پروردگارتان را انكار مى‌كنید؟"
+        }
+      ]
+    },
+    {
+      "id": 4979,
+      "verse_number": 78,
+      "verse_key": "55:78",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 927644,
+          "resource_id": 135,
+          "text": "نامِ پروردگارِ باشکوه و ارجمند تو، بابرکت و فرخنده است."
+        }
+      ]
+    }
+  ]
+}

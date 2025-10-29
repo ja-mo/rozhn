@@ -1,0 +1,804 @@
+{
+  "id": 80,
+  "name": "He Frowned",
+  "verses": [
+    {
+      "id": 5759,
+      "verse_number": 1,
+      "verse_key": "80:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928424,
+          "resource_id": 135,
+          "text": "[پیامبر] چهره در هم کشید و روی برگردانْد"
+        }
+      ]
+    },
+    {
+      "id": 5760,
+      "verse_number": 2,
+      "verse_key": "80:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928425,
+          "resource_id": 135,
+          "text": "از اینکه آن نابینا [= عبدالله بن اُمّ مَکتوم] نزدش آمد."
+        }
+      ]
+    },
+    {
+      "id": 5761,
+      "verse_number": 3,
+      "verse_key": "80:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928426,
+          "resource_id": 135,
+          "text": "و [ای پیامبر،] تو چه می‌دانی؟ چه بسا او [از گناهانش] پاک ‌شود،"
+        }
+      ]
+    },
+    {
+      "id": 5762,
+      "verse_number": 4,
+      "verse_key": "80:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928427,
+          "resource_id": 135,
+          "text": "یا پند گیرد و این پند به سودش باشد."
+        }
+      ]
+    },
+    {
+      "id": 5763,
+      "verse_number": 5,
+      "verse_key": "80:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928428,
+          "resource_id": 135,
+          "text": "اما آن کس که [از ایمان] بی‌نیازی می‌ورزد"
+        }
+      ]
+    },
+    {
+      "id": 5764,
+      "verse_number": 6,
+      "verse_key": "80:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928429,
+          "resource_id": 135,
+          "text": "تو به او روی می‌آوری؛"
+        }
+      ]
+    },
+    {
+      "id": 5765,
+      "verse_number": 7,
+      "verse_key": "80:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928430,
+          "resource_id": 135,
+          "text": "در حالی که اگر او خود را [از کفر] پاک نسازد، ایرادی بر تو نیست؛"
+        }
+      ]
+    },
+    {
+      "id": 5766,
+      "verse_number": 8,
+      "verse_key": "80:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928431,
+          "resource_id": 135,
+          "text": "اما کسی که شتابان به سراغ تو می‌آید"
+        }
+      ]
+    },
+    {
+      "id": 5767,
+      "verse_number": 9,
+      "verse_key": "80:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928432,
+          "resource_id": 135,
+          "text": "و [از الله] می‌ترسد،"
+        }
+      ]
+    },
+    {
+      "id": 5768,
+      "verse_number": 10,
+      "verse_key": "80:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928433,
+          "resource_id": 135,
+          "text": "تو از او غافل می‌شوی [و به دیگران می‌پردازی]."
+        }
+      ]
+    },
+    {
+      "id": 5769,
+      "verse_number": 11,
+      "verse_key": "80:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928434,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست؛ بی‌گمان، این [آیات برای] تذکر و یادآوری است."
+        }
+      ]
+    },
+    {
+      "id": 5770,
+      "verse_number": 12,
+      "verse_key": "80:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928435,
+          "resource_id": 135,
+          "text": "پس هر کس که بخواهد، [می‌تواند] از آن پند گیرد."
+        }
+      ]
+    },
+    {
+      "id": 5771,
+      "verse_number": 13,
+      "verse_key": "80:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928436,
+          "resource_id": 135,
+          "text": "در صحیفه‌های ارجمندی [ثبت] است."
+        }
+      ]
+    },
+    {
+      "id": 5772,
+      "verse_number": 14,
+      "verse_key": "80:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928437,
+          "resource_id": 135,
+          "text": "[در جایگاهی] بلندپایه و پاکیزه [از پلیدی]"
+        }
+      ]
+    },
+    {
+      "id": 5773,
+      "verse_number": 15,
+      "verse_key": "80:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928438,
+          "resource_id": 135,
+          "text": "در دست سفیران [وحی] است"
+        }
+      ]
+    },
+    {
+      "id": 5774,
+      "verse_number": 16,
+      "verse_key": "80:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928439,
+          "resource_id": 135,
+          "text": "[که] بزرگوار و نیکوکارند."
+        }
+      ]
+    },
+    {
+      "id": 5775,
+      "verse_number": 17,
+      "verse_key": "80:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928440,
+          "resource_id": 135,
+          "text": "مرگ بر انسان [کافر، که] چقدر ناسپاس است!"
+        }
+      ]
+    },
+    {
+      "id": 5776,
+      "verse_number": 18,
+      "verse_key": "80:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928441,
+          "resource_id": 135,
+          "text": "[الله] او را از چه چیز آفریده است؟"
+        }
+      ]
+    },
+    {
+      "id": 5777,
+      "verse_number": 19,
+      "verse_key": "80:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928442,
+          "resource_id": 135,
+          "text": "او را از نطفۀ [ناچیزی] آفرید، سپس او را موزون ساخت."
+        }
+      ]
+    },
+    {
+      "id": 5778,
+      "verse_number": 20,
+      "verse_key": "80:20",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928443,
+          "resource_id": 135,
+          "text": "سپس راه را برایش آسان نمود."
+        }
+      ]
+    },
+    {
+      "id": 5779,
+      "verse_number": 21,
+      "verse_key": "80:21",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928444,
+          "resource_id": 135,
+          "text": "آنگاه [پس از پایان عمر،] او را میرانْد و در قبر [پنهان] نمود."
+        }
+      ]
+    },
+    {
+      "id": 5780,
+      "verse_number": 22,
+      "verse_key": "80:22",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928445,
+          "resource_id": 135,
+          "text": "سپس هر گاه بخواهد، او را [زنده می‌کند و] برمی‌انگیزد."
+        }
+      ]
+    },
+    {
+      "id": 5781,
+      "verse_number": 23,
+      "verse_key": "80:23",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928446,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست [که او می‌پندارد]. او هنوز آنچه را که [الله] فرمان داده به جای نیاورده است."
+        }
+      ]
+    },
+    {
+      "id": 5782,
+      "verse_number": 24,
+      "verse_key": "80:24",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928447,
+          "resource_id": 135,
+          "text": "انسان باید به غذای خویش [و آفرینشِ آن] بنگرد:"
+        }
+      ]
+    },
+    {
+      "id": 5783,
+      "verse_number": 25,
+      "verse_key": "80:25",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928448,
+          "resource_id": 135,
+          "text": "ما آب فراوان [از آسمان] فروریختیم،"
+        }
+      ]
+    },
+    {
+      "id": 5784,
+      "verse_number": 26,
+      "verse_key": "80:26",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928449,
+          "resource_id": 135,
+          "text": "سپس زمین را از هم شکافتیم،"
+        }
+      ]
+    },
+    {
+      "id": 5785,
+      "verse_number": 27,
+      "verse_key": "80:27",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928450,
+          "resource_id": 135,
+          "text": "آنگاه دانه‌[های فراون] در آن رویاندیم،"
+        }
+      ]
+    },
+    {
+      "id": 5786,
+      "verse_number": 28,
+      "verse_key": "80:28",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928451,
+          "resource_id": 135,
+          "text": "و انگور و سبزی [خوراکی بسیار]،"
+        }
+      ]
+    },
+    {
+      "id": 5787,
+      "verse_number": 29,
+      "verse_key": "80:29",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928452,
+          "resource_id": 135,
+          "text": "و زیتون و نخل،"
+        }
+      ]
+    },
+    {
+      "id": 5788,
+      "verse_number": 30,
+      "verse_key": "80:30",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928453,
+          "resource_id": 135,
+          "text": "و باغ‌هایی [انبوه و] پردرخت،"
+        }
+      ]
+    },
+    {
+      "id": 5789,
+      "verse_number": 31,
+      "verse_key": "80:31",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928454,
+          "resource_id": 135,
+          "text": "و [انواع] میوه و علوفه [پدید آوردیم]."
+        }
+      ]
+    },
+    {
+      "id": 5790,
+      "verse_number": 32,
+      "verse_key": "80:32",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928455,
+          "resource_id": 135,
+          "text": "[همۀ اینها] برای بهره‌گیری شما و چهارپایانتان است."
+        }
+      ]
+    },
+    {
+      "id": 5791,
+      "verse_number": 33,
+      "verse_key": "80:33",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928456,
+          "resource_id": 135,
+          "text": "هنگامی ‌که [آن] صدای مهیب [قیامت] فرارسد،"
+        }
+      ]
+    },
+    {
+      "id": 5792,
+      "verse_number": 34,
+      "verse_key": "80:34",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928457,
+          "resource_id": 135,
+          "text": "روزی ‌که انسان از برادرش می‌گریزد"
+        }
+      ]
+    },
+    {
+      "id": 5793,
+      "verse_number": 35,
+      "verse_key": "80:35",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928458,
+          "resource_id": 135,
+          "text": "و از مادرش و از پدرش"
+        }
+      ]
+    },
+    {
+      "id": 5794,
+      "verse_number": 36,
+      "verse_key": "80:36",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928459,
+          "resource_id": 135,
+          "text": "و از زنش و پسرانش [نیز می‌گریزد]،"
+        }
+      ]
+    },
+    {
+      "id": 5795,
+      "verse_number": 37,
+      "verse_key": "80:37",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928460,
+          "resource_id": 135,
+          "text": "در آن روز، هر کس را کاری است که او را به خودش سرگرم می‌دارد [و از دیگری بازمی‌دارد]."
+        }
+      ]
+    },
+    {
+      "id": 5796,
+      "verse_number": 38,
+      "verse_key": "80:38",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928461,
+          "resource_id": 135,
+          "text": "چهره‌هایی در آن روز، گشاده و روشن است."
+        }
+      ]
+    },
+    {
+      "id": 5797,
+      "verse_number": 39,
+      "verse_key": "80:39",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928462,
+          "resource_id": 135,
+          "text": "[به خاطر نعمت و رحمتِ الله] خندان [و] شاد است."
+        }
+      ]
+    },
+    {
+      "id": 5798,
+      "verse_number": 40,
+      "verse_key": "80:40",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928463,
+          "resource_id": 135,
+          "text": "و چهره‌هایی در آن روز، غبارآلود است."
+        }
+      ]
+    },
+    {
+      "id": 5799,
+      "verse_number": 41,
+      "verse_key": "80:41",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928464,
+          "resource_id": 135,
+          "text": "[و] سیاهی [و تاریکی] آنها را پوشانده است."
+        }
+      ]
+    },
+    {
+      "id": 5800,
+      "verse_number": 42,
+      "verse_key": "80:42",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 524,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 585,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928465,
+          "resource_id": 135,
+          "text": "اینان همان کافرانِ بدکردارند."
+        }
+      ]
+    }
+  ]
+}

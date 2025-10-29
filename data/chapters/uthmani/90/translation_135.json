@@ -1,0 +1,386 @@
+{
+  "id": 90,
+  "name": "The City",
+  "verses": [
+    {
+      "id": 6024,
+      "verse_number": 1,
+      "verse_key": "90:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928689,
+          "resource_id": 135,
+          "text": "سوگند به این شهر [مکه]."
+        }
+      ]
+    },
+    {
+      "id": 6025,
+      "verse_number": 2,
+      "verse_key": "90:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928690,
+          "resource_id": 135,
+          "text": "در حالی که [ای پیامبر!] تو در این شهر ساکنی [و جنگ در این شهر برایت حلال است]"
+        }
+      ]
+    },
+    {
+      "id": 6026,
+      "verse_number": 3,
+      "verse_key": "90:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928691,
+          "resource_id": 135,
+          "text": "و سوگند به پدر [= آدم] و فرزندانش."
+        }
+      ]
+    },
+    {
+      "id": 6027,
+      "verse_number": 4,
+      "verse_key": "90:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928692,
+          "resource_id": 135,
+          "text": "یقیناً ما انسان را در رنج [و دشواری‌های دنیوی] آفریدیم."
+        }
+      ]
+    },
+    {
+      "id": 6028,
+      "verse_number": 5,
+      "verse_key": "90:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928693,
+          "resource_id": 135,
+          "text": "آیا او گمان می‌کند هیچ کس بر [مجازاتِ] وی توانا نیست؟"
+        }
+      ]
+    },
+    {
+      "id": 6029,
+      "verse_number": 6,
+      "verse_key": "90:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928694,
+          "resource_id": 135,
+          "text": "می‌گوید: «[به خاطرِ انفاق،] مال زیادی را تباه کرده‌ام»."
+        }
+      ]
+    },
+    {
+      "id": 6030,
+      "verse_number": 7,
+      "verse_key": "90:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928695,
+          "resource_id": 135,
+          "text": "آیا می‌پندارد که هیچ کس او را ندیده است؟"
+        }
+      ]
+    },
+    {
+      "id": 6031,
+      "verse_number": 8,
+      "verse_key": "90:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928696,
+          "resource_id": 135,
+          "text": "آیا دو چشم برایش قرار ندادیم؟"
+        }
+      ]
+    },
+    {
+      "id": 6032,
+      "verse_number": 9,
+      "verse_key": "90:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928697,
+          "resource_id": 135,
+          "text": "و یک زبان و دو لب؟"
+        }
+      ]
+    },
+    {
+      "id": 6033,
+      "verse_number": 10,
+      "verse_key": "90:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928698,
+          "resource_id": 135,
+          "text": "و او را به دو راه [خیر و شر] راهنمایی کردیم."
+        }
+      ]
+    },
+    {
+      "id": 6034,
+      "verse_number": 11,
+      "verse_key": "90:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928699,
+          "resource_id": 135,
+          "text": "اما به گردنۀ [سخت] قدم نگذاشت [و نیامد]."
+        }
+      ]
+    },
+    {
+      "id": 6035,
+      "verse_number": 12,
+      "verse_key": "90:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928700,
+          "resource_id": 135,
+          "text": "و تو چه می‌دانی که آن گردنۀ [سخت] چیست؟"
+        }
+      ]
+    },
+    {
+      "id": 6036,
+      "verse_number": 13,
+      "verse_key": "90:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928701,
+          "resource_id": 135,
+          "text": "آزاد کردن برده‌ای است."
+        }
+      ]
+    },
+    {
+      "id": 6037,
+      "verse_number": 14,
+      "verse_key": "90:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928702,
+          "resource_id": 135,
+          "text": "یا اطعام در روز قحطی [و گرسنگی]،"
+        }
+      ]
+    },
+    {
+      "id": 6038,
+      "verse_number": 15,
+      "verse_key": "90:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928703,
+          "resource_id": 135,
+          "text": "[خواه] یتیمی از خویشاوندان [باشد]"
+        }
+      ]
+    },
+    {
+      "id": 6039,
+      "verse_number": 16,
+      "verse_key": "90:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928704,
+          "resource_id": 135,
+          "text": "یا مستمندی خاک نشین؛"
+        }
+      ]
+    },
+    {
+      "id": 6040,
+      "verse_number": 17,
+      "verse_key": "90:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928705,
+          "resource_id": 135,
+          "text": "به علاوه، از کسانی باشد که ایمان آورده‌اند و یکدیگر را به صبر [بر عبادت و دوری از گناه] و مهربانی [با بندگان] توصیه نموده‌اند."
+        }
+      ]
+    },
+    {
+      "id": 6041,
+      "verse_number": 18,
+      "verse_key": "90:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928706,
+          "resource_id": 135,
+          "text": "اینان اهل سعادتند [که نامۀ اعمال آنان به دست راستشان داده می‌شود و اهل بهشتند]."
+        }
+      ]
+    },
+    {
+      "id": 6042,
+      "verse_number": 19,
+      "verse_key": "90:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928707,
+          "resource_id": 135,
+          "text": "اما کسانی ‌که به آیات ما کفر ورزیدند، آنان اهل شقاوتند [که نامۀ اعمال به دست چپشان داده می‌شود و به دوزخ می‌روند]."
+        }
+      ]
+    },
+    {
+      "id": 6043,
+      "verse_number": 20,
+      "verse_key": "90:20",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928708,
+          "resource_id": 135,
+          "text": "[از هر سو] آتش سرپوشید‌ه‌ای بر آنان است [که راه فرار ندارند]."
+        }
+      ]
+    }
+  ]
+}

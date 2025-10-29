@@ -1,0 +1,626 @@
+{
+  "id": 76,
+  "name": "The Man",
+  "verses": [
+    {
+      "id": 5592,
+      "verse_number": 1,
+      "verse_key": "76:1",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928257,
+          "resource_id": 135,
+          "text": "یقیناً زمانی طولانی بر انسان گذشت که چیزی [مهم و] قابل ذکری نبود."
+        }
+      ]
+    },
+    {
+      "id": 5593,
+      "verse_number": 2,
+      "verse_key": "76:2",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928258,
+          "resource_id": 135,
+          "text": "به راستی ما انسان را از نطفۀ مختلطی آفریدیم، او را می‌آزماییم؛ از این رو] او را شنوای بینا قرار دادیم."
+        }
+      ]
+    },
+    {
+      "id": 5594,
+      "verse_number": 3,
+      "verse_key": "76:3",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928259,
+          "resource_id": 135,
+          "text": "همانا ما راه را به او نشان دادیم؛ خواه سپاسگزار باشد یا ناسپاس."
+        }
+      ]
+    },
+    {
+      "id": 5595,
+      "verse_number": 4,
+      "verse_key": "76:4",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928260,
+          "resource_id": 135,
+          "text": "به راستی که ما زنجیرها و بند‌ها و آتش سوزان برای کافران مهیا کرده‌ایم."
+        }
+      ]
+    },
+    {
+      "id": 5596,
+      "verse_number": 5,
+      "verse_key": "76:5",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا",
+      "page_number": 578,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928261,
+          "resource_id": 135,
+          "text": "بی‌گمان، نیکوکاران [در بهشت] از جامی می‌نوشند که آمیخته به کافور است."
+        }
+      ]
+    },
+    {
+      "id": 5597,
+      "verse_number": 6,
+      "verse_key": "76:6",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928262,
+          "resource_id": 135,
+          "text": "[از] چشمه‌ای که بندگان [خاص] الله از آن می‌نوشند؛ [هر وقت و] هر جا بخواهند آن [چشمه] را جاری می‌سازند."
+        }
+      ]
+    },
+    {
+      "id": 5598,
+      "verse_number": 7,
+      "verse_key": "76:7",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928263,
+          "resource_id": 135,
+          "text": "[بندگان نیکوکار] به نذر وفا می‌کنند و از روزی می‌ترسند که [عذاب و] شرّ آن فراگیر است."
+        }
+      ]
+    },
+    {
+      "id": 5599,
+      "verse_number": 8,
+      "verse_key": "76:8",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928264,
+          "resource_id": 135,
+          "text": "و غذا را با اینکه [نیاز و] دوست دارند به مستمند و یتیم و اسیر می‌بخشند."
+        }
+      ]
+    },
+    {
+      "id": 5600,
+      "verse_number": 9,
+      "verse_key": "76:9",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928265,
+          "resource_id": 135,
+          "text": "[و در دل می‌گویند:] «ما فقط به خاطر الله به شما غذا می‌دهیم؛ نه از شما پاداشی می‌خواهیم و نه سپاسی."
+        }
+      ]
+    },
+    {
+      "id": 5601,
+      "verse_number": 10,
+      "verse_key": "76:10",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928266,
+          "resource_id": 135,
+          "text": "همانا ما از پروردگارمان می‌ترسیم، [از عذابِ] روزی ‌که تُرشروی و دشوار است»."
+        }
+      ]
+    },
+    {
+      "id": 5602,
+      "verse_number": 11,
+      "verse_key": "76:11",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةً وَسُرُورًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928267,
+          "resource_id": 135,
+          "text": "پس الله آنان را از [سختی و] شرِ آن روز نگه داشت و خرّمی و شادمانی به آنان بخشید."
+        }
+      ]
+    },
+    {
+      "id": 5603,
+      "verse_number": 12,
+      "verse_key": "76:12",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928268,
+          "resource_id": 135,
+          "text": "و به [پاداش] صبری که کردند، بهشت و [لباس‌های] حریر [بهشتی] به آنان پاداش داد."
+        }
+      ]
+    },
+    {
+      "id": 5604,
+      "verse_number": 13,
+      "verse_key": "76:13",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928269,
+          "resource_id": 135,
+          "text": "در آنجا بر تخت‌ها[ی زیبا] تکیه کرده‌اند؛ نه [حرارتِ] آفتابی در آنجا می‌بینند و نه [سوزِ] سرمایی،"
+        }
+      ]
+    },
+    {
+      "id": 5605,
+      "verse_number": 14,
+      "verse_key": "76:14",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928270,
+          "resource_id": 135,
+          "text": "و سایه‌هایش بر آنان فروافتاده و میوه‌هایش [برای چیدن] در دسترس [و آسان] است."
+        }
+      ]
+    },
+    {
+      "id": 5606,
+      "verse_number": 15,
+      "verse_key": "76:15",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُطَافُ عَلَيْهِم بِـَٔانِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا۠",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928271,
+          "resource_id": 135,
+          "text": "و ظرف‌های سیمین [غذا‌] و کاسه‌های بلورین [نوشیدنی]، در گِرداگرد آنان، گردانده می‌شود."
+        }
+      ]
+    },
+    {
+      "id": 5607,
+      "verse_number": 16,
+      "verse_key": "76:16",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928272,
+          "resource_id": 135,
+          "text": "[کاسه‌های] بلورینی از نقره که آنها را به ‌اندازۀ مناسب، [لبریز و] آماده کرده‌اند؛"
+        }
+      ]
+    },
+    {
+      "id": 5608,
+      "verse_number": 17,
+      "verse_key": "76:17",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928273,
+          "resource_id": 135,
+          "text": "و در آنجا از جام‌هایی سیراب می‌شوند که آمیزه‌اش زَنجبیل است."
+        }
+      ]
+    },
+    {
+      "id": 5609,
+      "verse_number": 18,
+      "verse_key": "76:18",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 231,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928274,
+          "resource_id": 135,
+          "text": "[این جام‌ها، از] چشمه‌ای در آنجا که سَلسَبیل نامیده می‌شود [پر می‌شوند]؛"
+        }
+      ]
+    },
+    {
+      "id": 5610,
+      "verse_number": 19,
+      "verse_key": "76:19",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928275,
+          "resource_id": 135,
+          "text": "و همواره نوجوانانی جاودانه بر گِردشان می‌چرخند که هر گاه آنها را ببینی، گمان می‌کنی مرواریدِ پراکنده هستند."
+        }
+      ]
+    },
+    {
+      "id": 5611,
+      "verse_number": 20,
+      "verse_key": "76:20",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928276,
+          "resource_id": 135,
+          "text": "و چون [به هر سَمتی] بنگری، نعمت بسیار و فرمانرواییِ عظیمی آنجا می‌بینی."
+        }
+      ]
+    },
+    {
+      "id": 5612,
+      "verse_number": 21,
+      "verse_key": "76:21",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928277,
+          "resource_id": 135,
+          "text": "بر آنان [= بهشتیان] لباس‌هایی سبزرنگ از دیبای نازک و دیبای ضخیم [پوشانده شده] است، و با دستبند‌هایی از نقره آراسته شده‌اند، و پروردگارشان شراب پاک به آنان می‌نوشانَد."
+        }
+      ]
+    },
+    {
+      "id": 5613,
+      "verse_number": 22,
+      "verse_key": "76:22",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 516,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928278,
+          "resource_id": 135,
+          "text": "[و به آنها گفته می‌شود:] «این [نعمت‌ها،] پاداش شماست، و [بدانید که] از سعی و کوشش شما قدردانی شده است»."
+        }
+      ]
+    },
+    {
+      "id": 5614,
+      "verse_number": 23,
+      "verse_key": "76:23",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928279,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] یقیناً ما قرآن را به صورت تدریجی بر تو نازل کردیم؛"
+        }
+      ]
+    },
+    {
+      "id": 5615,
+      "verse_number": 24,
+      "verse_key": "76:24",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928280,
+          "resource_id": 135,
+          "text": "پس بر حُکم پروردگارت شکیبا باش و از هیچ یک از گناهکاران و بی‌دینان آنان فرمان مبر."
+        }
+      ]
+    },
+    {
+      "id": 5616,
+      "verse_number": 25,
+      "verse_key": "76:25",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا",
+      "page_number": 579,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928281,
+          "resource_id": 135,
+          "text": "و صبح و شام، نامِ پروردگارت را یاد کن."
+        }
+      ]
+    },
+    {
+      "id": 5617,
+      "verse_number": 26,
+      "verse_key": "76:26",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "page_number": 580,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928282,
+          "resource_id": 135,
+          "text": "و [نیز] بخشی از شب برایش سجده کن [و نماز بگزار]، و در بخش بلندی از شب، او را تسبیح گوی."
+        }
+      ]
+    },
+    {
+      "id": 5618,
+      "verse_number": 27,
+      "verse_key": "76:27",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰٓؤُلَآءِ يُحِبُّونَ ٱلْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ يَوْمًا ثَقِيلًا",
+      "page_number": 580,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928283,
+          "resource_id": 135,
+          "text": "بی‌گمان، اینان [= کافران] دنیای زودگذر را دوست دارند و روز سختی [را که در پیش دارند] پشت سر خود رها می‌کنند [و به آن اهمیت نمی‌دهند]."
+        }
+      ]
+    },
+    {
+      "id": 5619,
+      "verse_number": 28,
+      "verse_key": "76:28",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا",
+      "page_number": 580,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928284,
+          "resource_id": 135,
+          "text": "ما آنها را آفریدیم و پیوند وجودشان را محکم کردیم، و هر زمان که بخواهیم، جای آنان را به [گروه دیگری] همانندشان می‌دهیم."
+        }
+      ]
+    },
+    {
+      "id": 5620,
+      "verse_number": 29,
+      "verse_key": "76:29",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "page_number": 580,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928285,
+          "resource_id": 135,
+          "text": "بی‌گمان، این یادآوری [و پند] است؛ پس هر ‌کس که بخواهد، راهی به سوی پروردگارش بر‌گزیند."
+        }
+      ]
+    },
+    {
+      "id": 5621,
+      "verse_number": 30,
+      "verse_key": "76:30",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "page_number": 580,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928286,
+          "resource_id": 135,
+          "text": "و تا الله اراده نکند، [شما چیزی را] نخواهید خواست. بی‌گمان، الله دانای حکیم است؛"
+        }
+      ]
+    },
+    {
+      "id": 5622,
+      "verse_number": 31,
+      "verse_key": "76:31",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 232,
+      "ruku_number": 517,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا",
+      "page_number": 580,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928287,
+          "resource_id": 135,
+          "text": "هر کس را که بخواهد، در رحمت خود وارد می‌کند؛ و عذاب دردناکی برای ستمکاران آماده کرده است."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "id": 69,
+  "name": "The Reality",
+  "verses": [
+    {
+      "id": 5324,
+      "verse_number": 1,
+      "verse_key": "69:1",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927989,
+          "resource_id": 135,
+          "text": "[روزِ] واقع‌شدنیِ [رستاخیز]"
+        }
+      ]
+    },
+    {
+      "id": 5325,
+      "verse_number": 2,
+      "verse_key": "69:2",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927990,
+          "resource_id": 135,
+          "text": "آن واقع‌شدنی چیست؟"
+        }
+      ]
+    },
+    {
+      "id": 5326,
+      "verse_number": 3,
+      "verse_key": "69:3",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927991,
+          "resource_id": 135,
+          "text": "و تو چه دانی آن واقع‌شدنی چیست [و چگونه است]؟"
+        }
+      ]
+    },
+    {
+      "id": 5327,
+      "verse_number": 4,
+      "verse_key": "69:4",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927992,
+          "resource_id": 135,
+          "text": "[قوم] ثمود و [قوم] عاد، [قیامتِ] درهم‌کوبنده را تکذیب کردند."
+        }
+      ]
+    },
+    {
+      "id": 5328,
+      "verse_number": 5,
+      "verse_key": "69:5",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927993,
+          "resource_id": 135,
+          "text": "و اما [قوم] ثمود، به بانگِ سهمگین هلاک شدند."
+        }
+      ]
+    },
+    {
+      "id": 5329,
+      "verse_number": 6,
+      "verse_key": "69:6",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927994,
+          "resource_id": 135,
+          "text": "و اما [قوم] عاد، با تندبادی سرکش و سرد به هلاکت رسیدند."
+        }
+      ]
+    },
+    {
+      "id": 5330,
+      "verse_number": 7,
+      "verse_key": "69:7",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927995,
+          "resource_id": 135,
+          "text": "[الله] هفت شب و هشت روز پیاپی آن [عذاب] را بر آنها مسلط نمود؛ پس [اگر آنجا ‌بودی، آن] قوم را [در اثرِ آن تندباد،] مانند تنه‌های پوسیده و توخالی درختان خرما، بر زمین‌افتاده [و هلاک‌شده] می‌دیدی."
+        }
+      ]
+    },
+    {
+      "id": 5331,
+      "verse_number": 8,
+      "verse_key": "69:8",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927996,
+          "resource_id": 135,
+          "text": "آیا کسی از آنها را می‌بینی که باقی مانده باشد؟"
+        }
+      ]
+    },
+    {
+      "id": 5332,
+      "verse_number": 9,
+      "verse_key": "69:9",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927997,
+          "resource_id": 135,
+          "text": "و فرعون و کسانی ‌که پیش از او بودند و [مردم] شهر‌های ویران شده [= قوم لوط،] مرتکب گناهان [بزرگ] شدند."
+        }
+      ]
+    },
+    {
+      "id": 5333,
+      "verse_number": 10,
+      "verse_key": "69:10",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927998,
+          "resource_id": 135,
+          "text": "آنها از [فرمان] فرستادۀ پروردگار‌شان سرپیچی کردند، آنگاه [الله] آنان را به عذاب بی‌نهایت سختی گرفتار کرد."
+        }
+      ]
+    },
+    {
+      "id": 5334,
+      "verse_number": 11,
+      "verse_key": "69:11",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 927999,
+          "resource_id": 135,
+          "text": "هنگامی ‌که آب طغیان کرد، ما [اجداد] شما را [به همراه نوح] در کشتی سوار کردیم،"
+        }
+      ]
+    },
+    {
+      "id": 5335,
+      "verse_number": 12,
+      "verse_key": "69:12",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928000,
+          "resource_id": 135,
+          "text": "تا پندی برای شما قرار دهیم و گوش‌های شنوا آن را بشنوند و به یاد بسپارند."
+        }
+      ]
+    },
+    {
+      "id": 5336,
+      "verse_number": 13,
+      "verse_key": "69:13",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928001,
+          "resource_id": 135,
+          "text": "آنگاه ‌که یک بار در صور دمیده شود،"
+        }
+      ]
+    },
+    {
+      "id": 5337,
+      "verse_number": 14,
+      "verse_key": "69:14",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928002,
+          "resource_id": 135,
+          "text": "و زمین و کوه‌ها از جا کنده شده و یکباره درهم‌کوبیده [و متلاشی] شوند."
+        }
+      ]
+    },
+    {
+      "id": 5338,
+      "verse_number": 15,
+      "verse_key": "69:15",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928003,
+          "resource_id": 135,
+          "text": "در آن روز، واقعۀ [عظیمِ] قیامت به وقوع می‌پیوندد"
+        }
+      ]
+    },
+    {
+      "id": 5339,
+      "verse_number": 16,
+      "verse_key": "69:16",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928004,
+          "resource_id": 135,
+          "text": "و آسمان شکافته می‌شود و در آن روز، سست می‌گردد [و فرو می‌ریزد]."
+        }
+      ]
+    },
+    {
+      "id": 5340,
+      "verse_number": 17,
+      "verse_key": "69:17",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928005,
+          "resource_id": 135,
+          "text": "و فرشتگان بر کناره‌های آن [= آسمان] قرار می‌گیرند؛ و آن روز، هشت [فرشته] عرش پروردگارت را بر سرِ خود حمل می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 5341,
+      "verse_number": 18,
+      "verse_key": "69:18",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928006,
+          "resource_id": 135,
+          "text": "در آن روز، شما [همگی برای حسابرسی، به پیشگاه الله] عرضه می‌شوید و هیچ چیز از [کار‌های] شما پنهان نخواهد ماند."
+        }
+      ]
+    },
+    {
+      "id": 5342,
+      "verse_number": 19,
+      "verse_key": "69:19",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928007,
+          "resource_id": 135,
+          "text": "اما کسی‌ که نامۀ [اعمالش] را به دست راستش دهند، می‌گوید: «بیایید نامۀ [اعمال] مرا بخوانید."
+        }
+      ]
+    },
+    {
+      "id": 5343,
+      "verse_number": 20,
+      "verse_key": "69:20",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928008,
+          "resource_id": 135,
+          "text": "من یقین داشتم که با حساب [اعمال] خود مواجه خواهم شد»."
+        }
+      ]
+    },
+    {
+      "id": 5344,
+      "verse_number": 21,
+      "verse_key": "69:21",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928009,
+          "resource_id": 135,
+          "text": "پس او در یک زندگی پسندیده [و رضایت‌بخش] خواهد بود؛"
+        }
+      ]
+    },
+    {
+      "id": 5345,
+      "verse_number": 22,
+      "verse_key": "69:22",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928010,
+          "resource_id": 135,
+          "text": "در بهشتی برین"
+        }
+      ]
+    },
+    {
+      "id": 5346,
+      "verse_number": 23,
+      "verse_key": "69:23",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928011,
+          "resource_id": 135,
+          "text": "که میوه‌هایش [برای چیدن] در دسترس است."
+        }
+      ]
+    },
+    {
+      "id": 5347,
+      "verse_number": 24,
+      "verse_key": "69:24",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928012,
+          "resource_id": 135,
+          "text": "[و به آنها گفته می‌شود: «به [پاداش] آنچه در ایام گذشته پیش فرستاده‌اید، بخورید و بیاشامید؛ گوارایتان باد»."
+        }
+      ]
+    },
+    {
+      "id": 5348,
+      "verse_number": 25,
+      "verse_key": "69:25",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928013,
+          "resource_id": 135,
+          "text": "و اما کسی ‌که نامۀ [اعمالش] را به دست چپش دهند، می‌گوید: «ای کاش هرگز نامه[ی اعمالم] را به من نمی‌دادند،"
+        }
+      ]
+    },
+    {
+      "id": 5349,
+      "verse_number": 26,
+      "verse_key": "69:26",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928014,
+          "resource_id": 135,
+          "text": "و نمی‌دانستم حسابم چیست!"
+        }
+      ]
+    },
+    {
+      "id": 5350,
+      "verse_number": 27,
+      "verse_key": "69:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928015,
+          "resource_id": 135,
+          "text": "ای کاش [با مرگ،] همه چیز تمام می‌شد [و پایان کار بود]!"
+        }
+      ]
+    },
+    {
+      "id": 5351,
+      "verse_number": 28,
+      "verse_key": "69:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928016,
+          "resource_id": 135,
+          "text": "مال و دارایی‌ام مرا بی‌نیاز نکرد [و سودی نبخشید]."
+        }
+      ]
+    },
+    {
+      "id": 5352,
+      "verse_number": 29,
+      "verse_key": "69:29",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928017,
+          "resource_id": 135,
+          "text": "قدرت و فرمانروایی‌ام [نیز] از [دست] من رفت [و به کلی نابود شد]»."
+        }
+      ]
+    },
+    {
+      "id": 5353,
+      "verse_number": 30,
+      "verse_key": "69:30",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928018,
+          "resource_id": 135,
+          "text": "[به فرشتگان گفته می‌شود:] «او را بگیرید و در بند و زنجیر کنید."
+        }
+      ]
+    },
+    {
+      "id": 5354,
+      "verse_number": 31,
+      "verse_key": "69:31",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928019,
+          "resource_id": 135,
+          "text": "سپس او را به [آتش] دوزخ بیفکنید."
+        }
+      ]
+    },
+    {
+      "id": 5355,
+      "verse_number": 32,
+      "verse_key": "69:32",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928020,
+          "resource_id": 135,
+          "text": "آنگاه وی را در زنجیری ببندید که طولش هفتاد ذِراع است."
+        }
+      ]
+    },
+    {
+      "id": 5356,
+      "verse_number": 33,
+      "verse_key": "69:33",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928021,
+          "resource_id": 135,
+          "text": "بی‌گمان، او هرگز به الله بزرگ ایمان نمی‌آورد،"
+        }
+      ]
+    },
+    {
+      "id": 5357,
+      "verse_number": 34,
+      "verse_key": "69:34",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928022,
+          "resource_id": 135,
+          "text": "و هرگز [مردم را] بر اطعام بینوا[یان] تشویق نمی‌کرد."
+        }
+      ]
+    },
+    {
+      "id": 5358,
+      "verse_number": 35,
+      "verse_key": "69:35",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928023,
+          "resource_id": 135,
+          "text": "بنابر این، امروز دوست صمیمی [و مهربانی] در اینجا ندارد [که یاری‌اش کند]،"
+        }
+      ]
+    },
+    {
+      "id": 5359,
+      "verse_number": 36,
+      "verse_key": "69:36",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928024,
+          "resource_id": 135,
+          "text": "و غذایی جز چرک و خون [جهنمیان] ندارد؛"
+        }
+      ]
+    },
+    {
+      "id": 5360,
+      "verse_number": 37,
+      "verse_key": "69:37",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928025,
+          "resource_id": 135,
+          "text": "[غذایی ‌که] جز گناهکاران آن را نمی‌خورند»."
+        }
+      ]
+    },
+    {
+      "id": 5361,
+      "verse_number": 38,
+      "verse_key": "69:38",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928026,
+          "resource_id": 135,
+          "text": "سوگند به آنچه می‌بینید"
+        }
+      ]
+    },
+    {
+      "id": 5362,
+      "verse_number": 39,
+      "verse_key": "69:39",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928027,
+          "resource_id": 135,
+          "text": "و به آنچه نمی‌بینید."
+        }
+      ]
+    },
+    {
+      "id": 5363,
+      "verse_number": 40,
+      "verse_key": "69:40",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928028,
+          "resource_id": 135,
+          "text": "بی‌تردید، این [قرآن، سخن الله است که ابلاغش به پیامبر، بر عهدۀ] فرستاده‌ای بزرگوار [=جبرئیل] است."
+        }
+      ]
+    },
+    {
+      "id": 5364,
+      "verse_number": 41,
+      "verse_key": "69:41",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928029,
+          "resource_id": 135,
+          "text": "و اینها گفتار شاعری نیست؛ [اما شما کافران] کمتر ایمان می‌آورید."
+        }
+      ]
+    },
+    {
+      "id": 5365,
+      "verse_number": 42,
+      "verse_key": "69:42",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928030,
+          "resource_id": 135,
+          "text": "و [نیز] گفتار کاهنی نیست؛ [اما شما] کمتر پند می‌گیرید."
+        }
+      ]
+    },
+    {
+      "id": 5366,
+      "verse_number": 43,
+      "verse_key": "69:43",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928031,
+          "resource_id": 135,
+          "text": "[این قرآن،] از سوی پروردگار جهانیان نازل شده است."
+        }
+      ]
+    },
+    {
+      "id": 5367,
+      "verse_number": 44,
+      "verse_key": "69:44",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928032,
+          "resource_id": 135,
+          "text": "اگر [پیامبر] سخنانی [به دروغ] بر ما می‌بست،"
+        }
+      ]
+    },
+    {
+      "id": 5368,
+      "verse_number": 45,
+      "verse_key": "69:45",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928033,
+          "resource_id": 135,
+          "text": "مسلّماً ما او را با قدرت می‌گرفتیم،"
+        }
+      ]
+    },
+    {
+      "id": 5369,
+      "verse_number": 46,
+      "verse_key": "69:46",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928034,
+          "resource_id": 135,
+          "text": "سپس [شاه]رگِ قلبش را قطع می‌کردیم،"
+        }
+      ]
+    },
+    {
+      "id": 5370,
+      "verse_number": 47,
+      "verse_key": "69:47",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928035,
+          "resource_id": 135,
+          "text": "و هیچ‌یک از شما نمی‌توانست مانع [عذابِ] او گردد."
+        }
+      ]
+    },
+    {
+      "id": 5371,
+      "verse_number": 48,
+      "verse_key": "69:48",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928036,
+          "resource_id": 135,
+          "text": "یقیناً این [قرآن،] پند و تذکری برای پرهیزگاران است."
+        }
+      ]
+    },
+    {
+      "id": 5372,
+      "verse_number": 49,
+      "verse_key": "69:49",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928037,
+          "resource_id": 135,
+          "text": "و ما یقیناً می‌دانیم که برخی از شما، تکذیب‌کنندگان [این کلام الهی] هستید."
+        }
+      ]
+    },
+    {
+      "id": 5373,
+      "verse_number": 50,
+      "verse_key": "69:50",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928038,
+          "resource_id": 135,
+          "text": "و همانا این [قرآن،] بر کافران مایۀ حسرت و ندامت است."
+        }
+      ]
+    },
+    {
+      "id": 5374,
+      "verse_number": 51,
+      "verse_key": "69:51",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928039,
+          "resource_id": 135,
+          "text": "و بی‌گمان، این [قرآن،] حقیقتِ راستین است."
+        }
+      ]
+    },
+    {
+      "id": 5375,
+      "verse_number": 52,
+      "verse_key": "69:52",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 503,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928040,
+          "resource_id": 135,
+          "text": "پس [ای پیامبر،] با [ذکرِ] نامِ پروردگار بزرگت [او را] تسبیح گوی."
+        }
+      ]
+    }
+  ]
+}

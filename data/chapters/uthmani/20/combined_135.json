@@ -1,0 +1,2006 @@
+{
+  "id": 20,
+  "name": "Ta-Ha",
+  "verses": [
+    {
+      "id": 2349,
+      "verse_number": 1,
+      "verse_key": "20:1",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": " طه",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925014,
+          "resource_id": 135,
+          "text": "طه [= طا. ها]."
+        }
+      ]
+    },
+    {
+      "id": 2350,
+      "verse_number": 2,
+      "verse_key": "20:2",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "مَآ أَنزَلْنَا عَلَيْكَ ٱلْقُرْءَانَ لِتَشْقَىٰٓ",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925015,
+          "resource_id": 135,
+          "text": "[ای پیامبر، ما] قرآن را بر تو نازل نکردیم تا در رنج بیفتی."
+        }
+      ]
+    },
+    {
+      "id": 2351,
+      "verse_number": 3,
+      "verse_key": "20:3",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا تَذْكِرَةً لِّمَن يَخْشَىٰ",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925016,
+          "resource_id": 135,
+          "text": "[آن را نفرستادیم] مگر آنکه پندی باشد برای هر کس که [از عذاب الهی] می‌ترسد."
+        }
+      ]
+    },
+    {
+      "id": 2352,
+      "verse_number": 4,
+      "verse_key": "20:4",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "تَنزِيلًا مِّمَّنْ خَلَقَ ٱلْأَرْضَ وَٱلسَّمَـٰوَٰتِ ٱلْعُلَى",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925017,
+          "resource_id": 135,
+          "text": "[این قرآن،] فروفرستاده‌ای است از جانب آن ذاتی که زمین و آسمان‌های بلند را آفریده است."
+        }
+      ]
+    },
+    {
+      "id": 2353,
+      "verse_number": 5,
+      "verse_key": "20:5",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925018,
+          "resource_id": 135,
+          "text": "[پروردگار] رحمان [آن گونه كه شايسته جلال و مقام اوست] بر عرش قرار گرفت."
+        }
+      ]
+    },
+    {
+      "id": 2354,
+      "verse_number": 6,
+      "verse_key": "20:6",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ ٱلثَّرَىٰ",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925019,
+          "resource_id": 135,
+          "text": "آنچه در آسمان‌ها و زمین و آنچه میان آنهاست و آنچه زیر خاک [پنهان] است [همگی] از آنِ اوست."
+        }
+      ]
+    },
+    {
+      "id": 2355,
+      "verse_number": 7,
+      "verse_key": "20:7",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِن تَجْهَرْ بِٱلْقَوْلِ فَإِنَّهُۥ يَعْلَمُ ٱلسِّرَّ وَأَخْفَى",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925020,
+          "resource_id": 135,
+          "text": "و اگر سخن آشکار بگویی [یا آن را پنهان داری،] یقیناً او [راز] نهان و [حتی] نهان‌تر [از آن] را نیز می‌داند."
+        }
+      ]
+    },
+    {
+      "id": 2356,
+      "verse_number": 8,
+      "verse_key": "20:8",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925021,
+          "resource_id": 135,
+          "text": "الله است که هیچ معبودی [به‌حق] جز او نیست [و] نیکوترین نام‌ها از آنِ اوست."
+        }
+      ]
+    },
+    {
+      "id": 2357,
+      "verse_number": 9,
+      "verse_key": "20:9",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925022,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] آیا خبر موسی به تو رسیده است؟"
+        }
+      ]
+    },
+    {
+      "id": 2358,
+      "verse_number": 10,
+      "verse_key": "20:10",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925023,
+          "resource_id": 135,
+          "text": "آنگاه‌ که آتشی را [از دور] دید و به خانواده‌ا‌ش گفت: «[لحظه‌ای] درنگ کنید [که] من آتشی دیده‌ام. شاید شعله‌ای از آن برایتان بیاورم یا کنار آن آتش راهنمایی بیابم»."
+        }
+      ]
+    },
+    {
+      "id": 2359,
+      "verse_number": 11,
+      "verse_key": "20:11",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَمَّآ أَتَىٰهَا نُودِىَ يَـٰمُوسَىٰٓ",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925024,
+          "resource_id": 135,
+          "text": "وقتی نزد آن [آتش] آمد، نِدا داده شد که: «ای موسی،"
+        }
+      ]
+    },
+    {
+      "id": 2360,
+      "verse_number": 12,
+      "verse_key": "20:12",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنِّىٓ أَنَا۠ رَبُّكَ فَٱخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+      "page_number": 312,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925025,
+          "resource_id": 135,
+          "text": "به راستی، من پروردگارت هستم؛ پس [برای مناجات با پروردگار] کفش‌هایت را درآور [که] در حقیقت، تو در سرزمین مقدس «طُوی» هستی."
+        }
+      ]
+    },
+    {
+      "id": 2361,
+      "verse_number": 13,
+      "verse_key": "20:13",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925026,
+          "resource_id": 135,
+          "text": "و من تو را [به پیامبری] برگزیدم؛ پس به آنچه وحی می‌شود گوش فرا دار:"
+        }
+      ]
+    },
+    {
+      "id": 2362,
+      "verse_number": 14,
+      "verse_key": "20:14",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925027,
+          "resource_id": 135,
+          "text": "بی‌تردید، منم «الله» که هیچ معبودی [به‌حق] جز من نیست؛ پس مرا عبادت کن و برای یاد من نماز برپا دار."
+        }
+      ]
+    },
+    {
+      "id": 2363,
+      "verse_number": 15,
+      "verse_key": "20:15",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925028,
+          "resource_id": 135,
+          "text": "یقیناً قیامت آمدنی است؛ [ولی] می‌خواهم [وقت] آن را پنهان دارم تا به هر کسی در برابر [کار و] تلاشی که می‌کند پاداش داده شود."
+        }
+      ]
+    },
+    {
+      "id": 2364,
+      "verse_number": 16,
+      "verse_key": "20:16",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925029,
+          "resource_id": 135,
+          "text": "پس مبادا کسی ‌که به آن ایمان ندارد و از هوس‌هایش پیروی می‌کند، تو را از [نیکوکاری و آمادگی برای] آن بازدارد که هلاک می‌شوی."
+        }
+      ]
+    },
+    {
+      "id": 2365,
+      "verse_number": 17,
+      "verse_key": "20:17",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا تِلْكَ بِيَمِينِكَ يَـٰمُوسَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925030,
+          "resource_id": 135,
+          "text": "و ای موسی، آن چیست به [دست] راستت؟»"
+        }
+      ]
+    },
+    {
+      "id": 2366,
+      "verse_number": 18,
+      "verse_key": "20:18",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925031,
+          "resource_id": 135,
+          "text": "او گفت: «این عصای من است؛ بر آن تکیه می‌کنم و با آن برای گوسفندانم [برگ درختان را] فرومی‌ریزم و کارهای دیگری [نیز] با آن دارم [که برآورده می‌کنم]»."
+        }
+      ]
+    },
+    {
+      "id": 2367,
+      "verse_number": 19,
+      "verse_key": "20:19",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَلْقِهَا يَـٰمُوسَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925032,
+          "resource_id": 135,
+          "text": "[الله] فرمود: «ای موسی، آن را بیفکن»."
+        }
+      ]
+    },
+    {
+      "id": 2368,
+      "verse_number": 20,
+      "verse_key": "20:20",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925033,
+          "resource_id": 135,
+          "text": "[موسی] آن را [بر زمین] افکند و ناگهان [تبدیل به] ماری شد که به سرعت می‌خزید."
+        }
+      ]
+    },
+    {
+      "id": 2369,
+      "verse_number": 21,
+      "verse_key": "20:21",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925034,
+          "resource_id": 135,
+          "text": "[الله] فرمود: «آن را بگیر و نترس. به زودی آن را به شکل اولش بازمی‌گردانیم."
+        }
+      ]
+    },
+    {
+      "id": 2370,
+      "verse_number": 22,
+      "verse_key": "20:22",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925035,
+          "resource_id": 135,
+          "text": "و دستت را در بغل كن تا بدون ‌هیچ گزندى [به عنوان‌] معجزه‌اى دیگر، سفید [و درخشان‌] بیرون آید."
+        }
+      ]
+    },
+    {
+      "id": 2371,
+      "verse_number": 23,
+      "verse_key": "20:23",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "لِنُرِيَكَ مِنْ ءَايَـٰتِنَا ٱلْكُبْرَى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925036,
+          "resource_id": 135,
+          "text": "[هدف از ارایه این دو معجزه، این بود] که برخی از نشانه‌های بزرگ خویش را به تو نشان دهیم."
+        }
+      ]
+    },
+    {
+      "id": 2372,
+      "verse_number": 24,
+      "verse_key": "20:24",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 270,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925037,
+          "resource_id": 135,
+          "text": "[اینک] به سوی فرعون برو [که] بی‌تردید، [کفر ورزیده و] سرکشی کرده است»."
+        }
+      ]
+    },
+    {
+      "id": 2373,
+      "verse_number": 25,
+      "verse_key": "20:25",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925038,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «پروردگارا، بر [حوصله و] شکیبایی‌ام بیفزای"
+        }
+      ]
+    },
+    {
+      "id": 2374,
+      "verse_number": 26,
+      "verse_key": "20:26",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَسِّرْ لِىٓ أَمْرِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925039,
+          "resource_id": 135,
+          "text": "و کارم را برایم آسان گردان"
+        }
+      ]
+    },
+    {
+      "id": 2375,
+      "verse_number": 27,
+      "verse_key": "20:27",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925040,
+          "resource_id": 135,
+          "text": "و گره از زبانم باز کن"
+        }
+      ]
+    },
+    {
+      "id": 2376,
+      "verse_number": 28,
+      "verse_key": "20:28",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَفْقَهُوا۟ قَوْلِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925041,
+          "resource_id": 135,
+          "text": "تا سخنم را دریابند."
+        }
+      ]
+    },
+    {
+      "id": 2377,
+      "verse_number": 29,
+      "verse_key": "20:29",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925042,
+          "resource_id": 135,
+          "text": "و یاوری از [افراد] خاندانم برای من قرار بده؛"
+        }
+      ]
+    },
+    {
+      "id": 2378,
+      "verse_number": 30,
+      "verse_key": "20:30",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰرُونَ أَخِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925043,
+          "resource_id": 135,
+          "text": "هارون، برادرم را."
+        }
+      ]
+    },
+    {
+      "id": 2379,
+      "verse_number": 31,
+      "verse_key": "20:31",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱشْدُدْ بِهِۦٓ أَزْرِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925044,
+          "resource_id": 135,
+          "text": "پشتم را با او محکم کن؛"
+        }
+      ]
+    },
+    {
+      "id": 2380,
+      "verse_number": 32,
+      "verse_key": "20:32",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَشْرِكْهُ فِىٓ أَمْرِى",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925045,
+          "resource_id": 135,
+          "text": "و او را در کار [رسالت] من شریک کن"
+        }
+      ]
+    },
+    {
+      "id": 2381,
+      "verse_number": 33,
+      "verse_key": "20:33",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "كَىْ نُسَبِّحَكَ كَثِيرًا",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925046,
+          "resource_id": 135,
+          "text": "تا تو را بسیار به پاكى بستاییم"
+        }
+      ]
+    },
+    {
+      "id": 2382,
+      "verse_number": 34,
+      "verse_key": "20:34",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَنَذْكُرَكَ كَثِيرًا",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925047,
+          "resource_id": 135,
+          "text": "و بسیار یادت کنیم."
+        }
+      ]
+    },
+    {
+      "id": 2383,
+      "verse_number": 35,
+      "verse_key": "20:35",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّكَ كُنتَ بِنَا بَصِيرًا",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925048,
+          "resource_id": 135,
+          "text": "بی‌تردید، تو به [حال] ما بینایی»."
+        }
+      ]
+    },
+    {
+      "id": 2384,
+      "verse_number": 36,
+      "verse_key": "20:36",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَـٰمُوسَىٰ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925049,
+          "resource_id": 135,
+          "text": "[الله] فرمود: «ای موسی، خواسته‌ات به تو داده شد."
+        }
+      ]
+    },
+    {
+      "id": 2385,
+      "verse_number": 37,
+      "verse_key": "20:37",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ",
+      "page_number": 313,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925050,
+          "resource_id": 135,
+          "text": "در حقیقت، ما [پیشتر] یک بار دیگر [نیز] بر تو منت نهاده بودیم."
+        }
+      ]
+    },
+    {
+      "id": 2386,
+      "verse_number": 38,
+      "verse_key": "20:38",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925051,
+          "resource_id": 135,
+          "text": "آنگاه كه آنچه را كه [باید دربارۀ حفاظت از تو] الهام مى‌شد به مادرت الهام كردیم؛"
+        }
+      ]
+    },
+    {
+      "id": 2387,
+      "verse_number": 39,
+      "verse_key": "20:39",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ ۚ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925052,
+          "resource_id": 135,
+          "text": "که: «او را در صندوقی بگذار و آن [صندوق] را به دریا [= رود نیل‌] بینداز تا دریا او را به ساحل بیفکنَد [و] دشمن من و دشمن او، آن را [از آب] بگیرد»؛ و از جانب خویش مهرى [در دل‌ها] بر تو افكندم و [تو را حمایت کردم] تا تحت نظرم پرورش یابى."
+        }
+      ]
+    },
+    {
+      "id": 2388,
+      "verse_number": 40,
+      "verse_key": "20:40",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ ۖ فَرَجَعْنَـٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَـٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّـٰكَ فُتُونًا ۚ فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَـٰمُوسَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925053,
+          "resource_id": 135,
+          "text": "آنگاه که خواهرت [در پی صندوقِ تو] راه می‌رفت و [به کسانی که تو را از آب گرفتند] ‌گفت: «می‌خواهید شخصی را به شما نشان دهم که سرپرستی‌ او را به عهده بگیرد؟» پس تو را به مادرت بازگرداندیم تا چشمش [به دیدارت] روشن گردد و اندوهگین نباشد؛ و [بعدها] تو شخصی [قِبطی] را کُشتی و ما از اندوه [و مجازاتِ قتل] نجاتت دادیم و تو را بار‌ها آزمودیم. پس [از آن،] چند سال بین مردم مَدیَن به سر بردی؛ آنگاه ای موسی، بر [طبق] تقدیر [الهی و در زمان مقرر به اینجا] آمدی."
+        }
+      ]
+    },
+    {
+      "id": 2389,
+      "verse_number": 41,
+      "verse_key": "20:41",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱصْطَنَعْتُكَ لِنَفْسِى",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925054,
+          "resource_id": 135,
+          "text": "و تو را برای خودم برگزیدم [تا پیامم را به مردم برسانی]."
+        }
+      ]
+    },
+    {
+      "id": 2390,
+      "verse_number": 42,
+      "verse_key": "20:42",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱذْهَبْ أَنتَ وَأَخُوكَ بِـَٔايَـٰتِى وَلَا تَنِيَا فِى ذِكْرِى",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925055,
+          "resource_id": 135,
+          "text": "[اینک] تو و برادرت با نشانه‌های [قدرت و یگانگیِ] من روانه شوید و در [دعوت حق و] یاد کردنِ من سستی نورزید."
+        }
+      ]
+    },
+    {
+      "id": 2391,
+      "verse_number": 43,
+      "verse_key": "20:43",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925056,
+          "resource_id": 135,
+          "text": "به سوی فرعون بروید که او [کفر ورزیده و] سرکشی کرده است."
+        }
+      ]
+    },
+    {
+      "id": 2392,
+      "verse_number": 44,
+      "verse_key": "20:44",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَقُولَا لَهُۥ قَوْلًا لَّيِّنًا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925057,
+          "resource_id": 135,
+          "text": "پس به نرمی با او سخن بگویید؛ باشد که پند گیرد یا [از عذاب الهی] بترسد [و توبه کند]»."
+        }
+      ]
+    },
+    {
+      "id": 2393,
+      "verse_number": 45,
+      "verse_key": "20:45",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925058,
+          "resource_id": 135,
+          "text": "[موسی و هارون] گفتند: «پروردگارا، ما بیمناکیم که بر ما پیشدستی نماید [و پیش از پایان دعوت، مجازاتمان کند] یا [در برابر سخن حق] سرکشی کند»."
+        }
+      ]
+    },
+    {
+      "id": 2394,
+      "verse_number": 46,
+      "verse_key": "20:46",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925059,
+          "resource_id": 135,
+          "text": "[الله] فرمود: «نترسید [که] یقیناً من همراهتان هستم [و همه چیز را] می‌شنوم و می‌بینم."
+        }
+      ]
+    },
+    {
+      "id": 2395,
+      "verse_number": 47,
+      "verse_key": "20:47",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَـٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ ۖ وَٱلسَّلَـٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925060,
+          "resource_id": 135,
+          "text": "پس به سوی او بروید و بگویید: \"ما رسولان پروردگارت هستیم. بنی‌اسرائیل را همراه ما بفرست و آنان را [تحقیر و] آزار نکن. به راستی که ما نشانه‌های روشنی از جانب پروردگارت برای تو آورده‌ایم؛ و سلامتی [از عذاب الهی] بر کسی است که از هدایت پیروی کند."
+        }
+      ]
+    },
+    {
+      "id": 2396,
+      "verse_number": 48,
+      "verse_key": "20:48",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّا قَدْ أُوحِىَ إِلَيْنَآ أَنَّ ٱلْعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925061,
+          "resource_id": 135,
+          "text": "در حقیقت، به ما وحی شده است که عذاب [دوزخ] بر کسی است که [آیات و معجزات را] تکذیب کند و [از دعوت پیامبرش] روی گرداند\"»."
+        }
+      ]
+    },
+    {
+      "id": 2397,
+      "verse_number": 49,
+      "verse_key": "20:49",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَمَن رَّبُّكُمَا يَـٰمُوسَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925062,
+          "resource_id": 135,
+          "text": "[فرعون] گفت: «ای موسی، پروردگار شما کیست؟»"
+        }
+      ]
+    },
+    {
+      "id": 2398,
+      "verse_number": 50,
+      "verse_key": "20:50",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925063,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «پروردگار ما [همان] ذاتی است که به هر چیزی آفرینشِ [= ظاهر و ویژگی‌های مناسب] او را بخشیده و سپس [آن را] هدایت نموده است»."
+        }
+      ]
+    },
+    {
+      "id": 2399,
+      "verse_number": 51,
+      "verse_key": "20:51",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَمَا بَالُ ٱلْقُرُونِ ٱلْأُولَىٰ",
+      "page_number": 314,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925064,
+          "resource_id": 135,
+          "text": "[فرعون] گفت: «پس حال [و سرنوشت] نسل‌های گذشته [که کافر بوده‌اند] چیست؟»"
+        }
+      ]
+    },
+    {
+      "id": 2400,
+      "verse_number": 52,
+      "verse_key": "20:52",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَـٰبٍ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925065,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «دانشِ آن در کتابی [= لوح محفوظ] نزد پروردگار من [ثبت] است. پروردگارم نه اشتباه می‌کند و نه فراموش می‌نماید»."
+        }
+      ]
+    },
+    {
+      "id": 2401,
+      "verse_number": 53,
+      "verse_key": "20:53",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦٓ أَزْوَٰجًا مِّن نَّبَاتٍ شَتَّىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925066,
+          "resource_id": 135,
+          "text": "آن [معبودی] که زمین را برایتان [همچون] گهواره‌ای [محل آسایش] قرار داد و راه‌هایی در آن ایجاد کرد و از آسمان آبی فروفرستاد و به وسیلۀ آن، انواع گوناگون گیاهان را [از زمین] بیرون آوردیم."
+        }
+      ]
+    },
+    {
+      "id": 2402,
+      "verse_number": 54,
+      "verse_key": "20:54",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 125,
+      "ruku_number": 271,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "كُلُوا۟ وَٱرْعَوْا۟ أَنْعَـٰمَكُمْ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلنُّهَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925067,
+          "resource_id": 135,
+          "text": "[هم خود از آن] بخورید و [هم] چهارپایانتان را [در آن] بچرانید. بی‌تردید، در این [امور،] نشانه‌هایی [از قدرت الهی] برای خردمندان است."
+        }
+      ]
+    },
+    {
+      "id": 2403,
+      "verse_number": 55,
+      "verse_key": "20:55",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925068,
+          "resource_id": 135,
+          "text": "شما را از آن [خاک] آفریدیم و به آن بازمی‌گردانیم و بار دیگر [در قیامت] از آن بیرون می‌آوریم."
+        }
+      ]
+    },
+    {
+      "id": 2404,
+      "verse_number": 56,
+      "verse_key": "20:56",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ أَرَيْنَـٰهُ ءَايَـٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925069,
+          "resource_id": 135,
+          "text": "و به راستی [ما] همۀ نشانه‌های [قدرت] خود [و صداقت رسالت موسی] را به او نشان دادیم؛ ولی [همه را] دروغ پنداشت و [دعوت حق را] نپذیرفت."
+        }
+      ]
+    },
+    {
+      "id": 2405,
+      "verse_number": 57,
+      "verse_key": "20:57",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَـٰمُوسَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925070,
+          "resource_id": 135,
+          "text": "[آنگاه] گفت: «ای موسی، آیا نزد ما آمده‌ای که با جادویَت ما را از سرزمینمان بیرون کنی؟"
+        }
+      ]
+    },
+    {
+      "id": 2406,
+      "verse_number": 58,
+      "verse_key": "20:58",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925071,
+          "resource_id": 135,
+          "text": "یقیناً ما نیز جادویی مانند آن برایت می‌آوریم؛ پس در مکانی که [فاصله‌اش از هر دو طرف] یکسان باشد، وعده‌گاهی میان ما و خود تعیین کن که نه ما از آن خلاف کنیم و نه تو»."
+        }
+      ]
+    },
+    {
+      "id": 2407,
+      "verse_number": 59,
+      "verse_key": "20:59",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًى",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925072,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «وعده‌گاه شما روز عید باشد که [همۀ] مردم پیش از ظهر جمع می‌شوند»."
+        }
+      ]
+    },
+    {
+      "id": 2408,
+      "verse_number": 60,
+      "verse_key": "20:60",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925073,
+          "resource_id": 135,
+          "text": "آنگاه فرعون بازگشت و [تمام] نیرنگ و حیلۀ خویش را جمع کرد و [همراه جادوگرانش به محل مورد نظر] آمد."
+        }
+      ]
+    },
+    {
+      "id": 2409,
+      "verse_number": 61,
+      "verse_key": "20:61",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا۟ عَلَى ٱللَّهِ كَذِبًا فَيُسْحِتَكُم بِعَذَابٍ ۖ وَقَدْ خَابَ مَنِ ٱفْتَرَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925074,
+          "resource_id": 135,
+          "text": "موسی به آنان گفت: «وای بر شما! بر الله دروغ نبندید که با عذابی [سخت] نابودتان می‌سازد؛ و یقیناً هر ‌کس [با فریب‌دادنِ مردم بر الله] دروغ بست، زیانکار گشت»."
+        }
+      ]
+    },
+    {
+      "id": 2410,
+      "verse_number": 62,
+      "verse_key": "20:62",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَتَنَـٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925075,
+          "resource_id": 135,
+          "text": "[جادوگران پس از هشدار موسی‌] در کار‌شان میان خود اختلاف ورزیدند و پنهانی گفتگو کردند."
+        }
+      ]
+    },
+    {
+      "id": 2411,
+      "verse_number": 63,
+      "verse_key": "20:63",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوٓا۟ إِنْ هَـٰذَٰنِ لَسَـٰحِرَٰنِ يُرِيدَانِ أَن يُخْرِجَاكُم مِّنْ أَرْضِكُم بِسِحْرِهِمَا وَيَذْهَبَا بِطَرِيقَتِكُمُ ٱلْمُثْلَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925076,
+          "resource_id": 135,
+          "text": "[برخی از آنان] گفتند: «این دو [نفر] قطعاً جادوگرند [و] با جادوی خویش می‌خواهند شما را از سرزمینتان بیرون کنند و آیین [و راه و رسمِ] برتر شما را از میان بردارند."
+        }
+      ]
+    },
+    {
+      "id": 2412,
+      "verse_number": 64,
+      "verse_key": "20:64",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّا ۚ وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ",
+      "page_number": 315,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925077,
+          "resource_id": 135,
+          "text": "پس [همۀ] نیرنگ خویش را فراهم کنید [و به کار بندید]؛ سپس در یک صف [برای مبارزه] به پیش آیید. بی‌تردید، هرکس امروز [بر دشمن] چیره شود، پیروز [و کامیاب] گشته است»."
+        }
+      ]
+    },
+    {
+      "id": 2413,
+      "verse_number": 65,
+      "verse_key": "20:65",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ يَـٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنْ أَلْقَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925078,
+          "resource_id": 135,
+          "text": "[جادوگران] گفتند: «اى موسى، آیا تو [آنچه را با خود داری] مى‌افكنى یا [ما] نخستین كسی باشیم كه مى‌افکنَد؟»"
+        }
+      ]
+    },
+    {
+      "id": 2414,
+      "verse_number": 66,
+      "verse_key": "20:66",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ بَلْ أَلْقُوا۟ ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925079,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «[نه،] بلکه، شما بیفکنید». ناگاه ریسمان‌ها و چوبدستی‌های آنان از جادویشان چنان به نظرش رسید كه گویی به شتاب مى‌خزند."
+        }
+      ]
+    },
+    {
+      "id": 2415,
+      "verse_number": 67,
+      "verse_key": "20:67",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةً مُّوسَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925080,
+          "resource_id": 135,
+          "text": "پس موسى در دلش ترسی احساس كرد."
+        }
+      ]
+    },
+    {
+      "id": 2416,
+      "verse_number": 68,
+      "verse_key": "20:68",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925081,
+          "resource_id": 135,
+          "text": "گفتیم: «نترس [که] تو قطعاً [پیروز و] برتری."
+        }
+      ]
+    },
+    {
+      "id": 2417,
+      "verse_number": 69,
+      "verse_key": "20:69",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ ۖ إِنَّمَا صَنَعُوا۟ كَيْدُ سَـٰحِرٍ ۖ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925082,
+          "resource_id": 135,
+          "text": "و آنچه را که در دست راست خود داری بیفکن تا [تمام] آنچه را که ساخته‌اند ببلعد. بی‌تردید، آنچه آنان ساخته‌اند، فقط نیرنگِ جادوگر است و جادوگر هر جا که باشد [و هر چه کند]، پیروز نمی‌گردد»."
+        }
+      ]
+    },
+    {
+      "id": 2418,
+      "verse_number": 70,
+      "verse_key": "20:70",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925083,
+          "resource_id": 135,
+          "text": "[هنگامی‌که موسی عصایش را بر زمین انداخت، به مار بزرگی تبدیل شد و ساخته‌های آنان را بلعید] آنگاه جادوگران به سجده افتادند [و] گفتند: «به پروردگار هارون و موسی ایمان آوردیم»."
+        }
+      ]
+    },
+    {
+      "id": 2419,
+      "verse_number": 71,
+      "verse_key": "20:71",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925084,
+          "resource_id": 135,
+          "text": "[فرعون] گفت: «آیا پیش از آنکه به شما اجازه دهم به او ایمان آوردید؟ قطعاً او بزرگِ شماست كه به شما جادوگری آموخته است. پس قطعاً دست و پاى شما را بر عكس یكدیگر [از چپ و راست] قطع مى‌كنم و همگی‌تان را از تنه‌هاى نخل به دار مى‌آویزم و آنگاه خوب خواهید دانست که عذاب [و شکنجۀ] کدام ‌یک از ما سخت‌تر و پاینده‌تر است؛ [من یا پروردگارِ موسی]»."
+        }
+      ]
+    },
+    {
+      "id": 2420,
+      "verse_number": 72,
+      "verse_key": "20:72",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَـٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925085,
+          "resource_id": 135,
+          "text": "[جادوگران] گفتند: «هرگز [پیروی از] تو را بر این دلایل روشنی که برایمان آمده است و [همچنین] بر آن که ما را آفریده است ترجیح نمی‌دهیم؛ پس به هر حکمی که می‌خواهی، حکم کن. تو فقط می‌توانی در زندگیِ این دنیا حکم کنی."
+        }
+      ]
+    },
+    {
+      "id": 2421,
+      "verse_number": 73,
+      "verse_key": "20:73",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَـٰيَـٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ ۗ وَٱللَّهُ خَيْرٌ وَأَبْقَىٰٓ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925086,
+          "resource_id": 135,
+          "text": "بی‌تردید، ما به پروردگارمان ایمان آوردیم تا گناهانمان و آنچه را از جادوگری بر ما تحمیل کردی ببخشاید؛ و الله بهتر و پاینده‌تر است»."
+        }
+      ]
+    },
+    {
+      "id": 2422,
+      "verse_number": 74,
+      "verse_key": "20:74",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ مَن يَأْتِ رَبَّهُۥ مُجْرِمًا فَإِنَّ لَهُۥ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925087,
+          "resource_id": 135,
+          "text": "هرکس در پیشگاهِ پروردگارش، گناهکار حاضر شود، یقیناً آتش دوزخ برای اوست؛ در آنجا نه می‌میرد [که رهایی یابد] و نه [به خوشى‌] زندگى كند."
+        }
+      ]
+    },
+    {
+      "id": 2423,
+      "verse_number": 75,
+      "verse_key": "20:75",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن يَأْتِهِۦ مُؤْمِنًا قَدْ عَمِلَ ٱلصَّـٰلِحَـٰتِ فَأُو۟لَـٰٓئِكَ لَهُمُ ٱلدَّرَجَـٰتُ ٱلْعُلَىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925088,
+          "resource_id": 135,
+          "text": "و هرکس مؤمن نزد او تعالی بیاید در حالی که کارهای شایسته انجام داده باشد، اینان درجات عالی دارند."
+        }
+      ]
+    },
+    {
+      "id": 2424,
+      "verse_number": 76,
+      "verse_key": "20:76",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 272,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+      "page_number": 316,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925089,
+          "resource_id": 135,
+          "text": "باغ‌های جاودان [بهشت] که جویبارها زیر [درختان] آن جاری است. همیشه در آن خواهند بود؛ و این است پاداش کسی ‌که خود را [از آلودگی‌های شرک و گناه] پاک کرده است."
+        }
+      ]
+    },
+    {
+      "id": 2425,
+      "verse_number": 77,
+      "verse_key": "20:77",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًا فِى ٱلْبَحْرِ يَبَسًا لَّا تَخَـٰفُ دَرَكًا وَلَا تَخْشَىٰ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925090,
+          "resource_id": 135,
+          "text": "و به راستی [ما] به موسی وحی کردیم که: «بندگانم را شبانه [از مصر بیرون] ببر، سپس در دریا راهی خشک برایشان بگشا، که نه از تعقیب [دشمنان] خواهی ترسید و نه [از غرق شدن در دریا] بیم داری»."
+        }
+      ]
+    },
+    {
+      "id": 2426,
+      "verse_number": 78,
+      "verse_key": "20:78",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925091,
+          "resource_id": 135,
+          "text": "آنگاه فرعون با سپاهیانش آنان را دنبال کرد و آب دریا آنان را فروپوشاند؛ چنان پوشاندنی [که حقیقتش را کسی جز الله نمی‌داند]."
+        }
+      ]
+    },
+    {
+      "id": 2427,
+      "verse_number": 79,
+      "verse_key": "20:79",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَضَلَّ فِرْعَوْنُ قَوْمَهُۥ وَمَا هَدَىٰ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925092,
+          "resource_id": 135,
+          "text": "و [بدین‌سان‌] فرعون قوم خود را گمراه نمود و هدایت نکرد."
+        }
+      ]
+    },
+    {
+      "id": 2428,
+      "verse_number": 80,
+      "verse_key": "20:80",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَـٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَـٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925093,
+          "resource_id": 135,
+          "text": "ای بنی‌اسرائیل، به راستی [ما] شما را از [چنگ] دشمنانتان نجات دادیم و در سمت راست [کوه] طور با شما وعده گذاشتیم [تا تورات را نازل کنیم] و بر شما تَرَنجَبین و بلدرچین فروفرستادیم."
+        }
+      ]
+    },
+    {
+      "id": 2429,
+      "verse_number": 81,
+      "verse_key": "20:81",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى ۖ وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925094,
+          "resource_id": 135,
+          "text": "از نعمت‌های پاکیزه‌‌ای که به شما روزی داده‌ایم بخورید و در آن زیاده‌روی نکنید که خشم من بر شما فرود می‌آید؛ و هرکس که خشم من بر او فرود ‌آید، قطعاً هلاک می‌گردد."
+        }
+      ]
+    },
+    {
+      "id": 2430,
+      "verse_number": 82,
+      "verse_key": "20:82",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 126,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا ثُمَّ ٱهْتَدَىٰ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925095,
+          "resource_id": 135,
+          "text": "و یقیناً من آمرزندۀ كسى هستم كه توبه كند و ایمان آورد و كاری شایسته کند و آنگاه بر هدایت [خود باقى] بماند."
+        }
+      ]
+    },
+    {
+      "id": 2431,
+      "verse_number": 83,
+      "verse_key": "20:83",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَمَآ أَعْجَلَكَ عَن قَوْمِكَ يَـٰمُوسَىٰ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925096,
+          "resource_id": 135,
+          "text": "ای موسی، چه چیز موجب شد که جلوتر از قومت [به سوی وعده‌گاهِ طور‌] بشتابى؟"
+        }
+      ]
+    },
+    {
+      "id": 2432,
+      "verse_number": 84,
+      "verse_key": "20:84",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ هُمْ أُو۟لَآءِ عَلَىٰٓ أَثَرِى وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925097,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «پروردگارا، آنان به دنبالم می‌آیند و من به سویت شتافتم تا [از من] راضی گردی»."
+        }
+      ]
+    },
+    {
+      "id": 2433,
+      "verse_number": 85,
+      "verse_key": "20:85",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925098,
+          "resource_id": 135,
+          "text": "[الله] فرمود: «پس [بدان که] ما قومت را پس از [رفتنِ] تو آزمودیم و سامری گمراهشان کرد»."
+        }
+      ]
+    },
+    {
+      "id": 2434,
+      "verse_number": 86,
+      "verse_key": "20:86",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا ۚ قَالَ يَـٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925099,
+          "resource_id": 135,
+          "text": "آنگاه موسی خشمگین [و] اندوهناک به سوی قومش بازگشت [و] گفت: «ای قوم من، مگر پروردگارتان [دربارۀ نزول تورات] وعدۀ نیکو به شما نداده بود؟ آیا بر پیمان شما [با الله] زمانی طولانی گذشت [و همه را از یاد بردید] یا خواستید خشمی از [سوی] پروردگارتان بر شما فرود آید که وعدۀ مرا خلاف کردید؟»"
+        }
+      ]
+    },
+    {
+      "id": 2435,
+      "verse_number": 87,
+      "verse_key": "20:87",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَـٰكِنَّا حُمِّلْنَآ أَوْزَارًا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَـٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ",
+      "page_number": 317,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925100,
+          "resource_id": 135,
+          "text": "آنان گفتند: «[ما] به اختیار خود پیمان تو را نشکستیم؛ ولی بارهای سنگینی از زر و زیورهای قوم [فرعون] را که بر ما نهاده بودند [در آتش] انداختیم و سامری نیز [آنچه را که ادعا می‌کرد خاکِ سُمِ اسب جبرئیل است، در آتش] انداخت»."
+        }
+      ]
+    },
+    {
+      "id": 2436,
+      "verse_number": 88,
+      "verse_key": "20:88",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925101,
+          "resource_id": 135,
+          "text": "سپس مجسمۀ گوساله‌ای برایشان ساخت که صدایی [همچون صدای گوساله] داشت. [سامری و پیروانش به مردم] گفتند: «این معبود شما و معبود موسی است که آن را فراموش [و اینجا رها] کرده است»."
+        }
+      ]
+    },
+    {
+      "id": 2437,
+      "verse_number": 89,
+      "verse_key": "20:89",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 273,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925102,
+          "resource_id": 135,
+          "text": "آیا نمی‌دیدند که [این گوساله] هیچ پاسخی به آنها نمی‌دهد و هیچ زیان و سودی برایشان ندارد؟"
+        }
+      ]
+    },
+    {
+      "id": 2438,
+      "verse_number": 90,
+      "verse_key": "20:90",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ قَالَ لَهُمْ هَـٰرُونُ مِن قَبْلُ يَـٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَـٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925103,
+          "resource_id": 135,
+          "text": "و در حقیقت، پیش از آن [که موسی بازگردد،] هارون نیز به آنها گفته بود: «اى قوم من، جز این نیست كه شما با این [گوساله] امتحان شده‌اید و بى‌تردید، پروردگار [حقیقىِ] شما [الله] رحمان است؛ پس پیرو من باشید و از فرمانم اطاعت كنید»."
+        }
+      ]
+    },
+    {
+      "id": 2439,
+      "verse_number": 91,
+      "verse_key": "20:91",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَـٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925104,
+          "resource_id": 135,
+          "text": "[آنان] گفتند: «ما پیوسته بر این [عبادت گوساله] مى‌مانیم تا موسى نزدمان بازگردد»."
+        }
+      ]
+    },
+    {
+      "id": 2440,
+      "verse_number": 92,
+      "verse_key": "20:92",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ يَـٰهَـٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925105,
+          "resource_id": 135,
+          "text": "[وقتی موسی بازگشت] گفت: «ای هارون، هنگامی ‌که دیدی آنان گمراه شده‌اند، چه چیزی تو را بازداشت"
+        }
+      ]
+    },
+    {
+      "id": 2441,
+      "verse_number": 93,
+      "verse_key": "20:93",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ أَمْرِى",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925106,
+          "resource_id": 135,
+          "text": "که از من پیروی نکنی [چرا آنان را ترک نکردی و به من نپیوستی]؟ آیا از فرمانم سرپیچی کردی؟»"
+        }
+      ]
+    },
+    {
+      "id": 2442,
+      "verse_number": 94,
+      "verse_key": "20:94",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925107,
+          "resource_id": 135,
+          "text": "[هارون] گفت: «ای پسر مادرم، ریش و [موی] سرم را نگیر. در حقیقت، ترسیدم که بگویی میان بنی‌اسرائیل تفرقه ‌انداختی و سخن [و سفارش] مرا به کار نبستی»."
+        }
+      ]
+    },
+    {
+      "id": 2443,
+      "verse_number": 95,
+      "verse_key": "20:95",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَمَا خَطْبُكَ يَـٰسَـٰمِرِىُّ",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925108,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «ای سامری، این چه کاری است که کردی؟»"
+        }
+      ]
+    },
+    {
+      "id": 2444,
+      "verse_number": 96,
+      "verse_key": "20:96",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةً مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925109,
+          "resource_id": 135,
+          "text": "او گفت: «من چیزی را دیدم که آنان ندیدند و مُشتی از خاک پای [اسبِ] فرستاده [= جبرئیل‌] را برداشتم و [در پیكر گوساله‌] انداختم و [هوای] نفسم [این کار را] اینچنین برایم آراست»."
+        }
+      ]
+    },
+    {
+      "id": 2445,
+      "verse_number": 97,
+      "verse_key": "20:97",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925110,
+          "resource_id": 135,
+          "text": "[موسی] گفت: «پس برو. بی‌تردید، بهرۀ تو در زندگى این است كه [چنان مطرود شوی که به مردم] بگویى: \"[به من‌] دست نزنید\"؛ و وعده‌گاهی [برای عذاب] خواهی داشت كه هرگز از آن تخلف نخواهد شد؛ و [اکنون‌] به آن معبودی كه پیوسته در عبادتش بودی بنگر؛ آن را مى‌سوزانیم، آنگاه [که کاملاً خاكستر شد،] در دریا پراکنده‌اش می‌سازیم»."
+        }
+      ]
+    },
+    {
+      "id": 2446,
+      "verse_number": 98,
+      "verse_key": "20:98",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّمَآ إِلَـٰهُكُمُ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَسِعَ كُلَّ شَىْءٍ عِلْمًا",
+      "page_number": 318,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925111,
+          "resource_id": 135,
+          "text": "[ای مردم،] معبود شما الله است که هیچ معبودی [به‌حق] جز او نیست و علمش همه چیز را فراگرفته است."
+        }
+      ]
+    },
+    {
+      "id": 2447,
+      "verse_number": 99,
+      "verse_key": "20:99",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ مَا قَدْ سَبَقَ ۚ وَقَدْ ءَاتَيْنَـٰكَ مِن لَّدُنَّا ذِكْرًا",
+      "page_number": 319,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925112,
+          "resource_id": 135,
+          "text": "[ای پیامبر،] این گونه از اخبار [و داستان‌های پیامبران] گذشته بر تو حکایت می‌کنیم؛ و به راستی که [ما] از جانب خویش به تو قرآنی [پندآموز] داده‌ایم."
+        }
+      ]
+    },
+    {
+      "id": 2448,
+      "verse_number": 100,
+      "verse_key": "20:100",
+      "hizb_number": 32,
+      "rub_el_hizb_number": 127,
+      "ruku_number": 274,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "text_uthmani": "مَّنْ أَعْرَضَ عَنْهُ فَإِنَّهُۥ يَحْمِلُ يَوْمَ ٱلْقِيَـٰمَةِ وِزْرًا",
+      "page_number": 319,
+      "juz_number": 16,
+      "translations": [
+        {
+          "id": 925113,
+          "resource_id": 135,
+          "text": "هر‌کس از آن رویگردان شود، یقیناً روز قیامت بارِ سنگینی [از گناه] بر دوش خواهد کشید."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 111,
+  "name": "The Palm Fiber",
+  "verses": [
+    {
+      "id": 6217,
+      "verse_number": 1,
+      "verse_key": "111:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928882,
+          "resource_id": 135,
+          "text": "بریده باد هر دو دست اَبولَهَب و هلاک باد خودش!"
+        }
+      ]
+    },
+    {
+      "id": 6218,
+      "verse_number": 2,
+      "verse_key": "111:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928883,
+          "resource_id": 135,
+          "text": "مال و ثروتش و آنچه به دست آورده بود، او را بی‌نیاز نساخت [و برایش سودی نبخشید]."
+        }
+      ]
+    },
+    {
+      "id": 6219,
+      "verse_number": 3,
+      "verse_key": "111:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928884,
+          "resource_id": 135,
+          "text": "به زودی به آتش شعله‌ور درخواهد آمد؛"
+        }
+      ]
+    },
+    {
+      "id": 6220,
+      "verse_number": 4,
+      "verse_key": "111:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928885,
+          "resource_id": 135,
+          "text": "و همسرش [اُمّ‌جمیل، آن] هیزم‌کش [آتش‌افروز نیز وارد آتش دوزخ می‌شود]."
+        }
+      ]
+    },
+    {
+      "id": 6221,
+      "verse_number": 5,
+      "verse_key": "111:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 555,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 928886,
+          "resource_id": 135,
+          "text": "[در حالی که] طنابی از لیفِ درخت خرما بر گردنش است."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+{
+  "id": 70,
+  "name": "The Ascending Stairways",
+  "verses": [
+    {
+      "id": 5376,
+      "verse_number": 1,
+      "verse_key": "70:1",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928041,
+          "resource_id": 135,
+          "text": "درخواست‌کننده‌ای [به تمسخر] تقاضای عذابی را کرد که وقوعش [در قیامت] حتمی است،"
+        }
+      ]
+    },
+    {
+      "id": 5377,
+      "verse_number": 2,
+      "verse_key": "70:2",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928042,
+          "resource_id": 135,
+          "text": "[این عذاب،] برای کافران است [و] هیچ دفع‌کننده‌ای ندارد."
+        }
+      ]
+    },
+    {
+      "id": 5378,
+      "verse_number": 3,
+      "verse_key": "70:3",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928043,
+          "resource_id": 135,
+          "text": "از سوی الله [به وقوع می‌پیوندد که دارای عُلُو و] صاحبِ مراتب و درجات والاست."
+        }
+      ]
+    },
+    {
+      "id": 5379,
+      "verse_number": 4,
+      "verse_key": "70:4",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928044,
+          "resource_id": 135,
+          "text": "فرشتگان و روح [= جبرئیل] به سوی او عروج می‌کنند، در روزی ‌که مقدارش [در مقیاس بشری،] پنجاه‌ هزار سال است."
+        }
+      ]
+    },
+    {
+      "id": 5380,
+      "verse_number": 5,
+      "verse_key": "70:5",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928045,
+          "resource_id": 135,
+          "text": "پس تو [ای پیامبر، در برابر تمسخرشان] صبرِ نیکو پیشه کن."
+        }
+      ]
+    },
+    {
+      "id": 5381,
+      "verse_number": 6,
+      "verse_key": "70:6",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928046,
+          "resource_id": 135,
+          "text": "بی‌گمان، آنها آن [روز] را دور می‌بینند"
+        }
+      ]
+    },
+    {
+      "id": 5382,
+      "verse_number": 7,
+      "verse_key": "70:7",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928047,
+          "resource_id": 135,
+          "text": "و ما آن را نزدیک می‌بینیم."
+        }
+      ]
+    },
+    {
+      "id": 5383,
+      "verse_number": 8,
+      "verse_key": "70:8",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928048,
+          "resource_id": 135,
+          "text": "[همان] روزی ‌که آسمان چون مسِ گداخته شود،"
+        }
+      ]
+    },
+    {
+      "id": 5384,
+      "verse_number": 9,
+      "verse_key": "70:9",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928049,
+          "resource_id": 135,
+          "text": "و کوه‌ها مانند پشم رنگین [متلاشی و پراکنده] شود."
+        }
+      ]
+    },
+    {
+      "id": 5385,
+      "verse_number": 10,
+      "verse_key": "70:10",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 568,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928050,
+          "resource_id": 135,
+          "text": "و هیچ دوست صمیمی [و خویشاوندی] از [حال] دوست صمیمی [و خویشاوندش] نمی‌پرسد."
+        }
+      ]
+    },
+    {
+      "id": 5386,
+      "verse_number": 11,
+      "verse_key": "70:11",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928051,
+          "resource_id": 135,
+          "text": "[در حالی ‌که] آنان به یکدیگر نشان داده می‌شوند، گناهکار [دوست دارد و] آرزو می‌کند که فرزندان خود را در ازای [رهایی] از عذاب آن روز بدهد،"
+        }
+      ]
+    },
+    {
+      "id": 5387,
+      "verse_number": 12,
+      "verse_key": "70:12",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928052,
+          "resource_id": 135,
+          "text": "و [همچنین] زنش و برادرش را"
+        }
+      ]
+    },
+    {
+      "id": 5388,
+      "verse_number": 13,
+      "verse_key": "70:13",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928053,
+          "resource_id": 135,
+          "text": "و قبیله‌اش را که [همیشه] به او جا و پناه می‌داد."
+        }
+      ]
+    },
+    {
+      "id": 5389,
+      "verse_number": 14,
+      "verse_key": "70:14",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928054,
+          "resource_id": 135,
+          "text": "و [همچنین] همۀ کسانی را که روی زمین هستند [فدا کند] تا نجات یابد."
+        }
+      ]
+    },
+    {
+      "id": 5390,
+      "verse_number": 15,
+      "verse_key": "70:15",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928055,
+          "resource_id": 135,
+          "text": "[اما] هرگز چنین نیست [که برایش راه نجاتی باشد]! بی‌گمان، آن شعله‌های [آتشِ] سوزان است"
+        }
+      ]
+    },
+    {
+      "id": 5391,
+      "verse_number": 16,
+      "verse_key": "70:16",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928056,
+          "resource_id": 135,
+          "text": "[که] پوست از سر برمی‌کَند."
+        }
+      ]
+    },
+    {
+      "id": 5392,
+      "verse_number": 17,
+      "verse_key": "70:17",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928057,
+          "resource_id": 135,
+          "text": "کسانی را که [به فرمان الله] پشت کردند و [از حق] روی گرداندند، [به سوی خود] فرامی‌خوانَد."
+        }
+      ]
+    },
+    {
+      "id": 5393,
+      "verse_number": 18,
+      "verse_key": "70:18",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928058,
+          "resource_id": 135,
+          "text": "و [نیز کسانی را که] اموال را جمع‌آوری و ذخیره کردند [و حق آن را نپرداختند]."
+        }
+      ]
+    },
+    {
+      "id": 5394,
+      "verse_number": 19,
+      "verse_key": "70:19",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928059,
+          "resource_id": 135,
+          "text": "یقیناً انسان، کم‌طاقت [و حریص] آفریده شده است."
+        }
+      ]
+    },
+    {
+      "id": 5395,
+      "verse_number": 20,
+      "verse_key": "70:20",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928060,
+          "resource_id": 135,
+          "text": "هر گاه بدی [و مصیبتی] به او رسد، بی‌تابی می‌کند،"
+        }
+      ]
+    },
+    {
+      "id": 5396,
+      "verse_number": 21,
+      "verse_key": "70:21",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928061,
+          "resource_id": 135,
+          "text": "و هر گاه خوبی به او رسد، بازدارنده [و بخیل] می‌گردد."
+        }
+      ]
+    },
+    {
+      "id": 5397,
+      "verse_number": 22,
+      "verse_key": "70:22",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928062,
+          "resource_id": 135,
+          "text": "مگر نمازگزاران؛"
+        }
+      ]
+    },
+    {
+      "id": 5398,
+      "verse_number": 23,
+      "verse_key": "70:23",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928063,
+          "resource_id": 135,
+          "text": "همان کسانی ‌که بر نمازهایشان همیشه پایداری می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 5399,
+      "verse_number": 24,
+      "verse_key": "70:24",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928064,
+          "resource_id": 135,
+          "text": "و کسانی‌ که در اموالشان، حق [معیّن و] معلومی است"
+        }
+      ]
+    },
+    {
+      "id": 5400,
+      "verse_number": 25,
+      "verse_key": "70:25",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928065,
+          "resource_id": 135,
+          "text": "برای مستمند و محروم؛"
+        }
+      ]
+    },
+    {
+      "id": 5401,
+      "verse_number": 26,
+      "verse_key": "70:26",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928066,
+          "resource_id": 135,
+          "text": "و [همان] کسانی ‌که روز جزا را تصدیق می‌کنند؛"
+        }
+      ]
+    },
+    {
+      "id": 5402,
+      "verse_number": 27,
+      "verse_key": "70:27",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928067,
+          "resource_id": 135,
+          "text": "و کسانی‌ که از عذاب پروردگارشان می‌ترسند."
+        }
+      ]
+    },
+    {
+      "id": 5403,
+      "verse_number": 28,
+      "verse_key": "70:28",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928068,
+          "resource_id": 135,
+          "text": "[چرا که] بی‌گمان، از عذاب پروردگارشان نمی‌توان ایمن بود."
+        }
+      ]
+    },
+    {
+      "id": 5404,
+      "verse_number": 29,
+      "verse_key": "70:29",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928069,
+          "resource_id": 135,
+          "text": "و کسانی ‌که شرمگاه‌هایشان را نگه می‌دارند؛"
+        }
+      ]
+    },
+    {
+      "id": 5405,
+      "verse_number": 30,
+      "verse_key": "70:30",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928070,
+          "resource_id": 135,
+          "text": "مگر با همسران و کنیزانی که مالک آنها هستند، که [در این صورت،] سرزنشی بر آنها نیست."
+        }
+      ]
+    },
+    {
+      "id": 5406,
+      "verse_number": 31,
+      "verse_key": "70:31",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928071,
+          "resource_id": 135,
+          "text": "اما هر کس فراتر از اینها را بخواهد، آنان متجاوزان هستند."
+        }
+      ]
+    },
+    {
+      "id": 5407,
+      "verse_number": 32,
+      "verse_key": "70:32",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928072,
+          "resource_id": 135,
+          "text": "و کسانی‌ که امانت‌ها و پیمان‌هایشان را رعایت می‌کنند،"
+        }
+      ]
+    },
+    {
+      "id": 5408,
+      "verse_number": 33,
+      "verse_key": "70:33",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928073,
+          "resource_id": 135,
+          "text": "و کسانی ‌که به شهادت‌های خود متعهدند،"
+        }
+      ]
+    },
+    {
+      "id": 5409,
+      "verse_number": 34,
+      "verse_key": "70:34",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928074,
+          "resource_id": 135,
+          "text": "و کسانی ‌که بر نمازشان پایداری می‌کنند."
+        }
+      ]
+    },
+    {
+      "id": 5410,
+      "verse_number": 35,
+      "verse_key": "70:35",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 504,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928075,
+          "resource_id": 135,
+          "text": "اینان در باغ‌های [بهشت] گرامی داشته می‌شوند."
+        }
+      ]
+    },
+    {
+      "id": 5411,
+      "verse_number": 36,
+      "verse_key": "70:36",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928076,
+          "resource_id": 135,
+          "text": "پس [ای پیامبر،] کافران را چه شده که به سوی تو می‌شتابند؟"
+        }
+      ]
+    },
+    {
+      "id": 5412,
+      "verse_number": 37,
+      "verse_key": "70:37",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928077,
+          "resource_id": 135,
+          "text": "[و] از راست و چپ، گروه‌گروه [بر مخالفت تو جمع می‌شوند و بر تو هجوم می‌آورند؟]"
+        }
+      ]
+    },
+    {
+      "id": 5413,
+      "verse_number": 38,
+      "verse_key": "70:38",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928078,
+          "resource_id": 135,
+          "text": "آیا هر کدام از آنها [با آن اعمال ناپسندش] طمع دارد که در بهشت پرنعمت [الهی] درآورده شود؟"
+        }
+      ]
+    },
+    {
+      "id": 5414,
+      "verse_number": 39,
+      "verse_key": "70:39",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 569,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928079,
+          "resource_id": 135,
+          "text": "هرگز چنین نیست! بی‌گمان، ما آنها را از آنچه [خود‌] می‌دانند آفریده‌ایم."
+        }
+      ]
+    },
+    {
+      "id": 5415,
+      "verse_number": 40,
+      "verse_key": "70:40",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928080,
+          "resource_id": 135,
+          "text": "به پروردگار مشرق‌ها و مغرب‌ها سوگند می‌خورم که قطعاً ما تواناییم"
+        }
+      ]
+    },
+    {
+      "id": 5416,
+      "verse_number": 41,
+      "verse_key": "70:41",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928081,
+          "resource_id": 135,
+          "text": "بر اینکه [کسان دیگری] بهتر از اینان را جایگزین کنیم؛ و ما [برای انجام این کار،] درمانده و ناتوان نیستیم."
+        }
+      ]
+    },
+    {
+      "id": 5417,
+      "verse_number": 42,
+      "verse_key": "70:42",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928082,
+          "resource_id": 135,
+          "text": "پس [ای پیامبر،] آنان را به حال خود واگذار تا در باطل خود فروروند و بازی کنند، تا به روزی برسند که به آنان وعده داده شده است."
+        }
+      ]
+    },
+    {
+      "id": 5418,
+      "verse_number": 43,
+      "verse_key": "70:43",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928083,
+          "resource_id": 135,
+          "text": "[همان] روزی ‌که شتابان از قبرها خارج می‌شوند؛ گویی به سوی بت‌ها [و معبودانشان] می‌دوند."
+        }
+      ]
+    },
+    {
+      "id": 5419,
+      "verse_number": 44,
+      "verse_key": "70:44",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 228,
+      "ruku_number": 505,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 570,
+      "juz_number": 29,
+      "translations": [
+        {
+          "id": 928084,
+          "resource_id": 135,
+          "text": "[در حالی که] چشم‌هایشان [از شرم و وحشت] به زیر افتاده و ذلت [و خواری،] آنان را پوشانده است. این همان روزی است که به آنان وعده داده می‌شد."
+        }
+      ]
+    }
+  ]
+}
