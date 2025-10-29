@@ -77,6 +77,11 @@ app.get('/api/tafsir/:slug/:ayah', async (req, res) => {
   }
 });
 
+app.get('/api/debug/surahs', async (req, res) => {
+  const list = await fetchSurahList();
+  res.json(list);
+});
+
 app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
 });
