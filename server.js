@@ -28,7 +28,23 @@ app.get('/api/surah/:id/translation/:translationId', (req, res) => {
     res.status(404).json({ error: 'Translation not found' });
   }
 });
-
+//گرفتن یک سوره خاص همراه با ترجمه
+app.get('/api/surah/:id/combined/:translationId/verse/:verseNumber', (req, res) => {
+  const { id, translationId, verseNumber } = req.params;
+  const script = req.query.script || 'uthmani';
+  const file = path.join('data/chapters', script, id, `combined_${translationId}.json`);
+  if (fs.existsSync(file)) {
+    const content = JSON.parse(fs.readFileSync(file, 'utf-8'));
+    const match = content.verses?.find(v => v.verse_number === Number(verseNumber));
+    if (match) {
+      res.json(match);
+    } else {
+      res.status(404).json({ error: 'Verse not found' });
+    }
+  } else {
+    res.status(404).json({ error: 'Combined file not found' });
+  }
+});
 // متن عربی همراه ترجمه فارسی ترکیبی
 app.get('/api/surah/:id/combined/:translationId', (req, res) => {
   const script = req.query.script || 'uthmani';
