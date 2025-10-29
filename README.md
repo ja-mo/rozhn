@@ -48,7 +48,7 @@
 ### 1️⃣ دریافت کد
 
 ```bash
-git clone https://github.com/yourusername/rozhn.git
+git clone https://github.com/ja-mo/rozhn.git
 cd rozhn
 ```
 
