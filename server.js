@@ -2,86 +2,71 @@ import express from 'express';
 import fs from 'fs';
 import path from 'path';
 import cors from 'cors';
-import { fetchSurahList, fetchSurahTafsir } from './services/fetchTafsirSaadi.js';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-
 app.use(cors());
 
-// لیست سوره‌ها
-app.get('/api/surahs', async (req, res) => {
-  const file = path.join('output/tafsir-saadi/index.json');
+// متن عربی سوره (مثلاً یاسین = 36)
+app.get('/api/surah/:id', (req, res) => {
+  const file = path.join('data/chapters/imlaei', `${req.params.id}.json`);
   if (fs.existsSync(file)) {
     res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
   } else {
-    try {
-      const list = await fetchSurahList(); // ساخت در لحظه
-      res.json(list);
-    } catch (err) {
-      res.status(500).json({ error: err.message });
-    }
+    res.status(404).json({ error: 'Surah not found' });
   }
 });
 
-// تفسیر یک سوره کامل
-app.get('/api/tafsir/:slug', async (req, res) => {
-  const slug = req.params.slug;
-  const file = path.join('output/tafsir-saadi', slug, 'verses.json');
+// ترجمه سوره به زبان خاص (fa, en, ...)
+app.get('/api/surah/:id/translation/:lang', (req, res) => {
+  const file = path.join('data/translations', req.params.lang, `${req.params.id}.json`);
   if (fs.existsSync(file)) {
     res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
   } else {
-    try {
-      const surahList = await fetchSurahList();
-      const surah = surahList.find(s => s.slug === slug);
-      if (!surah) return res.status(404).json({ error: 'Surah not found' });
-
-      const result = await fetchSurahTafsir(surah); // ساخت در لحظه
-      const verses = JSON.parse(fs.readFileSync(path.join(result.dir, 'verses.json'), 'utf-8'));
-      res.json(verses);
-    } catch (err) {
-      res.status(500).json({ error: err.message });
-    }
+    res.status(404).json({ error: 'Translation not found' });
   }
 });
 
-// تفسیر یک آیه خاص
-app.get('/api/tafsir/:slug/:ayah', async (req, res) => {
-  const { slug, ayah } = req.params;
-  const file = path.join('output/tafsir-saadi', slug, 'verses.json');
+// تفسیر سعدی برای یک سوره
+app.get('/api/tafsir/:id', (req, res) => {
+  const file = path.join('data/tafsir-saadi', req.params.id, 'verses.json');
   if (fs.existsSync(file)) {
-    const verses = JSON.parse(fs.readFileSync(file, 'utf-8'));
-    const match = verses.find(v => v.ayah === Number(ayah));
-    if (match) {
-      res.json(match);
-    } else {
-      res.status(404).json({ error: 'Ayah not found' });
-    }
+    res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
   } else {
-    try {
-      const surahList = await fetchSurahList();
-      const surah = surahList.find(s => s.slug === slug);
-      if (!surah) return res.status(404).json({ error: 'Surah not found' });
-
-      const result = await fetchSurahTafsir(surah);
-      const verses = JSON.parse(fs.readFileSync(path.join(result.dir, 'verses.json'), 'utf-8'));
-      const match = verses.find(v => v.ayah === Number(ayah));
-      if (match) {
-        res.json(match);
-      } else {
-        res.status(404).json({ error: 'Ayah not found' });
-      }
-    } catch (err) {
-      res.status(500).json({ error: err.message });
-    }
+    res.status(404).json({ error: 'Tafsir not found' });
   }
 });
 
-app.get('/api/debug/surahs', async (req, res) => {
-  const list = await fetchSurahList();
-  res.json(list);
+// لیست قاریان
+app.get('/api/reciters', (req, res) => {
+  const file = path.join('data/resources/recitations.json');
+  if (fs.existsSync(file)) {
+    res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
+  } else {
+    res.status(404).json({ error: 'Reciter list not found' });
+  }
+});
+
+// لیست ترجمه‌ها
+app.get('/api/translations', (req, res) => {
+  const file = path.join('data/resources/translations.json');
+  if (fs.existsSync(file)) {
+    res.json(JSON.parse(fs.readFileSync(file, 'utf-8')));
+  } else {
+    res.status(404).json({ error: 'Translation list not found' });
+  }
+});
+
+// فایل صوتی یک سوره از یک قاری خاص
+app.get('/api/audio/:reciter/:id', (req, res) => {
+  const file = path.join('data/reciters', req.params.reciter, `${req.params.id}.mp3`);
+  if (fs.existsSync(file)) {
+    res.sendFile(path.resolve(file));
+  } else {
+    res.status(404).json({ error: 'Audio not found' });
+  }
 });
 
 app.listen(PORT, () => {
-  console.log(`🚀 Server running on port ${PORT}`);
+  console.log(`🚀 Rozhn API running on port ${PORT}`);
 });
