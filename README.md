@@ -398,8 +398,7 @@ ls -la | grep .env
 ## 👨‍💻 نویسنده
 
 **Mohammad Jamalzadeh**
-- 📧 Email: your.email@example.com
-- 🔗 GitHub: [@yourusername](https://github.com/yourusername)
+- 🔗 GitHub: [@yourusername](https://github.com/ja-mo)
 
 ---
 
