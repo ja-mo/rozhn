@@ -1,14 +1,30 @@
 {
   "name": "rozhn",
   "version": "1.0.0",
-  "author": "Mohammad.Jamalzadeh",
-  "description": "یک پروژه NODEJS برای بازیابی و ذخیره اطلاعات سوره‌های قرآن از یک API عمومی.",
-  "main": "index.js",
+  "description": "رُژن | Quran Data & Tafsir Fetcher",
   "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "cli": "node index.js"
+  },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
     "axios": "^1.13.0",
-    "cheerio": "^1.1.2",
     "dotenv": "^17.2.3",
-    "express": "^4.18.2"
-  }
+  },
+  "keywords": [
+    "quran",
+    "tafsir",
+    "fetcher",
+    "api",
+    "flutter",
+    "saadi"
+  ],
+  "author": "Mohammad.Jamalzadeh",
+  "license": "MIT"
 }
+ 
