@@ -1,0 +1,13 @@
+{
+  "name": "rozhn",
+  "version": "1.0.0",
+  "author": "Mohammad.Jamalzadeh",
+  "description": "یک پروژه NODEJS برای بازیابی و ذخیره اطلاعات سوره‌های قرآن از یک API عمومی.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.13.0",
+    "cheerio": "^1.1.2",
+    "dotenv": "^17.2.3"
+  }
+}
