@@ -7,7 +7,9 @@ import { fetchReciters } from './services/fetchReciters.js';
 import { fetchTranslationResources } from './services/fetchTranslationResources.js';
 import { fetchReciterResources } from './services/fetchReciterResources.js';
 import { fetchTafsirSaadiAll, fetchTafsirSaadiOne } from './services/fetchTafsirSaadi.js';
+import { fetchTafsirResources } from './services/fetchTafsirResources.js';
 import { log } from './utils/logger.js';
+import { mergeTafsirSaadi } from './services/mergeTafsirSaadi.js';
 
 const args = process.argv.slice(2);
 const command = args[0];
@@ -16,18 +18,32 @@ const command = args[0];
   try {
     // 👇 اگر دستور تفسیر سعدی بود، بدون توکن اجرا کن
     if (command === 'fetchtafsirsaadi') {
-      const match = args[1];
-      if (match) {
-        await fetchTafsirSaadiOne(match);
+      const surahId = Number(args[1]) || null;
+      if (surahId) {
+        await fetchTafsirSaadiOne(surahId);
       } else {
         await fetchTafsirSaadiAll();
       }
       return;
     }
 
+
+
     const token = await getAccessToken();
 
     switch (command) {
+case 'mergetafsirsaadi': {
+  const surahId = Number(args[1]) || null;
+  await mergeTafsirSaadi(surahId);
+  break;
+}
+
+
+
+      case 'fetchtafsirresources':
+        await fetchTafsirResources(token);
+        break;
+
       // Arabic text for specific chapter or all
       case 'fetchchapter': {
         const chapterId = Number(args[1]) || null;
@@ -76,25 +92,24 @@ const command = args[0];
         break;
 
       default:
-    log('⚡ Running ALL tasks (default mode)...');
+        log('⚡ Running ALL tasks (default mode)...');
 
-    // متن عربی (عثمانی و املایی)
-    await fetchChapters(token, 'uthmani');
-    await fetchChapters(token, 'imlaei');
+        // متن عربی (عثمانی و املایی)
+        await fetchChapters(token, 'uthmani');
+        await fetchChapters(token, 'imlaei');
 
-    // ترجمه‌ها (مثال: فارسی 135 و انگلیسی 131)
-    await fetchTranslations(token, 135, 'uthmani');
+        // ترجمه‌ها (مثال: فارسی 135 و انگلیسی 131)
+        await fetchTranslations(token, 135, 'uthmani');
 
-    // فایل‌های ترکیبی
-    await fetchCombined(token, 135, 'uthmani');
+        // فایل‌های ترکیبی
+        await fetchCombined(token, 135, 'uthmani');
 
-    // لیست منابع ترجمه و قاریان
-    await fetchTranslationResources(token);
-    await fetchReciterResources(token);
+        // لیست منابع ترجمه و قاریان
+        await fetchTranslationResources(token);
+        await fetchReciterResources(token);
 
-    // ذخیره قاریان
-    await fetchReciters(token);
-
+        // ذخیره قاریان
+        await fetchReciters(token);
     }
 
     log('✅ Task(s) completed.');
